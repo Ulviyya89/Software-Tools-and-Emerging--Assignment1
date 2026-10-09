@@ -1,0 +1,1201 @@
+shipment_id,origin_city,destination_city,carrier,service_level,goods_type,customer_priority_tier,weather_condition,shipment_month,distance_km,weight_kg,num_stops,is_cross_border,scheduled_transit_hours,pickup_delay_minutes,driver_experience_years,vehicle_age_years,traffic_index,route_congestion_score,prior_late_deliveries_30d,fuel_cost_cad
+SHP-100968,Montreal QC,Regina SK,Contract Owner-Op,Standard,General Freight,Bronze,Clear,2,337.7,2055.0,4,0,8.99,10.0,6.3,1.6,26.9,0.616,3,127.24
+SHP-102198,Mississauga ON,Sudbury ON,PrairieLine,Express,General Freight,Gold,Rain,6,217.3,1128.2,4,0,7.82,34.0,5.1,0.9,48.0,0.436,1,247.32
+SHP-103146,Calgary AB,Sudbury ON,Contract Owner-Op,Standard,Refrigerated,Gold,Snow,3,261.1,785.0,0,0,2.57,88.0,10.3,4.2,67.2,0.241,0,315.59
+SHP-101707,Calgary AB,Quebec City QC,NorthStar Carriers,Standard,General Freight,Bronze,Storm,2,843.0,361.9,1,0,13.63,-20.0,3.3,2.8,48.7,0.252,2,295.16
+SHP-103235,Toronto ON,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,10,952.1,1526.2,1,1,12.67,51.0,14.2,2.3,49.0,0.456,1,
+SHP-104162,Mississauga ON,Quebec City QC,PrairieLine,Economy,General Freight,Bronze,Snow,2,482.9,413.2,4,0,9.4,86.0,4.1,9.3,64.6,0.467,1,140.72
+SHP-103145,Toronto ON,Calgary AB,QuebecExpress,Express,General Freight,Bronze,Clear,1,259.8,547.2,4,0,9.64,14.0,1.0,3.8,63.6,0.732,5,132.02
+SHP-102182,London ON,Montreal QC,MapleFreight Fleet,Economy,Refrigerated,Bronze,Snow,11,503.2,1914.6,5,0,11.51,17.0,2.9,4.2,65.9,0.298,0,130.44
+SHP-101957,Calgary AB,Quebec City QC,QuebecExpress,Standard,Hazardous,Bronze,Rain,11,484.5,2262.7,2,0,7.24,39.0,7.8,5.3,44.6,0.466,0,188.43
+SHP-105330,Calgary AB,Montreal QC,MapleFreight Fleet,Standard,General Freight,Silver,Clear,5,133.7,602100.0,3,0,2.61,5.0,1.9,2.3,51.9,0.685,3,112.07
+SHP-101319,Winnipeg MB,Sudbury ON,NorthStar Carriers,Standard,General Freight,Silver,Fog,6,852.8,1227.2,1,0,11.67,3.0,11.3,4.5,20.3,0.34,0,151.18
+SHP-101898,Toronto ON,Calgary AB,NorthStar Carriers,Standard,General Freight,Bronze,Storm,8,233.1,247.9,1,0,5.9,13.0,8.3,4.8,53.1,0.455,1,128.12
+SHP-102358,Calgary AB,Toronto ON,PrairieLine,Economy,General Freight,Bronze,Clear,12,531.1,122.0,3,0,10.15,14.0,7.1,0.9,50.5,0.655,3,167.0
+SHP-103892,Toronto ON,Edmonton AB,MapleFreight Fleet,Standard,Fragile,Bronze,Clear,10,521.3,530.1,3,0,10.77,35.0,7.5,1.7,43.7,0.378,3,220.92
+SHP-104433,Mississauga ON,Edmonton AB,QuebecExpress,Standard,Refrigerated,Silver,Clear,1,400.0,1082.5,0,1,6.1,26.0,3.6,7.8,29.9,0.847,0,197.53
+SHP-104447,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,1,346.0,1334.7,3,0,4.82,51.0,,7.6,64.1,0.371,2,
+SHP-102413,Calgary AB,Sudbury ON,NorthStar Carriers,Standard,General Freight,Bronze,Clear,5,530.6,831.2,0,0,4.74,-20.0,7.5,6.0,51.5,0.664,1,165.87
+SHP-101990,London ON,Toronto ON,QuebecExpress,Standard,General Freight,Bronze,Snow,10,1616.7,341.4,2,0,23.83,60.0,4.9,2.9,39.5,0.436,1,224.04
+SHP-104734,London ON,Ottawa ON,PrairieLine,Standard,Fragile,Silver,,11,526.7,1848.9,1,0,7.38,30.0,13.2,1.9,77.7,0.423,2,215.68
+SHP-102434,Montreal QC,Sudbury ON,MapleFreight Fleet,Express,Fragile,Silver,Clear,9,449.5,431.8,0,0,5.71,43.0,1.9,11.3,49.6,0.0,0,222.7
+SHP-102901,Mississauga ON,Calgary AB,NorthStar Carriers,Economy,Fragile,Silver,Rain,6,551.8,522.5,5,0,10.62,76.0,9.8,4.1,51.4,0.396,1,142.76
+SHP-100529,Mississauga ON,Ottawa ON,MapleFreight Fleet,Economy,Fragile,Silver,Clear,5,359.7,702.1,0,0,4.66,13.0,2.5,3.0,53.0,0.48,0,267.29
+SHP-101039,London ON,Edmonton AB,MapleFreight Fleet,Express,Bulk,Silver,Storm,6,402.0,423.9,0,0,5.72,8.0,1.6,2.0,38.9,0.407,0,226.45
+SHP-100947,Mississauga ON,Edmonton AB,MapleFreight Fleet,Economy,General Freight,Silver,Clear,7,295.6,451.9,1,0,4.73,15.0,3.0,6.5,55.7,0.407,2,111.14
+SHP-103497,Mississauga ON,Ottawa ON,QuebecExpress,Standard,General Freight,Silver,Clear,8,700.2,1278.0,4,0,14.82,-9.0,2.3,3.7,61.9,0.609,2,288.71
+SHP-104190,Montreal QC,Quebec City QC,PrairieLine,Standard,General Freight,Silver,Snow,12,959.3,418.8,0,0,12.61,-2.0,1.7,6.5,76.3,0.561,1,244.39
+SHP-100390,Winnipeg MB,Hamilton ON,PrairieLine,Economy,Refrigerated,Silver,Clear,6,126.9,760.3,4,0,6.23,55.0,7.5,3.9,51.1,0.408,1,193.35
+SHP-105788,Toronto ON,Regina SK,PrairieLine,Standard,General Freight,Silver,Rain,1,644.3,2397.5,1,0,10.26,1.0,1.4,8.0,29.3,0.747,0,122.45
+SHP-102356,Toronto ON,Winnipeg MB,Contract Owner-Op,Standard,General Freight,Gold,Snow,10,1327.4,439.2,3,0,20.71,-8.0,,2.3,43.0,0.288,0,211.82
+SHP-102982,Mississauga ON,Regina SK,MapleFreight Fleet,Standard,Refrigerated,Silver,Clear,7,1231.9,575.0,5,0,18.52,-20.0,3.8,8.8,61.5,0.158,1,258.97
+SHP-104703,Calgary AB,Montreal QC,PrairieLine,Express,Refrigerated,Bronze,Snow,11,284.2,394.3,5,0,9.41,59.0,7.3,4.9,42.4,0.356,2,
+SHP-101406,Calgary AB,Winnipeg MB,PrairieLine,Standard,Fragile,Bronze,Rain,10,513.7,587.6,3,0,8.55,33.0,11.8,1.6,53.8,0.457,1,
+SHP-102780,Mississauga ON,Sudbury ON,QuebecExpress,Express,General Freight,Gold,Snow,12,659.0,375.4,0,0,9.56,12.0,2.9,8.3,38.6,0.699,0,215.04
+SHP-104819,Calgary AB,Montreal QC,Contract Owner-Op,Economy,General Freight,Gold,Clear,4,264.7,286.3,2,0,8.42,42.0,5.5,11.1,41.0,0.265,0,137.04
+SHP-102006,Montreal QC,Regina SK,MapleFreight Fleet,Express,General Freight,Silver,Snow,10,576.7,1035.5,4,0,12.74,-20.0,7.1,8.4,48.7,0.575,0,316.58
+SHP-102099,Winnipeg MB,Edmonton AB,MapleFreight Fleet,Express,General Freight,Silver,Clear,9,862.2,1632.7,1,0,12.57,85.0,0.8,4.8,51.8,0.5,2,209.49
+SHP-103289,Mississauga ON,Edmonton AB,QuebecExpress,Economy,General Freight,Silver,Clear,12,1003.8,912.5,5,0,18.4,36.0,4.2,1.9,59.2,0.239,2,157.56
+SHP-104347,Montreal QC,Winnipeg MB,QuebecExpress,Economy,General Freight,Bronze,Clear,9,1011.3,977.4,1,0,16.62,54.0,12.2,1.0,53.4,0.535,1,91.01
+SHP-102897,Calgary AB,Quebec City QC,PrairieLine,Standard,Fragile,Bronze,Clear,8,284.2,713.0,0,0,5.81,-20.0,6.0,6.0,51.5,0.61,7,184.22
+SHP-104995,Montreal QC,Winnipeg MB,NorthStar Carriers,Standard,Refrigerated,Silver,Storm,1,841.6,1355.6,2,0,13.98,31.0,,9.6,82.1,0.612,0,162.73
+SHP-101074,Montreal QC,Edmonton AB,QuebecExpress,Standard,Refrigerated,Gold,Rain,2,564.6,1094.4,2,0,6.93,14.0,10.2,3.7,84.4,0.405,0,46.71
+SHP-100563,Montreal QC,Montreal QC,MapleFreight Fleet,Standard,Hazardous,Bronze,Clear,6,1024.1,2022.5,3,0,15.32,60.0,6.6,3.3,58.3,0.586,2,218.25
+SHP-102377,Toronto ON,Ottawa ON,NorthStar Carriers,Economy,Fragile,Silver,Clear,9,1175.2,954.7,0,0,16.13,9.0,,10.2,24.0,0.72,1,139.91
+SHP-100431,Winnipeg MB,Montreal QC,NorthStar Carriers,Express,General Freight,Silver,Rain,9,250.1,101.1,5,0,8.5,45.0,2.3,3.4,67.7,0.328,1,154.76
+SHP-102078,Winnipeg MB,Regina SK,MapleFreight Fleet,Standard,Bulk,Gold,Snow,6,653.7,4218.9,2,1,9.08,38.0,6.1,2.6,,0.506,1,147.37
+SHP-105700,Calgary AB,Hamilton ON,NorthStar Carriers,Express,Hazardous,Bronze,Rain,6,799.1,390.7,1,0,12.66,23.0,8.8,1.3,66.3,0.662,0,
+SHP-105576,Montreal QC,Quebec City QC,QuebecExpress,Express,Hazardous,Gold,Clear,9,908.3,1987.0,5,0,15.34,58.0,8.8,5.0,48.3,0.0,0,228.88
+SHP-105444,Ottawa ON,Edmonton AB,NorthStar Carriers,Express,Bulk,Silver,Clear,10,757.7,780.8,4,0,12.96,-15.0,12.6,8.6,70.7,0.774,0,245.39
+SHP-100639,Montreal QC,Regina SK,NorthStar Carriers,Express,Hazardous,Silver,Clear,6,217.4,1878.9,3,0,3.82,50.0,3.6,15.1,71.8,0.959,3,145.54
+SHP-100210,Toronto ON,Toronto ON,MapleFreight Fleet,Economy,General Freight,Silver,Clear,12,958.0,1276.8,1,0,14.05,26.0,3.8,3.6,61.8,0.514,3,218.65
+SHP-105454,Calgary AB,Montreal QC,MapleFreight Fleet,Standard,Refrigerated,Bronze,Clear,4,1329.8,184.3,0,0,18.98,8.0,10.5,8.3,58.3,0.483,2,244.79
+SHP-105274,Ottawa ON,Toronto ON,QuebecExpress,Standard,General Freight,Bronze,Rain,2,413.8,1103.6,3,0,5.64,28.0,8.4,5.1,36.0,0.417,1,166.55
+SHP-103365,Ottawa ON,Ottawa ON,MapleFreight Fleet,Standard,General Freight,Gold,Clear,7,883.8,349.0,4,0,14.38,-20.0,0.8,4.0,71.5,0.503,5,271.7
+SHP-103924,Toronto ON,Sudbury ON,MapleFreight Fleet,Express,General Freight,Silver,Rain,6,886.2,1499.7,1,0,10.32,28.0,0.9,5.7,94.5,0.238,0,231.57
+SHP-104140,London ON,Regina SK,MapleFreight Fleet,Standard,General Freight,Bronze,Rain,11,498.9,2470.4,5,0,10.55,-20.0,17.2,12.3,57.4,0.248,1,94.62
+SHP-104637,Ottawa ON,Montreal QC,MapleFreight Fleet,Standard,General Freight,Bronze,Rain,9,894.8,943.7,4,0,15.58,2.0,6.7,3.1,74.6,0.303,0,98.19
+SHP-105670,Calgary AB,Regina SK,MapleFreight Fleet,Express,Refrigerated,Silver,Clear,8,658.1,1015.3,3,0,11.47,14.0,2.6,4.1,50.8,0.592,2,190.48
+SHP-100936,Toronto ON,Calgary AB,PrairieLine,Standard,Hazardous,Silver,Storm,7,1511.6,1118.6,5,0,26.39,-0.0,7.6,6.1,78.1,0.538,0,148.5
+SHP-100710,Ottawa ON,Hamilton ON,QuebecExpress,Economy,General Freight,Gold,Clear,1,1033.9,732.2,3,0,17.49,-20.0,4.9,2.5,45.8,0.42,1,164.02
+SHP-104287,Mississauga ON,Regina SK,MapleFreight Fleet,Standard,General Freight,Silver,Snow,5,451.7,844.2,0,0,6.41,14.0,4.2,1.4,76.0,0.388,1,179.41
+SHP-105813,Montreal QC,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Silver,Rain,9,1321.9,1018.8,1,0,17.81,-20.0,5.9,1.7,77.0,0.316,0,223.29
+SHP-103465,Winnipeg MB,Ottawa ON,Contract Owner-Op,Economy,General Freight,Bronze,Clear,10,307.2,785.0,0,0,5.68,5.0,7.0,1.3,51.7,0.328,2,68.66
+SHP-100233,Calgary AB,Calgary AB,PrairieLine,Standard,Refrigerated,Silver,Clear,11,900.4,766.7,1,1,12.31,49.0,5.3,11.0,48.6,0.575,0,193.07
+SHP-100060,Montreal QC,Hamilton ON,PrairieLine,Standard,Refrigerated,Gold,Snow,2,352.5,2817.4,0,0,3.83,-12.0,9.8,2.7,58.1,0.381,1,127.35
+SHP-105503,Calgary AB,Winnipeg MB,QuebecExpress,Standard,General Freight,Silver,Clear,9,406.6,267.5,0,0,5.23,11.0,12.1,5.1,62.0,0.229,0,177.15
+SHP-101344,Montreal QC,Sudbury ON,MapleFreight Fleet,Express,Refrigerated,Gold,Clear,1,887.8,394.0,4,0,16.06,48.0,9.2,4.0,59.0,0.35,1,
+SHP-104548,Toronto ON,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Silver,Rain,4,812.6,902.0,2,0,11.96,56.0,5.3,2.8,53.3,0.118,5,260.76
+SHP-105717,Ottawa ON,Edmonton AB,MapleFreight Fleet,Standard,Fragile,Bronze,Rain,10,751.1,733.0,0,0,10.5,60.0,1.2,2.9,58.2,0.667,0,88.48
+SHP-105493,Montreal QC,Calgary AB,QuebecExpress,Express,Bulk,Gold,Rain,4,322.0,1218.3,2,0,5.61,26.0,6.7,4.1,36.4,0.366,1,52.59
+SHP-105713,Ottawa ON,Edmonton AB,PrairieLine,Standard,Fragile,Silver,Clear,9,458.1,1297.0,2,0,9.95,0.0,5.1,5.8,35.4,0.469,1,143.11
+SHP-101182,Toronto ON,Montreal QC,QuebecExpress,Standard,Hazardous,Bronze,Fog,4,926.5,800.8,3,0,12.19,23.0,4.5,5.4,84.9,0.591,1,254.66
+SHP-102442,Toronto ON,Montreal QC,PrairieLine,Express,Fragile,Silver,Clear,5,636.9,2983.8,2,0,8.99,27.0,1.4,2.0,89.8,0.6,1,78.02
+SHP-105326,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Economy,General Freight,Gold,Snow,11,446.4,689.1,5,0,10.13,70.0,4.8,7.8,54.6,0.454,2,273.72
+SHP-100315,Mississauga ON,Winnipeg MB,NorthStar Carriers,Standard,Refrigerated,Silver,,2,576.1,1998.1,1,0,8.44,-16.0,4.9,10.5,61.9,0.364,0,189.91
+SHP-101088,Montreal QC,Regina SK,QuebecExpress,Economy,Refrigerated,Silver,Rain,9,305.5,715.1,0,0,3.54,6.0,7.0,7.3,77.5,0.179,1,126.08
+SHP-104077,Montreal QC,Winnipeg MB,MapleFreight Fleet,Standard,Hazardous,Gold,Fog,6,517.7,786.7,5,0,9.39,31.0,2.4,6.2,90.0,0.734,0,163.48
+SHP-102529,Toronto ON,Edmonton AB,NorthStar Carriers,Express,Bulk,Bronze,Clear,6,423.6,272.6,4,0,8.44,-2.0,7.6,3.1,52.6,0.17,0,195.79
+SHP-102526,Ottawa ON,Sudbury ON,PrairieLine,Standard,General Freight,Bronze,Clear,1,563.7,1999.7,5,1,11.19,-18.0,1.8,1.9,83.0,0.635,1,117.67
+SHP-100032,Toronto ON,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Bronze,Rain,8,559.5,394.9,3,0,9.77,27.0,3.9,5.0,72.6,0.501,1,154.19
+SHP-105957,Mississauga ON,Winnipeg MB,PrairieLine,Economy,General Freight,Silver,Clear,11,1145.4,886.0,2,0,17.42,-14.0,6.9,5.1,31.9,0.447,2,241.7
+SHP-104383,Ottawa ON,Regina SK,Contract Owner-Op,Standard,Refrigerated,Bronze,Clear,12,614.7,76.6,3,0,10.47,47.0,32.8,4.3,65.5,0.653,2,142.26
+SHP-101425,Ottawa ON,Hamilton ON,Contract Owner-Op,Standard,General Freight,Bronze,Rain,12,1048.3,1874.8,5,0,17.33,-7.0,6.4,0.8,46.9,0.574,1,197.74
+SHP-102241,Montreal QC,Regina SK,PrairieLine,Economy,General Freight,Bronze,Rain,5,249.9,549.6,1,0,2.44,25.0,5.8,2.5,77.0,0.528,3,179.7
+SHP-104019,Calgary AB,Sudbury ON,QuebecExpress,Express,General Freight,Bronze,Clear,7,737.3,749.2,4,0,12.86,44.0,10.8,5.3,44.5,0.442,2,94.81
+SHP-103553,Montreal QC,Calgary AB,QuebecExpress,Standard,General Freight,Bronze,Rain,9,337.1,1429.3,4,0,7.45,-3.0,15.2,4.9,69.9,0.579,0,247.39
+SHP-104556,Montreal QC,Toronto ON,QuebecExpress,Economy,General Freight,Gold,Rain,3,422.8,251.3,2,0,9.14,-20.0,2.2,3.0,29.1,0.949,1,246.57
+SHP-100931,Mississauga ON,Montreal QC,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,3,455.9,1059.7,2,0,8.98,13.0,1.4,5.5,70.9,0.33,3,182.61
+SHP-103617,Calgary AB,Regina SK,PrairieLine,Standard,General Freight,Silver,Snow,10,685.4,89.2,2,0,10.07,20.0,7.1,4.1,76.6,0.626,1,261.26
+SHP-101904,Ottawa ON,Winnipeg MB,Contract Owner-Op,Express,Refrigerated,Silver,Rain,1,1094.3,1255.1,2,0,19.15,-11.0,8.7,5.0,47.5,0.355,1,178.7
+SHP-103436,Ottawa ON,Winnipeg MB,PrairieLine,Express,General Freight,Gold,Snow,10,745.6,473.2,1,0,9.25,-20.0,4.5,8.6,26.8,0.422,1,187.37
+SHP-102610,Mississauga ON,Regina SK,MapleFreight Fleet,Express,General Freight,Silver,Rain,8,1172.1,574.6,1,0,17.07,-20.0,,5.8,53.6,0.442,2,183.07
+SHP-103477,Toronto ON,Montreal QC,MapleFreight Fleet,Standard,General Freight,Bronze,Rain,1,646.2,1581.2,1,0,10.5,-20.0,1.3,5.0,60.1,0.168,2,133.05
+SHP-103333,Toronto ON,Winnipeg MB,MapleFreight Fleet,Economy,General Freight,Gold,Clear,10,1267.1,171.9,0,0,18.78,-20.0,11.8,7.8,36.5,0.717,2,356.29
+SHP-102409,Calgary AB,Edmonton AB,NorthStar Carriers,Express,General Freight,Silver,Snow,9,533.5,1257.4,0,0,6.21,90.0,4.5,6.9,80.5,0.91,1,163.55
+SHP-102831,Toronto ON,Regina SK,MapleFreight Fleet,Economy,Refrigerated,Silver,Rain,3,527.4,636.3,0,0,7.82,-20.0,6.9,4.9,59.3,0.807,1,180.51
+SHP-102813,Mississauga ON,Edmonton AB,MapleFreight Fleet,Economy,Bulk,Gold,Clear,3,764.2,814.7,3,0,11.44,51.0,2.5,4.8,,0.304,1,76.77
+SHP-100303,Winnipeg MB,Calgary AB,MapleFreight Fleet,Economy,General Freight,Gold,Storm,8,687.4,1339.1,2,0,9.91,31.0,7.3,5.5,49.7,0.556,3,210.96
+SHP-100927,Ottawa ON,Hamilton ON,NorthStar Carriers,Standard,Bulk,Gold,Clear,1,548.8,1143.0,5,0,10.92,11.0,13.8,3.9,63.6,0.19,1,262.5
+SHP-100577,Ottawa ON,Sudbury ON,MapleFreight Fleet,Standard,Fragile,Gold,Rain,11,908.1,998.5,5,0,16.76,48.0,6.4,5.8,58.8,0.312,2,187.98
+SHP-101127,Calgary AB,Ottawa ON,Contract Owner-Op,Express,General Freight,Silver,Clear,3,798.3,188.6,4,0,13.93,52.0,5.0,1.1,46.9,0.633,1,186.94
+SHP-104843,Mississauga ON,Montreal QC,MapleFreight Fleet,Economy,Bulk,Bronze,Clear,3,661.9,1732.1,0,0,8.18,18.0,10.0,5.6,36.9,0.085,3,198.38
+SHP-100208,London ON,Edmonton AB,NorthStar Carriers,Standard,Fragile,Silver,Fog,6,474.1,1110.8,0,0,6.3,28.0,6.4,2.0,81.9,0.404,0,169.35
+SHP-105000,Mississauga ON,Toronto ON,MapleFreight Fleet,Express,General Freight,Silver,Rain,9,767.0,989.8,1,0,12.31,-20.0,7.6,8.7,39.3,0.618,1,110.22
+SHP-102382,Winnipeg MB,Toronto ON,Contract Owner-Op,Express,General Freight,Silver,Clear,3,699.7,1214.3,0,0,8.25,83.0,5.0,4.5,47.6,0.634,0,79.84
+SHP-100520,Ottawa ON,Hamilton ON,QuebecExpress,Standard,Bulk,Silver,Clear,1,364.7,1367.9,3,0,8.11,17.0,1.5,3.9,80.3,0.116,1,305.29
+SHP-101759,London ON,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,10,626.0,430.2,4,0,10.98,-16.0,25.1,7.9,,0.566,1,88.33
+SHP-101132,Mississauga ON,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,5,524.0,334.4,1,0,7.93,45.0,9.7,3.1,49.8,0.164,0,75.35
+SHP-104114,Montreal QC,Regina SK,QuebecExpress,Express,General Freight,Silver,Rain,10,596.3,2623.0,0,0,10.9,-18.0,11.7,2.1,60.2,0.488,1,42.03
+SHP-103483,Toronto ON,Toronto ON,PrairieLine,Standard,General Freight,Bronze,Clear,11,364.2,2218.8,0,0,6.57,33.0,17.2,0.8,61.9,0.757,0,265.84
+SHP-105281,Winnipeg MB,Winnipeg MB,PrairieLine,Standard,General Freight,Gold,Clear,9,998.9,646.2,0,0,12.39,14.0,4.5,2.6,69.4,0.835,3,232.39
+SHP-100995,London ON,Winnipeg MB,MapleFreight Fleet,Economy,General Freight,Gold,Snow,5,400.6,1262.8,3,0,8.46,69.0,5.5,6.9,51.8,0.214,4,147.85
+SHP-105074,Toronto ON,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,8,487.5,1158.7,1,0,9.3,-20.0,5.8,2.6,59.2,0.349,1,139.76
+SHP-103250,Mississauga ON,Hamilton ON,PrairieLine,Standard,Refrigerated,Bronze,Rain,12,731.9,1437.9,3,0,13.37,45.0,4.4,3.4,86.0,0.628,0,217.35
+SHP-101310,Ottawa ON,Edmonton AB,MapleFreight Fleet,Standard,Hazardous,Gold,Storm,2,412.9,203.5,4,0,9.78,10.0,6.1,1.0,55.3,0.433,1,236.56
+SHP-104486,Toronto ON,Edmonton AB,NorthStar Carriers,Standard,General Freight,Silver,Clear,1,772.2,1227.4,3,0,14.04,-5.0,9.9,11.9,74.7,0.968,2,202.99
+SHP-102930,Toronto ON,Ottawa ON,Contract Owner-Op,Standard,General Freight,Silver,Rain,11,674.9,177.9,5,0,12.93,-20.0,0.6,10.6,51.3,0.654,3,206.63
+SHP-105905,Ottawa ON,Regina SK,PrairieLine,Standard,Refrigerated,Silver,Clear,11,486.9,632.2,1,0,7.94,39.0,2.2,7.1,28.4,0.295,1,243.05
+SHP-100744,Toronto ON,Montreal QC,PrairieLine,Standard,Bulk,Silver,Fog,8,234.7,844.6,0,0,2.24,77.0,10.3,13.4,43.8,0.657,0,234.01
+SHP-102507,London ON,Toronto ON,NorthStar Carriers,Economy,Hazardous,Silver,Snow,10,338.3,1306.5,2,0,7.06,56.0,2.2,3.2,100.0,0.366,1,
+SHP-101974,Ottawa ON,Ottawa ON,Contract Owner-Op,Express,General Freight,Bronze,Rain,4,1206.4,433.6,2,0,19.49,30.0,3.5,3.1,96.2,0.404,4,235.09
+SHP-105693,Montreal QC,Edmonton AB,MapleFreight Fleet,Standard,Bulk,Bronze,Clear,4,518.6,1459.3,0,0,5.25,2.0,6.5,5.0,54.2,0.081,0,215.62
+SHP-100996,Calgary AB,Montreal QC,MapleFreight Fleet,Standard,Fragile,Bronze,Clear,11,703.2,125.3,2,0,12.69,34.0,8.0,5.2,46.2,0.278,0,182.74
+SHP-105932,Montreal QC,Toronto ON,Contract Owner-Op,Express,Bulk,Silver,Clear,6,1036.3,487.2,3,0,17.15,39.0,8.7,7.3,46.8,0.451,2,187.63
+SHP-104871,Montreal QC,Edmonton AB,QuebecExpress,Standard,Hazardous,Silver,Clear,2,967.4,809.2,1,0,14.74,43.0,12.2,3.3,59.8,0.934,0,209.17
+SHP-100703,Montreal QC,Quebec City QC,MapleFreight Fleet,Standard,Fragile,Silver,Fog,4,454.2,553.9,0,0,6.42,4.0,,1.1,50.5,0.2,3,139.2
+SHP-104523,Winnipeg MB,Hamilton ON,QuebecExpress,Standard,Bulk,Gold,,1,429.1,332.1,2,0,6.85,-12.0,3.5,10.0,59.6,0.624,0,194.99
+SHP-104838,Mississauga ON,Montreal QC,NorthStar Carriers,Standard,Fragile,Silver,Clear,6,1174.8,1635.5,2,0,17.04,63.0,16.5,5.6,41.0,0.299,4,72.13
+SHP-102668,Calgary AB,Calgary AB,MapleFreight Fleet,Standard,General Freight,Gold,Storm,9,450.8,1078.5,3,0,9.96,46.0,5.1,13.8,46.3,0.485,3,175.29
+SHP-105228,Ottawa ON,Quebec City QC,Contract Owner-Op,Economy,General Freight,Silver,Clear,2,905.6,381.0,3,1,14.71,7.0,12.7,6.4,52.2,0.638,1,53.98
+SHP-104094,Toronto ON,Ottawa ON,MapleFreight Fleet,Express,Hazardous,Gold,Snow,10,226.4,848.2,1,0,4.42,56.0,6.1,3.0,30.2,0.506,2,143.69
+SHP-103753,Toronto ON,Winnipeg MB,PrairieLine,Standard,Hazardous,Silver,Clear,6,269.4,677.6,0,0,3.89,22.0,5.0,9.2,60.5,0.29,2,263.32
+SHP-100682,Montreal QC,Calgary AB,PrairieLine,Express,Fragile,Bronze,Clear,4,301.8,379.2,4,0,5.93,50.0,5.1,4.0,59.7,0.079,2,177.24
+SHP-101392,Toronto ON,Toronto ON,PrairieLine,Standard,Hazardous,Silver,Clear,12,763.9,453.1,1,0,10.07,7.0,4.3,6.4,78.9,0.495,2,154.19
+SHP-101179,Montreal QC,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Silver,Rain,3,202.2,1263.5,4,0,5.34,3.0,12.9,8.0,58.4,0.691,1,
+SHP-102808,Toronto ON,Toronto ON,MapleFreight Fleet,Standard,Bulk,Silver,Snow,7,1147.6,241.3,1,0,15.42,-20.0,1.5,6.2,70.6,0.525,3,231.53
+SHP-100124,Montreal QC,Edmonton AB,MapleFreight Fleet,Economy,General Freight,Bronze,Rain,3,487.9,586.1,3,0,10.47,64.0,10.2,2.4,73.1,0.428,3,188.71
+SHP-102888,Ottawa ON,Ottawa ON,QuebecExpress,Standard,Fragile,Gold,Clear,6,544.6,2827.7,2,0,9.41,50.0,8.8,3.4,55.5,0.455,1,229.64
+SHP-102135,Montreal QC,Hamilton ON,MapleFreight Fleet,Economy,Hazardous,Silver,Rain,7,421.8,276.7,2,0,6.13,122.0,7.9,7.8,57.0,0.879,1,119.25
+SHP-101396,Toronto ON,Sudbury ON,MapleFreight Fleet,Express,General Freight,Gold,Rain,1,349.6,340.1,2,0,5.82,30.0,5.3,3.0,91.3,0.686,0,210.41
+SHP-105919,Toronto ON,Toronto ON,QuebecExpress,Standard,General Freight,Silver,Clear,5,720.6,530.8,5,0,13.03,-20.0,0.7,5.6,70.9,0.345,0,169.47
+SHP-102543,Montreal QC,Winnipeg MB,MapleFreight Fleet,Standard,Refrigerated,Silver,Fog,1,214.8,868.3,5,0,5.65,30.0,4.4,5.2,26.6,0.772,3,182.01
+SHP-105564,Montreal QC,Ottawa ON,MapleFreight Fleet,Standard,Fragile,Bronze,Clear,11,565.0,877.6,1,0,8.44,36.0,6.8,2.2,69.4,0.197,0,138.27
+SHP-102807,London ON,Montreal QC,MapleFreight Fleet,Standard,General Freight,Silver,Rain,12,375.0,396.6,5,0,7.95,70.0,,4.8,57.1,0.568,2,262.15
+SHP-101788,Toronto ON,Sudbury ON,MapleFreight Fleet,Economy,Bulk,Silver,Clear,11,433.5,1570.4,0,0,5.69,35.0,3.7,7.6,58.0,0.625,2,148.43
+SHP-101806,Toronto ON,Toronto ON,PrairieLine,Standard,Hazardous,Silver,Clear,2,1098.6,825.9,5,0,19.37,-3.0,4.0,5.9,41.9,0.421,2,221.86
+SHP-102682,Montreal QC,Calgary AB,QuebecExpress,Express,General Freight,Gold,Rain,11,636.2,1003.9,3,1,9.56,59.0,5.5,3.7,67.2,0.411,1,
+SHP-105527,Ottawa ON,Toronto ON,NorthStar Carriers,Standard,General Freight,Silver,,6,199.1,469.6,1,0,2.92,21.0,5.3,3.0,16.0,0.38,2,300.72
+SHP-101742,Montreal QC,Montreal QC,MapleFreight Fleet,Standard,General Freight,Bronze,Storm,7,853.3,438.4,4,0,15.14,12.0,,0.4,68.4,0.296,3,
+SHP-104689,London ON,Regina SK,MapleFreight Fleet,Economy,General Freight,Silver,Clear,1,608.6,617.8,3,0,13.31,64.0,3.1,8.5,73.6,0.275,1,
+SHP-103631,Montreal QC,Winnipeg MB,NorthStar Carriers,Standard,Refrigerated,Silver,Snow,5,1422.4,797.1,5,0,23.56,45.0,9.7,3.2,71.8,0.079,1,56.78
+SHP-103081,Montreal QC,Regina SK,QuebecExpress,Standard,General Freight,Silver,Clear,6,656.1,527.3,3,0,11.35,-17.0,1.7,5.3,82.6,0.435,2,78.4
+SHP-101391,Winnipeg MB,Sudbury ON,Contract Owner-Op,Economy,Refrigerated,Bronze,Clear,8,529.4,499.1,1,0,6.41,23.0,8.3,4.0,60.5,0.39,1,209.76
+SHP-103878,Montreal QC,Winnipeg MB,PrairieLine,Standard,Refrigerated,Silver,Rain,5,629.2,1202.3,2,0,7.24,-20.0,14.1,6.0,22.3,0.246,0,154.65
+SHP-100277,Toronto ON,Montreal QC,Contract Owner-Op,Standard,General Freight,Bronze,Fog,3,679.1,753.1,1,0,13.1,-0.0,11.9,15.6,50.4,0.797,1,288.37
+SHP-104609,Calgary AB,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Gold,Clear,12,247.4,1576.4,4,0,7.09,-6.0,17.5,2.8,82.4,0.328,2,127.45
+SHP-101364,London ON,Sudbury ON,MapleFreight Fleet,Standard,Bulk,Bronze,Rain,8,1060.0,1518.0,2,1,17.25,-5.0,,3.4,43.6,0.282,0,207.86
+SHP-105577,Mississauga ON,Regina SK,MapleFreight Fleet,Express,Bulk,Gold,Clear,12,156.2,1085.7,2,0,3.8,33.0,12.4,2.3,80.5,0.421,2,177.98
+SHP-102912,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Standard,Fragile,Bronze,Clear,2,303.5,1819.2,4,1,8.31,-20.0,4.1,11.1,83.8,0.491,4,217.6
+SHP-101598,Montreal QC,Sudbury ON,NorthStar Carriers,Standard,General Freight,Bronze,Snow,9,879.1,1692.1,5,0,14.71,14.0,2.3,4.1,43.2,0.272,1,190.88
+SHP-105211,Calgary AB,Edmonton AB,Contract Owner-Op,Standard,Hazardous,Silver,Fog,4,479.4,1555.0,3,0,9.71,31.0,7.2,5.3,54.9,0.494,2,204.41
+SHP-103891,Toronto ON,Hamilton ON,MapleFreight Fleet,Standard,Hazardous,Bronze,Storm,1,985.2,2155.1,5,0,17.42,-5.0,4.3,1.2,38.0,0.654,2,158.57
+SHP-101605,Mississauga ON,Ottawa ON,PrairieLine,Standard,Refrigerated,Gold,Clear,12,518.8,2537.3,1,0,6.49,38.0,,14.9,73.7,0.278,0,147.98
+SHP-101628,Toronto ON,Sudbury ON,QuebecExpress,Express,General Freight,Bronze,Rain,9,880.7,1266.2,0,0,12.4,-14.0,3.4,1.3,21.6,0.485,0,101.84
+SHP-102591,Montreal QC,Quebec City QC,MapleFreight Fleet,Express,Fragile,Bronze,Rain,11,343.1,753.7,2,0,6.33,-10.0,16.6,3.4,41.2,0.512,0,78.87
+SHP-103040,Toronto ON,Regina SK,MapleFreight Fleet,Economy,General Freight,Bronze,Clear,5,374.5,1065.2,1,1,5.1,41.0,11.8,11.6,69.8,0.171,2,179.01
+SHP-101954,Winnipeg MB,Hamilton ON,NorthStar Carriers,Standard,General Freight,Silver,Clear,11,1034.4,157.5,5,0,17.84,41.0,3.4,6.9,46.9,0.219,2,190.65
+SHP-101920,Winnipeg MB,Calgary AB,NorthStar Carriers,Standard,General Freight,Gold,Rain,11,683.7,304.1,3,0,11.96,14.0,2.8,2.9,47.6,0.535,1,178.71
+SHP-100884,Mississauga ON,Sudbury ON,MapleFreight Fleet,Economy,Refrigerated,Silver,Rain,1,746.7,1329.0,1,0,10.18,66.0,,2.4,24.7,0.472,2,147.47
+SHP-104063,Montreal QC,Toronto ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,4,802.1,1318.2,4,0,13.71,25.0,8.5,5.0,40.8,0.337,1,118.69
+SHP-105655,Toronto ON,Calgary AB,NorthStar Carriers,Economy,Refrigerated,Silver,Snow,4,1113.6,582.8,4,0,18.29,23.0,4.1,5.8,55.2,0.302,2,225.27
+SHP-102380,Calgary AB,Montreal QC,PrairieLine,Express,General Freight,Gold,Clear,4,559.5,389.0,2,0,10.4,-20.0,5.5,4.2,97.9,0.642,1,157.02
+SHP-100203,Ottawa ON,Edmonton AB,Contract Owner-Op,Standard,General Freight,Silver,Clear,12,626.8,510.9,3,0,10.42,-9.0,2.7,6.0,99.3,0.303,0,146.64
+SHP-100382,Mississauga ON,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,8,819.6,647.4,4,0,14.13,-20.0,4.5,2.8,43.6,0.292,0,214.53
+SHP-100713,Montreal QC,Toronto ON,MapleFreight Fleet,Standard,Fragile,Bronze,Clear,5,857.2,190.6,1,0,10.29,4.0,12.0,13.1,55.0,0.434,0,130.47
+SHP-105550,Mississauga ON,Montreal QC,MapleFreight Fleet,Economy,Refrigerated,Gold,Rain,12,623.5,565.7,1,0,9.61,66.0,4.2,3.9,80.8,0.593,1,93.14
+SHP-101361,Mississauga ON,Hamilton ON,MapleFreight Fleet,Express,Hazardous,Silver,Clear,3,570.1,832.9,1,1,8.96,3.0,15.6,6.7,63.3,0.284,0,138.35
+SHP-102272,Toronto ON,Montreal QC,MapleFreight Fleet,Standard,Bulk,Gold,Clear,9,929.6,1629.4,5,0,15.52,-20.0,9.5,8.3,42.7,0.393,4,
+SHP-105996,Toronto ON,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,1,626.9,562.7,5,0,12.93,44.0,5.6,11.3,55.0,0.485,2,133.22
+SHP-101067,Winnipeg MB,Ottawa ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,6,716.4,629.8,4,0,13.2,25.0,2.4,4.8,74.7,0.69,0,154.64
+SHP-101490,Ottawa ON,Edmonton AB,PrairieLine,Standard,General Freight,Silver,Clear,11,240.0,807.7,5,0,7.4,72.0,16.3,2.7,,0.396,0,171.93
+SHP-104327,Calgary AB,Calgary AB,NorthStar Carriers,Standard,Refrigerated,Bronze,Clear,5,211.4,1097.7,1,0,5.57,12.0,3.9,1.1,82.8,0.697,1,193.72
+SHP-103400,Montreal QC,Toronto ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Clear,3,289.1,722.3,2,0,4.25,-17.0,2.0,6.8,62.0,0.75,1,226.97
+SHP-102916,Toronto ON,Sudbury ON,MapleFreight Fleet,Economy,General Freight,Bronze,Clear,12,1035.4,634.8,2,0,15.33,63.0,4.2,5.3,41.2,0.331,2,350.85
+SHP-101687,Ottawa ON,Edmonton AB,PrairieLine,Express,General Freight,Bronze,Clear,4,552.8,1593600.0,3,0,8.7,-20.0,1.6,1.0,74.9,0.945,0,147.21
+SHP-105098,Winnipeg MB,Winnipeg MB,PrairieLine,Standard,Fragile,Silver,Clear,5,1085.0,198.6,2,0,17.3,8.0,6.7,1.5,84.8,0.249,2,102.51
+SHP-104278,Mississauga ON,Quebec City QC,Contract Owner-Op,Standard,General Freight,Silver,Rain,9,390.1,191.4,1,0,5.46,1.0,0.8,9.4,51.9,0.404,1,135.1
+SHP-103197,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Standard,Bulk,Gold,Snow,5,1297.7,107.8,0,0,17.44,-20.0,9.1,4.5,32.7,0.221,1,197.36
+SHP-100985,Calgary AB,Toronto ON,PrairieLine,Express,General Freight,Bronze,Fog,12,644.8,475.7,5,0,11.34,-1.0,8.6,3.1,73.8,0.336,0,167.4
+SHP-104797,London ON,Toronto ON,MapleFreight Fleet,Economy,Bulk,Bronze,Clear,3,695.1,1283.9,1,0,9.78,41.0,22.9,10.5,100.0,0.12,2,104.42
+SHP-100183,Calgary AB,Montreal QC,Contract Owner-Op,Standard,General Freight,Bronze,Storm,7,1079.9,1080.2,1,0,14.02,17.0,5.2,9.0,56.0,0.485,1,116.86
+SHP-104747,Calgary AB,Winnipeg MB,Contract Owner-Op,Express,General Freight,Bronze,Clear,2,657.9,1630.3,1,0,6.9,-20.0,,0.9,61.5,0.388,2,95.24
+SHP-105983,Winnipeg MB,Calgary AB,PrairieLine,Standard,General Freight,Silver,,7,619.2,708.8,4,0,8.38,-20.0,5.7,7.5,50.7,0.489,2,131.21
+SHP-101191,Toronto ON,Sudbury ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Clear,11,1267.9,911.6,1,0,18.67,-14.0,1.5,6.2,24.0,0.413,1,184.12
+SHP-104192,Mississauga ON,Quebec City QC,Contract Owner-Op,Standard,Hazardous,Bronze,Snow,1,654.5,706.2,3,0,10.81,14.0,3.5,3.8,57.3,0.619,2,188.58
+SHP-101591,Mississauga ON,Montreal QC,NorthStar Carriers,Express,General Freight,Bronze,Rain,2,566.8,934.4,4,0,11.99,28.0,3.7,8.1,67.5,0.504,0,166.31
+SHP-105338,Montreal QC,Regina SK,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,5,726.3,1514.0,4,0,13.38,40.0,24.7,7.6,58.0,0.646,2,173.23
+SHP-104414,Toronto ON,Sudbury ON,QuebecExpress,Economy,General Freight,Silver,Clear,9,1312.6,1098.9,5,0,22.39,-20.0,2.6,2.6,45.5,0.279,1,295.35
+SHP-102872,Ottawa ON,Calgary AB,PrairieLine,Express,Hazardous,Silver,Clear,3,572.6,1470.9,5,0,11.7,26.0,11.3,5.7,61.3,0.147,2,189.1
+SHP-104407,Montreal QC,Sudbury ON,Contract Owner-Op,Express,General Freight,Silver,Storm,10,559.6,242.8,2,0,10.68,-5.0,1.1,2.7,45.2,0.506,1,175.24
+SHP-102420,Calgary AB,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Bronze,Rain,7,558.4,1300.4,4,1,8.73,-4.0,7.7,1.4,5.0,0.0,2,168.4
+SHP-102770,Calgary AB,Edmonton AB,Contract Owner-Op,Standard,Fragile,Silver,Rain,11,846.3,827.4,0,0,12.65,86.0,1.9,2.8,50.7,0.64,0,69.06
+SHP-103524,Mississauga ON,Quebec City QC,QuebecExpress,Standard,General Freight,Silver,Fog,1,374.8,450.4,4,1,10.6,51.0,0.6,5.9,42.3,0.591,1,133.6
+SHP-100220,Winnipeg MB,Toronto ON,MapleFreight Fleet,Standard,General Freight,Silver,Clear,6,396.4,821.8,0,0,5.7,40.0,5.9,2.2,66.9,0.739,0,218.61
+SHP-101922,Winnipeg MB,Sudbury ON,NorthStar Carriers,Economy,General Freight,Bronze,Clear,12,1866.5,418.7,5,0,28.52,-11.0,5.4,5.3,56.2,0.423,1,230.27
+SHP-103239,Ottawa ON,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Bronze,Snow,11,308.8,191.9,2,0,5.9,36.0,6.9,2.8,48.6,0.564,3,267.29
+SHP-102050,Toronto ON,Regina SK,MapleFreight Fleet,Economy,General Freight,Silver,Fog,3,547.0,677.5,1,1,7.04,82.0,5.8,3.9,13.6,0.449,0,144.47
+SHP-103930,Montreal QC,Quebec City QC,MapleFreight Fleet,Express,Refrigerated,Gold,Fog,7,605.1,874.8,4,0,8.98,61.0,5.1,6.6,46.5,0.731,0,147.62
+SHP-103705,Montreal QC,Montreal QC,Contract Owner-Op,Standard,Fragile,Silver,Clear,9,226.3,1676.4,3,0,4.33,2.0,6.6,1.8,59.1,0.544,4,133.25
+SHP-103939,Ottawa ON,Montreal QC,MapleFreight Fleet,Economy,General Freight,Silver,Clear,5,866.3,644.6,1,0,13.55,-11.0,3.5,5.1,73.5,0.48,1,205.71
+SHP-100399,Calgary AB,Ottawa ON,Contract Owner-Op,Standard,Fragile,Bronze,Clear,3,948.4,537.8,2,0,15.02,9.0,5.2,1.9,34.2,0.62,4,199.9
+SHP-100198,Mississauga ON,Sudbury ON,NorthStar Carriers,Standard,General Freight,Bronze,Clear,6,1025.6,1672.8,3,0,17.17,-20.0,2.9,9.9,56.6,0.446,1,131.3
+SHP-105632,Toronto ON,Regina SK,QuebecExpress,Standard,General Freight,Silver,Rain,2,259.2,230.6,0,1,2.74,18.0,6.6,9.0,57.0,0.296,3,
+SHP-104894,Calgary AB,Regina SK,NorthStar Carriers,Standard,Bulk,Silver,Clear,3,1029.6,496.1,2,0,12.76,52.0,1.8,15.4,65.3,0.478,0,162.56
+SHP-104934,Calgary AB,Quebec City QC,MapleFreight Fleet,Express,Refrigerated,Bronze,Clear,8,314.0,766.2,2,0,4.77,-6.0,4.6,2.6,48.0,0.771,2,218.22
+SHP-101660,Toronto ON,Winnipeg MB,PrairieLine,Express,Fragile,Bronze,Clear,10,504.6,809.7,5,0,9.29,-20.0,4.4,6.7,61.7,0.472,2,211.76
+SHP-104299,Calgary AB,Montreal QC,QuebecExpress,Express,Refrigerated,Silver,Rain,6,1507.7,661.9,5,0,23.03,-3.0,2.6,4.3,79.2,0.012,0,289.24
+SHP-105364,Mississauga ON,Toronto ON,MapleFreight Fleet,Economy,Fragile,Bronze,Storm,2,245.6,1212.2,1,0,3.65,-20.0,11.2,10.6,47.8,0.457,0,118.26
+SHP-100045,Ottawa ON,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Silver,Clear,7,379.6,383.6,5,1,8.57,55.0,4.4,3.9,40.5,0.339,0,103.7
+SHP-102311,Toronto ON,Calgary AB,PrairieLine,Standard,Hazardous,Gold,Snow,5,490.2,1228.2,2,0,4.85,-20.0,5.7,5.0,46.0,0.341,1,227.57
+SHP-103169,London ON,Calgary AB,MapleFreight Fleet,Economy,General Freight,Gold,Fog,5,417.9,954.1,0,0,6.62,38.0,3.3,1.1,63.2,0.307,1,138.13
+SHP-103645,Ottawa ON,Hamilton ON,PrairieLine,Express,General Freight,Gold,Rain,4,630.8,2347.4,4,0,11.68,56.0,17.3,6.7,56.6,0.0,0,219.51
+SHP-105456,Calgary AB,Montreal QC,Contract Owner-Op,Express,General Freight,Silver,Clear,9,588.2,581.0,2,0,10.8,42.0,15.5,4.3,80.4,0.808,2,137.66
+SHP-100678,Montreal QC,Montreal QC,QuebecExpress,Economy,Hazardous,Bronze,Clear,11,451.1,1080.3,3,0,7.88,0.0,10.2,5.6,51.5,0.61,2,145.82
+SHP-103584,London ON,Regina SK,Contract Owner-Op,Standard,Bulk,Silver,Rain,7,732.5,643.0,4,0,13.35,71.0,5.3,6.1,72.2,0.439,3,168.36
+SHP-100582,Calgary AB,Ottawa ON,NorthStar Carriers,Standard,Fragile,Silver,Clear,11,376.0,532.0,4,0,8.52,-20.0,,7.4,44.3,0.328,2,130.66
+SHP-102264,Toronto ON,Calgary AB,NorthStar Carriers,Economy,Hazardous,Gold,Clear,10,786.1,875.3,5,0,13.39,-3.0,12.6,6.8,62.6,0.273,0,252.88
+SHP-101514,Montreal QC,Edmonton AB,QuebecExpress,Economy,General Freight,Silver,Clear,8,1178.6,2111.5,2,0,18.47,34.0,4.2,4.8,48.0,0.278,0,248.53
+SHP-104143,Toronto ON,Sudbury ON,MapleFreight Fleet,Standard,Fragile,Bronze,Snow,2,474.3,321.0,2,1,7.7,19.0,1.5,4.9,48.3,0.259,5,
+SHP-105789,Winnipeg MB,Sudbury ON,NorthStar Carriers,Standard,Bulk,Silver,Clear,3,764.6,983.9,2,0,11.84,11.0,4.4,5.0,83.7,0.125,0,82.35
+SHP-100465,Calgary AB,Winnipeg MB,MapleFreight Fleet,Standard,Bulk,Gold,Fog,4,523.4,1389.2,3,0,7.8,75.0,12.7,9.8,57.9,0.201,2,150.1
+SHP-103718,Toronto ON,Regina SK,NorthStar Carriers,Economy,General Freight,Silver,Rain,9,986.3,571.6,3,0,15.11,-12.0,7.7,8.3,51.4,0.205,2,183.84
+SHP-100900,Toronto ON,Regina SK,NorthStar Carriers,Standard,General Freight,Gold,Snow,10,459.7,800.3,2,0,10.15,-20.0,1.7,3.8,81.1,0.596,0,184.72
+SHP-105688,Toronto ON,Winnipeg MB,NorthStar Carriers,Economy,Refrigerated,Bronze,Fog,8,864.7,997.1,4,0,16.01,29.0,4.2,3.6,66.5,0.677,2,58.27
+SHP-102937,Toronto ON,Toronto ON,MapleFreight Fleet,Standard,Refrigerated,Bronze,Clear,5,332.2,365.3,4,0,9.39,58.0,5.6,1.9,39.6,0.813,3,133.08
+SHP-105319,London ON,Ottawa ON,Contract Owner-Op,Express,Refrigerated,Bronze,Rain,8,537.4,544.6,0,0,7.13,74.0,8.7,4.4,68.1,0.559,3,215.93
+SHP-101873,Calgary AB,Toronto ON,MapleFreight Fleet,Economy,Hazardous,Silver,,8,328.5,279.8,0,1,2.38,-3.0,1.0,1.1,34.0,0.827,1,289.78
+SHP-105041,Winnipeg MB,Ottawa ON,QuebecExpress,Economy,General Freight,Bronze,Clear,8,554.2,552.3,2,0,8.64,-6.0,5.6,1.5,52.5,0.323,2,114.33
+SHP-101478,Ottawa ON,Ottawa ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Snow,12,288.3,1148200.0,4,0,8.16,17.0,4.2,6.9,68.9,0.708,0,216.8
+SHP-104631,Ottawa ON,Montreal QC,PrairieLine,Economy,General Freight,Gold,,12,256.1,2022.1,1,0,1.0,-18.0,7.0,15.7,23.7,0.759,3,189.02
+SHP-101902,Winnipeg MB,Calgary AB,PrairieLine,Express,General Freight,Silver,Clear,12,246.3,698.9,5,0,7.47,51.0,5.7,2.4,44.2,0.454,1,218.15
+SHP-102115,Calgary AB,Montreal QC,MapleFreight Fleet,Economy,General Freight,Bronze,Rain,11,707.6,488.0,2,0,12.54,-20.0,3.2,3.1,75.2,0.17,3,175.45
+SHP-103621,London ON,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,3,1136.2,690.3,1,0,17.1,52.0,15.0,4.5,83.1,0.578,1,178.69
+SHP-102919,Toronto ON,Winnipeg MB,MapleFreight Fleet,Standard,Hazardous,Bronze,Clear,12,1061.8,928600.0,2,0,16.6,-20.0,4.4,3.2,63.3,0.245,1,136.38
+SHP-101038,Mississauga ON,Winnipeg MB,NorthStar Carriers,Express,Refrigerated,Gold,Clear,6,595.7,636.8,2,0,9.39,40.0,8.0,5.1,56.4,0.847,0,30.0
+SHP-100242,Toronto ON,Calgary AB,MapleFreight Fleet,Standard,General Freight,Bronze,Rain,4,609.3,104.9,1,0,10.06,-20.0,11.0,7.4,44.2,0.616,1,145.03
+SHP-105898,Ottawa ON,Sudbury ON,PrairieLine,Express,Bulk,Silver,Clear,2,653.5,949.4,2,0,10.0,-19.0,0.7,6.9,70.7,0.351,0,107.42
+SHP-101256,Toronto ON,Toronto ON,PrairieLine,Express,Refrigerated,Silver,Rain,1,451.3,967.5,0,0,5.43,-20.0,4.4,7.5,24.0,0.641,1,298.55
+SHP-105662,Mississauga ON,Montreal QC,MapleFreight Fleet,Standard,General Freight,Bronze,Rain,7,280.1,686.3,4,0,7.26,17.0,5.5,1.4,61.9,0.468,1,150.12
+SHP-103635,Montreal QC,Calgary AB,PrairieLine,Express,General Freight,Silver,Clear,8,264.9,206.8,3,0,8.05,-20.0,7.9,2.2,49.3,0.573,2,160.68
+SHP-104924,Montreal QC,Ottawa ON,PrairieLine,Express,General Freight,Silver,Fog,10,485.5,827.1,3,0,10.34,17.0,2.9,2.3,90.4,0.257,0,199.92
+SHP-100340,Toronto ON,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Silver,Rain,3,704.1,1008.3,5,0,14.41,-20.0,11.5,3.9,57.0,0.388,4,189.49
+SHP-101230,Calgary AB,Montreal QC,MapleFreight Fleet,Standard,General Freight,Bronze,Snow,8,591.1,451.5,2,0,10.2,-4.0,6.3,4.7,70.0,0.501,0,212.71
+SHP-103673,Mississauga ON,Regina SK,NorthStar Carriers,Standard,Refrigerated,Silver,Clear,4,368.6,245.7,2,0,6.1,49.0,0.9,5.3,14.3,0.691,3,216.16
+SHP-100449,Montreal QC,Montreal QC,MapleFreight Fleet,Standard,General Freight,Silver,Clear,12,1722.0,737.4,2,0,24.59,-13.0,3.7,8.0,33.1,0.0,2,269.41
+SHP-101252,Toronto ON,Hamilton ON,PrairieLine,Economy,Hazardous,Bronze,Snow,8,262.7,2117.0,5,0,8.4,68.0,2.2,0.4,59.4,0.564,0,157.92
+SHP-104645,Mississauga ON,Sudbury ON,NorthStar Carriers,Standard,Bulk,Bronze,Clear,2,173.9,1032.8,4,0,4.99,37.0,2.5,6.3,45.6,0.708,1,100.43
+SHP-102482,Toronto ON,Edmonton AB,Contract Owner-Op,Economy,General Freight,Silver,Clear,2,375.1,356.3,2,0,7.46,21.0,1.3,7.1,49.5,0.385,0,145.33
+SHP-101174,London ON,Edmonton AB,MapleFreight Fleet,Standard,Refrigerated,Bronze,Clear,4,348.2,883.6,0,1,5.18,6.0,12.8,3.1,65.3,0.42,1,208.64
+SHP-102126,Toronto ON,Quebec City QC,PrairieLine,Economy,Hazardous,Gold,Snow,5,451.7,581.6,2,0,7.06,-20.0,7.8,7.1,71.0,0.657,3,208.33
+SHP-104751,Mississauga ON,Sudbury ON,PrairieLine,Standard,General Freight,Bronze,Clear,5,779.3,628.4,2,0,12.56,80.0,,2.4,33.4,0.322,7,190.09
+SHP-100294,Ottawa ON,Regina SK,MapleFreight Fleet,Standard,General Freight,Silver,Clear,4,609.6,746.4,1,0,8.58,60.0,6.7,8.2,37.7,0.652,1,132.99
+SHP-101157,Ottawa ON,Toronto ON,MapleFreight Fleet,Express,Refrigerated,Bronze,Clear,9,1230.2,932.0,4,0,21.38,51.0,14.1,5.3,61.3,0.173,0,99.68
+SHP-104071,Calgary AB,Edmonton AB,Contract Owner-Op,Express,Fragile,Silver,Snow,2,420.8,397.4,1,0,7.38,44.0,6.0,12.9,42.0,0.334,2,215.31
+SHP-102998,Ottawa ON,Calgary AB,MapleFreight Fleet,Standard,General Freight,Bronze,Rain,5,580.4,319.0,2,0,7.35,22.0,10.9,6.2,19.0,0.564,0,151.54
+SHP-101956,Toronto ON,Ottawa ON,MapleFreight Fleet,Standard,General Freight,Silver,Storm,4,517.3,809.9,1,0,9.12,115.0,1.8,1.3,50.0,0.523,1,191.53
+SHP-105199,Mississauga ON,Montreal QC,MapleFreight Fleet,Standard,Bulk,Silver,Clear,12,850.7,514.5,5,0,14.71,23.0,5.2,0.6,37.3,0.751,1,221.58
+SHP-104081,Toronto ON,Ottawa ON,PrairieLine,Express,Refrigerated,Bronze,Clear,1,301.5,691.8,5,1,8.6,25.0,11.0,5.2,29.9,0.339,0,78.39
+SHP-105984,Montreal QC,Edmonton AB,MapleFreight Fleet,Standard,Fragile,Silver,Storm,1,654.5,2381.8,4,0,13.3,6.0,8.6,4.9,64.9,0.32,0,185.23
+SHP-102942,Calgary AB,Toronto ON,MapleFreight Fleet,Standard,Bulk,Silver,Snow,8,466.9,421.8,3,0,8.81,-20.0,,5.0,65.3,0.182,0,158.04
+SHP-104661,Mississauga ON,Montreal QC,NorthStar Carriers,Standard,Fragile,Bronze,Fog,7,616.3,1599.1,2,0,9.24,32.0,3.6,2.0,42.3,0.258,1,143.31
+SHP-105318,Ottawa ON,Edmonton AB,NorthStar Carriers,Standard,General Freight,Silver,Clear,10,564.7,2017.2,2,0,11.66,10.0,6.5,10.6,67.1,0.313,2,245.23
+SHP-102657,Mississauga ON,Ottawa ON,MapleFreight Fleet,Standard,General Freight,Silver,Fog,5,683.9,1537.5,5,0,13.09,49.0,6.6,5.7,65.8,0.394,2,141.21
+SHP-101896,Montreal QC,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Gold,Snow,8,265.3,908.0,2,0,4.96,-18.0,15.2,4.9,71.7,0.41,3,166.9
+SHP-103000,London ON,Quebec City QC,NorthStar Carriers,Standard,General Freight,Gold,Fog,3,115.0,254.8,0,0,1.0,-18.0,6.8,4.3,27.0,0.292,0,187.38
+SHP-103291,Toronto ON,Toronto ON,Contract Owner-Op,Standard,General Freight,Silver,Clear,6,968.4,1954.6,2,0,16.91,38.0,13.9,5.3,27.4,0.216,0,119.17
+SHP-105008,Toronto ON,Sudbury ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Clear,4,1531.7,345.1,1,0,22.42,-20.0,4.6,2.5,45.5,0.347,2,164.4
+SHP-104333,Winnipeg MB,Calgary AB,PrairieLine,Standard,Refrigerated,Silver,Snow,5,1805.7,1897.2,3,0,27.68,-1.0,2.3,9.9,21.3,0.542,1,185.4
+SHP-102886,Toronto ON,Hamilton ON,MapleFreight Fleet,Standard,Refrigerated,Bronze,Snow,12,573.2,1310.4,2,0,9.88,-11.0,8.9,5.2,63.6,0.595,0,196.94
+SHP-104444,Montreal QC,Edmonton AB,MapleFreight Fleet,Express,Refrigerated,Bronze,Rain,5,1125.5,1905.8,2,0,16.59,39.0,3.9,4.3,52.0,0.369,1,227.84
+SHP-104459,London ON,Regina SK,MapleFreight Fleet,Economy,Refrigerated,Bronze,Clear,8,573.2,704.6,3,0,9.44,-16.0,2.3,9.2,55.5,0.706,1,68.92
+SHP-103244,Calgary AB,Hamilton ON,PrairieLine,Economy,Fragile,Silver,Clear,7,368.7,293.3,3,0,7.72,24.0,9.1,5.3,86.2,0.694,2,281.12
+SHP-101242,Toronto ON,Ottawa ON,Contract Owner-Op,Standard,General Freight,Silver,Snow,5,1295.7,141.6,3,0,19.45,33.0,4.6,1.4,56.4,0.47,1,243.39
+SHP-101250,Toronto ON,Edmonton AB,QuebecExpress,Standard,Hazardous,Bronze,Snow,8,843.5,220.2,4,0,15.19,13.0,6.1,2.3,57.3,0.555,2,199.14
+SHP-103117,Calgary AB,Regina SK,QuebecExpress,Economy,Fragile,Gold,Storm,2,1083.3,624.7,3,0,18.21,-17.0,,4.6,71.6,0.475,1,220.09
+SHP-102941,Mississauga ON,Edmonton AB,MapleFreight Fleet,Express,Fragile,Gold,Rain,4,420.0,1922.0,4,0,9.83,10.0,7.5,3.5,36.2,0.393,2,156.82
+SHP-105944,Ottawa ON,Edmonton AB,NorthStar Carriers,Standard,Fragile,Silver,Snow,3,801.7,708.0,4,0,14.07,29.0,12.6,2.8,56.0,0.263,1,150.65
+SHP-104322,Toronto ON,Toronto ON,PrairieLine,Economy,Fragile,Silver,Clear,11,898.5,1113.8,1,0,14.57,37.0,2.1,3.7,64.0,0.399,5,121.45
+SHP-102795,Toronto ON,Winnipeg MB,Contract Owner-Op,Economy,General Freight,Silver,Rain,12,256.1,800.9,3,0,5.08,57.0,2.4,3.9,62.8,0.576,1,148.17
+SHP-104392,Winnipeg MB,Edmonton AB,NorthStar Carriers,Standard,General Freight,Silver,Rain,12,732.1,1362.6,5,0,14.15,76.0,7.8,6.6,60.1,0.483,4,125.5
+SHP-100902,Montreal QC,Hamilton ON,NorthStar Carriers,Standard,Fragile,Silver,Clear,1,651.2,336.1,3,0,10.45,46.0,4.2,2.5,78.8,0.793,1,71.53
+SHP-104902,Mississauga ON,Hamilton ON,Contract Owner-Op,Standard,General Freight,Bronze,Rain,6,588.6,1808.8,1,0,9.81,13.0,6.8,3.5,55.4,0.409,1,171.55
+SHP-102287,Calgary AB,Regina SK,MapleFreight Fleet,Economy,Refrigerated,Bronze,Clear,3,512.4,904.9,5,1,10.1,67.0,3.0,3.4,89.9,0.312,3,144.54
+SHP-101390,Montreal QC,Edmonton AB,QuebecExpress,Standard,General Freight,Silver,Fog,11,1204.2,870.8,4,0,19.82,-7.0,8.8,3.3,59.3,0.472,1,160.63
+SHP-103196,Mississauga ON,Montreal QC,Contract Owner-Op,Standard,Refrigerated,Silver,Clear,4,376.0,341.2,0,0,4.49,13.0,7.4,13.2,26.7,0.303,0,191.68
+SHP-102708,Winnipeg MB,Regina SK,NorthStar Carriers,Economy,Fragile,Silver,Clear,11,157.1,507.3,0,0,2.52,45.0,5.7,12.2,41.5,0.494,1,149.29
+SHP-100308,Mississauga ON,Hamilton ON,MapleFreight Fleet,Standard,Fragile,Bronze,Clear,9,1414.0,120.8,0,0,19.86,-3.0,25.5,7.6,76.6,0.616,2,41.39
+SHP-101675,London ON,Quebec City QC,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,8,501.4,1231.7,3,1,9.57,-14.0,4.6,0.9,49.9,0.342,0,141.12
+SHP-105309,Mississauga ON,Sudbury ON,PrairieLine,Economy,Bulk,Bronze,Rain,12,347.6,1779.6,5,0,10.06,13.0,5.1,2.6,44.9,0.608,1,166.92
+SHP-105642,Toronto ON,Toronto ON,MapleFreight Fleet,Economy,General Freight,Bronze,Rain,1,483.6,1361.3,1,0,4.75,-20.0,16.1,2.3,58.2,0.443,1,106.89
+SHP-102772,Montreal QC,Quebec City QC,PrairieLine,Economy,Fragile,Gold,Clear,4,694.0,1561.7,3,0,12.03,-20.0,4.6,2.5,77.2,0.399,1,227.31
+SHP-103855,Toronto ON,Hamilton ON,QuebecExpress,Standard,General Freight,Bronze,Clear,7,187.9,1039.4,0,1,1.59,34.0,4.3,11.5,58.0,0.744,1,121.0
+SHP-105836,Winnipeg MB,Sudbury ON,Contract Owner-Op,Standard,General Freight,Gold,Rain,8,612.2,845.8,1,0,10.98,42.0,4.2,7.8,55.8,0.394,3,204.75
+SHP-102299,London ON,Ottawa ON,NorthStar Carriers,Express,Refrigerated,Silver,Fog,4,659.6,896.3,2,0,11.42,44.0,4.6,8.6,51.7,0.444,0,160.4
+SHP-101063,London ON,Sudbury ON,PrairieLine,Standard,General Freight,Silver,Clear,4,293.3,2418.1,3,0,6.81,12.0,2.1,5.4,31.2,0.344,0,255.01
+SHP-104289,Calgary AB,Toronto ON,MapleFreight Fleet,Standard,General Freight,Bronze,Snow,5,923.9,1297.5,2,0,14.92,34.0,9.5,4.8,55.5,0.756,0,165.38
+SHP-104543,Ottawa ON,Edmonton AB,NorthStar Carriers,Standard,General Freight,Silver,Snow,1,467.2,946.9,0,1,4.18,10.0,4.4,3.8,58.9,0.484,1,
+SHP-102114,Winnipeg MB,Montreal QC,Contract Owner-Op,Standard,General Freight,Silver,Snow,4,719.1,489.0,0,0,10.08,55.0,5.8,9.2,65.3,0.306,2,223.94
+SHP-100306,Montreal QC,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Silver,Fog,11,517.8,1229.8,4,0,11.79,-8.0,7.4,3.6,69.8,0.389,1,125.41
+SHP-101086,Montreal QC,Edmonton AB,QuebecExpress,Economy,General Freight,Bronze,Clear,8,287.9,392.7,0,0,4.82,12.0,1.2,10.6,63.6,0.317,2,194.22
+SHP-100354,Montreal QC,Regina SK,MapleFreight Fleet,Standard,Refrigerated,Silver,Clear,3,833.8,1390.2,4,0,16.12,55.0,6.9,5.4,44.8,0.184,2,254.62
+SHP-104858,Ottawa ON,Edmonton AB,MapleFreight Fleet,Standard,Hazardous,Silver,Clear,1,846.8,1821.2,2,0,13.72,18.0,1.4,12.7,50.6,0.479,4,168.61
+SHP-101134,Ottawa ON,Hamilton ON,NorthStar Carriers,Economy,Hazardous,Gold,Snow,1,733.3,377.3,2,0,13.33,-20.0,9.5,2.9,64.0,0.684,2,145.6
+SHP-102823,Mississauga ON,Toronto ON,Contract Owner-Op,Standard,Bulk,Bronze,Clear,6,497.3,1249.3,5,0,10.15,13.0,7.5,8.8,47.8,0.45,1,170.46
+SHP-100573,London ON,Hamilton ON,QuebecExpress,Express,General Freight,Bronze,Clear,6,428.3,1300.3,0,0,7.62,-20.0,11.2,13.0,93.1,0.147,1,192.59
+SHP-102617,Mississauga ON,Quebec City QC,MapleFreight Fleet,Standard,Hazardous,Bronze,Storm,7,783.3,2006.3,1,0,11.66,39.0,4.0,12.5,71.5,0.496,0,327.59
+SHP-104600,Montreal QC,Winnipeg MB,QuebecExpress,Economy,General Freight,Silver,Clear,9,1074.4,1002.8,2,1,18.95,-0.0,1.9,7.4,58.1,0.594,2,179.97
+SHP-104221,London ON,Toronto ON,MapleFreight Fleet,Standard,Fragile,Bronze,Fog,8,925.6,247.5,5,0,13.17,35.0,9.5,5.5,30.9,0.362,2,216.73
+SHP-105457,Toronto ON,Winnipeg MB,MapleFreight Fleet,Express,Bulk,Silver,,2,860.2,2370.4,0,0,10.76,-8.0,12.0,4.2,42.4,0.416,2,130.83
+SHP-100636,Ottawa ON,Edmonton AB,NorthStar Carriers,Economy,General Freight,Bronze,Clear,9,262.1,1380.7,4,0,8.03,20.0,2.4,1.8,74.4,0.625,0,100.33
+SHP-105653,Toronto ON,Sudbury ON,Contract Owner-Op,Express,Hazardous,Silver,Snow,1,482.3,527.4,3,0,7.38,23.0,15.6,1.9,50.3,0.567,1,166.59
+SHP-103111,Montreal QC,Montreal QC,PrairieLine,Express,General Freight,Silver,Clear,12,263.1,906.9,3,0,5.75,23.0,4.5,2.4,17.6,0.453,2,164.21
+SHP-101757,Montreal QC,Sudbury ON,QuebecExpress,Economy,General Freight,Silver,Clear,3,1442.9,1083.3,3,0,20.98,31.0,,1.3,74.7,0.545,1,166.64
+SHP-103633,Calgary AB,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Silver,Rain,12,784.3,506.2,0,0,12.1,-20.0,10.4,4.2,50.1,0.343,2,262.98
+SHP-104916,London ON,Edmonton AB,NorthStar Carriers,Economy,Refrigerated,Silver,,6,378.9,756.7,2,0,8.1,38.0,1.2,4.0,23.7,0.358,1,127.28
+SHP-101092,Ottawa ON,Toronto ON,Contract Owner-Op,Standard,Refrigerated,Silver,Rain,12,553.8,2153.1,1,0,8.36,23.0,2.0,4.6,59.4,0.656,2,273.19
+SHP-102073,Mississauga ON,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Bronze,Snow,6,319.6,952.8,2,0,5.98,39.0,3.5,3.7,69.8,0.632,1,104.6
+SHP-102319,Calgary AB,Montreal QC,PrairieLine,Standard,General Freight,Silver,Snow,12,1394.2,694.5,4,0,22.32,-18.0,3.2,5.4,78.1,0.489,1,236.54
+SHP-100426,London ON,Regina SK,MapleFreight Fleet,Express,Fragile,Silver,Clear,1,896.1,1571.7,4,0,15.58,29.0,5.3,3.0,83.8,0.524,2,236.29
+SHP-102873,Montreal QC,Calgary AB,MapleFreight Fleet,Standard,General Freight,Silver,Rain,12,169.1,1045.7,2,0,5.7,-19.0,4.9,5.7,39.7,0.467,3,67.79
+SHP-103160,Mississauga ON,Calgary AB,NorthStar Carriers,Economy,General Freight,Bronze,Clear,12,1198.1,775.0,5,0,22.07,-5.0,0.9,0.8,71.0,0.292,1,157.62
+SHP-101226,Montreal QC,Toronto ON,MapleFreight Fleet,Express,Refrigerated,Gold,Clear,1,245.0,376.7,5,1,5.25,57.0,7.1,5.8,70.7,0.527,1,211.58
+SHP-101858,Toronto ON,Ottawa ON,NorthStar Carriers,Standard,Fragile,Silver,Clear,7,292.2,500.4,3,0,5.45,3.0,,14.0,36.9,0.525,1,104.74
+SHP-103207,Calgary AB,Montreal QC,NorthStar Carriers,Express,Fragile,Bronze,Rain,5,536.9,1678.1,1,0,8.19,21.0,4.0,4.5,61.7,0.504,3,190.78
+SHP-105203,Calgary AB,Winnipeg MB,Contract Owner-Op,Standard,General Freight,Silver,Rain,8,943.7,2132.0,0,0,10.66,-11.0,2.1,1.9,80.8,0.531,1,163.34
+SHP-105099,London ON,Montreal QC,Contract Owner-Op,Standard,Bulk,Gold,Rain,7,520.0,1571.1,3,0,8.11,-20.0,14.5,2.5,74.3,0.491,2,298.56
+SHP-105039,Mississauga ON,Quebec City QC,QuebecExpress,Express,General Freight,Bronze,Rain,5,447.3,1345.1,2,0,7.94,10.0,3.6,2.1,55.0,0.381,3,253.78
+SHP-103168,Mississauga ON,Toronto ON,NorthStar Carriers,Express,Bulk,Silver,Clear,12,844.3,857.3,5,0,14.7,31.0,1.5,12.7,41.5,0.374,1,134.36
+SHP-100581,London ON,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Gold,Fog,5,569.6,1028.4,1,0,8.42,31.0,3.5,7.0,22.5,0.495,0,
+SHP-103354,Montreal QC,Hamilton ON,PrairieLine,Standard,Hazardous,Bronze,Rain,6,533.5,1855.6,4,0,9.39,-5.0,7.3,3.7,59.0,0.288,1,125.53
+SHP-103301,Calgary AB,Sudbury ON,PrairieLine,Express,General Freight,Silver,Snow,3,877.1,1811.4,1,0,12.73,-20.0,4.1,8.2,36.0,0.848,5,136.57
+SHP-103788,Calgary AB,Ottawa ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Fog,5,1124.0,2083.2,5,0,19.21,-4.0,8.2,5.9,38.7,0.54,0,270.66
+SHP-101665,Toronto ON,Montreal QC,MapleFreight Fleet,Express,General Freight,Silver,Fog,2,999.1,234.9,3,1,14.98,17.0,11.2,4.2,82.9,0.243,1,230.56
+SHP-102487,London ON,Quebec City QC,MapleFreight Fleet,Economy,General Freight,Bronze,Clear,3,803.9,276.4,0,0,11.77,28.0,6.5,6.1,49.6,0.404,1,189.65
+SHP-102454,Ottawa ON,Sudbury ON,QuebecExpress,Economy,General Freight,Silver,Snow,9,780.8,1143.4,1,0,11.62,13.0,21.8,2.8,54.3,0.474,2,167.65
+SHP-103312,Toronto ON,Regina SK,QuebecExpress,Economy,General Freight,Gold,Rain,8,432.5,381.1,2,0,6.94,29.0,2.9,4.4,48.9,0.543,1,
+SHP-100700,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Express,Hazardous,Bronze,Clear,10,971.8,99.5,0,0,14.85,25.0,,2.0,64.7,0.359,1,193.35
+SHP-101002,Calgary AB,Ottawa ON,Contract Owner-Op,Economy,General Freight,Silver,Clear,12,481.3,774.7,4,0,10.14,-20.0,3.5,4.7,100.0,0.418,1,227.37
+SHP-102691,Toronto ON,Sudbury ON,QuebecExpress,Standard,General Freight,Silver,Rain,10,256.1,428.0,5,0,5.96,48.0,7.3,10.6,85.0,0.485,1,210.6
+SHP-102681,Toronto ON,Quebec City QC,PrairieLine,Standard,General Freight,Silver,Clear,9,603.4,315.8,0,0,9.41,58.0,9.5,3.8,32.5,0.576,2,133.52
+SHP-104862,Mississauga ON,Sudbury ON,QuebecExpress,Standard,General Freight,Silver,Snow,7,1058.1,172.8,1,0,15.89,50.0,3.7,1.0,64.5,0.381,2,149.15
+SHP-100451,Montreal QC,Edmonton AB,MapleFreight Fleet,Express,General Freight,Silver,Storm,1,456.3,2357.9,4,0,8.78,-5.0,3.9,7.7,76.3,0.208,0,282.89
+SHP-101477,Montreal QC,Regina SK,MapleFreight Fleet,Standard,Refrigerated,Silver,Clear,8,344.4,1510.5,0,0,4.34,17.0,6.8,3.0,28.6,0.485,5,198.4
+SHP-104406,Ottawa ON,Calgary AB,NorthStar Carriers,Standard,Bulk,Gold,Clear,3,520.2,338.0,2,1,9.27,7.0,2.3,2.7,76.0,0.452,2,151.42
+SHP-101451,Montreal QC,Winnipeg MB,QuebecExpress,Standard,Fragile,Silver,Clear,9,575.7,2032.5,4,0,10.27,-20.0,3.5,7.3,51.6,0.565,3,128.31
+SHP-104096,Toronto ON,Winnipeg MB,Contract Owner-Op,Economy,General Freight,Silver,Clear,1,561.0,841.3,4,0,9.4,15.0,5.5,5.8,39.0,0.726,0,249.9
+SHP-103510,Toronto ON,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,1,948.7,842.0,5,1,14.49,64.0,8.3,11.3,43.6,0.79,0,
+SHP-103589,Mississauga ON,Hamilton ON,QuebecExpress,Standard,General Freight,Bronze,Rain,11,317.8,638.3,3,1,6.95,48.0,2.7,7.5,51.7,0.348,0,191.81
+SHP-101034,Toronto ON,Montreal QC,PrairieLine,Economy,General Freight,Silver,Clear,9,872.7,524.2,3,1,13.94,26.0,10.6,5.1,37.9,0.752,1,202.06
+SHP-101116,Calgary AB,Calgary AB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,5,746.3,1304.6,5,0,15.02,45.0,11.0,6.3,65.1,0.15,2,121.63
+SHP-103047,Mississauga ON,Hamilton ON,MapleFreight Fleet,Standard,Hazardous,Silver,Rain,2,1111.8,733.1,2,1,17.88,10.0,5.4,6.4,48.8,0.253,0,238.06
+SHP-105875,Calgary AB,Montreal QC,QuebecExpress,Economy,Fragile,Bronze,Clear,1,1150.2,1887.9,3,0,18.13,30.0,11.6,10.3,79.7,0.42,2,144.73
+SHP-101795,Mississauga ON,Edmonton AB,Contract Owner-Op,Standard,General Freight,Silver,Clear,6,731.6,1235.1,2,1,10.44,-6.0,9.6,5.5,56.1,0.082,2,239.48
+SHP-101051,Toronto ON,Hamilton ON,MapleFreight Fleet,Express,Refrigerated,Gold,Storm,1,513.3,571.0,5,0,12.99,15.0,2.0,2.4,57.9,0.407,3,118.71
+SHP-102491,Mississauga ON,Toronto ON,NorthStar Carriers,Standard,General Freight,Gold,Storm,6,705.3,1431.1,2,1,12.83,71.0,2.0,4.7,55.8,0.463,1,122.33
+SHP-104436,Toronto ON,Toronto ON,MapleFreight Fleet,Standard,Hazardous,Bronze,Rain,2,368.2,989.0,5,0,7.81,5.0,6.4,3.8,61.8,0.503,3,190.04
+SHP-105743,London ON,Edmonton AB,Contract Owner-Op,Express,Refrigerated,Gold,Rain,5,457.8,237.7,2,0,6.37,62.0,,2.0,47.5,0.374,2,137.26
+SHP-100250,Mississauga ON,Sudbury ON,PrairieLine,Express,Refrigerated,Bronze,Rain,2,1312.8,661.8,0,0,18.33,9.0,2.3,5.4,36.0,0.417,6,
+SHP-103717,Montreal QC,Quebec City QC,PrairieLine,Standard,Bulk,Silver,Clear,1,629.5,897.3,3,0,13.06,74.0,23.6,4.9,39.3,0.231,1,184.35
+SHP-102684,Calgary AB,Calgary AB,NorthStar Carriers,Economy,General Freight,Bronze,Clear,9,612.7,880.5,5,0,12.53,51.0,6.3,6.6,62.3,0.665,0,114.93
+SHP-100608,Montreal QC,Calgary AB,PrairieLine,Standard,General Freight,Bronze,Fog,4,817.1,940.6,2,0,9.89,-2.0,10.4,2.7,28.6,0.347,0,99.93
+SHP-101117,Toronto ON,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,2,378.4,484.7,1,0,6.16,12.0,11.6,4.0,40.7,0.364,2,244.63
+SHP-104821,Ottawa ON,Montreal QC,MapleFreight Fleet,Standard,General Freight,Silver,Rain,6,776.6,308.6,4,0,13.77,22.0,15.9,6.2,77.8,0.371,2,87.37
+SHP-103585,Ottawa ON,Regina SK,NorthStar Carriers,Standard,Bulk,Silver,Clear,5,334.3,722.4,4,0,8.2,-20.0,1.9,1.1,100.0,0.342,0,298.35
+SHP-102940,Montreal QC,Winnipeg MB,QuebecExpress,Economy,Hazardous,Silver,Clear,8,526.5,1342.8,4,0,9.01,7.0,10.9,6.3,76.2,0.648,1,69.66
+SHP-100585,Toronto ON,Toronto ON,QuebecExpress,Express,General Freight,Bronze,,6,811.0,970.2,4,0,13.08,23.0,4.5,7.2,65.9,0.305,0,162.06
+SHP-101877,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Standard,Fragile,Bronze,Clear,9,713.3,675.7,2,0,10.16,-1.0,3.9,5.0,32.4,0.501,1,
+SHP-103075,Montreal QC,Regina SK,NorthStar Carriers,Standard,Hazardous,Bronze,Clear,8,544.2,884.7,4,0,10.53,-2.0,2.5,4.0,75.8,0.328,0,194.91
+SHP-100112,Calgary AB,Ottawa ON,Contract Owner-Op,Express,Refrigerated,Bronze,Snow,7,512.6,5044.0,2,0,8.57,13.0,4.3,3.5,64.1,0.285,0,195.03
+SHP-100729,Toronto ON,Montreal QC,MapleFreight Fleet,Economy,General Freight,Bronze,Clear,3,611.7,1726.6,3,1,9.73,4.0,7.3,6.5,82.9,0.709,1,202.26
+SHP-100349,Toronto ON,Ottawa ON,QuebecExpress,Express,Refrigerated,Silver,Clear,4,407.5,1054.2,1,0,4.75,47.0,3.9,6.7,33.5,0.382,4,244.38
+SHP-104994,Ottawa ON,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,9,416.7,2292.0,5,0,8.93,29.0,7.0,10.3,53.9,0.656,0,231.46
+SHP-103253,Calgary AB,Toronto ON,MapleFreight Fleet,Standard,Hazardous,Bronze,Rain,1,441.5,2557.8,4,0,11.27,88.0,9.6,13.3,53.7,0.388,0,102.79
+SHP-104210,Toronto ON,Ottawa ON,MapleFreight Fleet,Standard,Bulk,Bronze,Fog,1,597.9,1807.8,0,0,7.22,-20.0,8.2,6.3,55.1,0.853,2,219.03
+SHP-103187,Toronto ON,Hamilton ON,QuebecExpress,Standard,General Freight,Gold,Snow,3,760.2,163.0,0,0,10.81,43.0,9.9,4.4,20.5,0.698,1,113.99
+SHP-101673,Toronto ON,Sudbury ON,Contract Owner-Op,Standard,General Freight,Silver,Snow,10,1065.5,1753.6,2,0,15.49,6.0,6.9,9.9,74.3,0.764,2,251.0
+SHP-103865,Toronto ON,Toronto ON,NorthStar Carriers,Standard,Refrigerated,Silver,Snow,1,318.5,1367.6,1,0,4.38,33.0,7.7,7.1,61.9,0.099,1,222.88
+SHP-102025,Ottawa ON,Sudbury ON,NorthStar Carriers,Standard,Refrigerated,Gold,Clear,7,528.0,1036.9,4,0,12.15,-17.0,3.3,4.2,51.6,0.623,2,176.38
+SHP-100170,London ON,Quebec City QC,QuebecExpress,Standard,General Freight,Silver,Rain,5,470.8,1167.6,5,0,10.73,52.0,4.4,4.0,46.4,0.77,0,74.27
+SHP-100322,Toronto ON,Quebec City QC,QuebecExpress,Express,General Freight,Gold,Rain,10,751.1,769.3,4,0,13.17,52.0,7.3,4.1,43.8,0.682,3,142.83
+SHP-101618,Montreal QC,Edmonton AB,Contract Owner-Op,Standard,Hazardous,Gold,Snow,5,497.3,1293.9,4,0,6.85,-17.0,10.4,7.7,38.0,0.595,1,212.44
+SHP-104101,Toronto ON,Toronto ON,QuebecExpress,Standard,Fragile,Bronze,Rain,1,514.3,1321.5,4,1,12.14,89.0,5.7,0.7,59.6,0.46,2,126.07
+SHP-105146,Montreal QC,Toronto ON,QuebecExpress,Economy,General Freight,Silver,Clear,2,436.6,635.8,1,0,9.34,-11.0,4.2,11.8,72.6,0.386,1,145.77
+SHP-102392,Ottawa ON,Toronto ON,QuebecExpress,Standard,General Freight,Silver,Clear,1,917.8,1856.8,2,0,14.7,14.0,2.3,4.2,38.0,0.453,3,185.61
+SHP-102374,Ottawa ON,Montreal QC,MapleFreight Fleet,Economy,Refrigerated,Bronze,,3,2115.6,1120.7,5,0,33.6,30.0,6.7,4.8,39.5,0.003,2,
+SHP-103445,Ottawa ON,Calgary AB,MapleFreight Fleet,Standard,Refrigerated,Silver,Clear,7,1087.8,1118.0,4,0,17.51,15.0,3.4,2.7,52.0,0.775,2,62.68
+SHP-101565,Winnipeg MB,Edmonton AB,Contract Owner-Op,Standard,Fragile,Silver,Clear,12,137.8,292.1,4,0,5.11,10.0,1.1,3.6,73.0,0.583,1,232.16
+SHP-105794,Toronto ON,Calgary AB,NorthStar Carriers,Standard,General Freight,Bronze,Clear,2,568.6,347.8,0,0,7.47,-20.0,6.2,6.6,64.6,0.339,1,124.53
+SHP-100272,Toronto ON,Sudbury ON,MapleFreight Fleet,Express,Refrigerated,Bronze,Fog,5,309.6,535.6,5,0,9.4,34.0,13.4,8.7,50.3,0.527,2,
+SHP-104700,Toronto ON,Quebec City QC,NorthStar Carriers,Standard,Fragile,Bronze,Snow,10,323.9,672.3,5,0,8.65,59.0,9.8,5.3,59.4,0.359,2,103.04
+SHP-100041,Mississauga ON,Ottawa ON,Contract Owner-Op,Express,General Freight,Bronze,,8,1111.9,728.8,4,0,15.58,-11.0,14.4,2.1,52.2,0.521,0,183.94
+SHP-100249,Calgary AB,Toronto ON,PrairieLine,Standard,General Freight,Silver,Fog,12,1499.4,2120.1,0,0,18.28,15.0,1.6,3.9,63.7,0.163,1,
+SHP-103381,Calgary AB,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Bronze,Fog,7,682.3,249.5,4,0,13.02,-13.0,5.3,4.8,69.7,0.58,2,225.49
+SHP-101403,Calgary AB,Edmonton AB,PrairieLine,Standard,General Freight,Silver,Clear,10,187.8,472.5,0,0,1.0,-10.0,15.0,2.3,32.4,0.571,2,243.48
+SHP-103860,Ottawa ON,Regina SK,NorthStar Carriers,Standard,General Freight,Silver,Fog,11,242.5,1278.0,0,0,4.96,110.0,9.9,3.2,84.5,0.627,5,254.51
+SHP-102433,Toronto ON,Ottawa ON,MapleFreight Fleet,Express,General Freight,Bronze,Clear,4,424.8,550.9,5,0,9.96,8.0,1.9,1.0,63.3,0.246,2,169.31
+SHP-101934,Montreal QC,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Gold,Clear,1,783.1,1032.6,2,0,12.58,9.0,1.3,4.6,71.8,1.0,1,171.53
+SHP-103427,Calgary AB,Quebec City QC,NorthStar Carriers,Standard,General Freight,Silver,Clear,5,537.3,401.3,4,0,11.17,-20.0,7.0,3.8,77.5,0.313,1,152.22
+SHP-101500,Ottawa ON,Edmonton AB,QuebecExpress,Economy,General Freight,Silver,Rain,8,550.0,1176.7,0,0,7.61,-20.0,2.3,6.3,59.2,0.305,0,79.28
+SHP-102673,Toronto ON,Ottawa ON,MapleFreight Fleet,Standard,Bulk,Silver,Clear,11,518.4,589.7,4,0,9.84,-20.0,5.2,3.0,75.2,0.56,2,117.17
+SHP-100029,Ottawa ON,Toronto ON,Contract Owner-Op,Standard,General Freight,Gold,Rain,4,427.7,1739.4,2,0,8.53,35.0,8.9,9.2,62.3,0.581,3,239.61
+SHP-102027,Toronto ON,Hamilton ON,Contract Owner-Op,Express,Bulk,Silver,Rain,7,369.9,287.7,4,0,6.89,25.0,12.0,3.5,55.3,0.539,1,180.88
+SHP-103991,Calgary AB,Quebec City QC,QuebecExpress,Economy,Fragile,Bronze,Clear,8,402.8,208.0,4,0,9.64,27.0,1.9,6.1,70.1,0.366,1,92.14
+SHP-103721,Mississauga ON,Hamilton ON,NorthStar Carriers,Express,General Freight,Silver,Rain,6,290.5,646.0,2,0,6.42,-17.0,0.9,3.5,48.4,0.467,1,81.68
+SHP-100557,London ON,Hamilton ON,NorthStar Carriers,Economy,Fragile,Bronze,Rain,9,486.7,773.6,1,0,7.8,54.0,4.7,6.4,85.4,0.446,0,140.66
+SHP-105617,Toronto ON,Quebec City QC,MapleFreight Fleet,Standard,General Freight,Silver,Fog,12,465.2,928.4,5,0,9.96,4.0,3.8,3.8,69.2,0.612,1,197.8
+SHP-103725,Montreal QC,Sudbury ON,NorthStar Carriers,Economy,Bulk,Gold,Clear,8,568.0,310.1,5,0,12.4,-20.0,4.0,9.6,40.8,0.349,0,
+SHP-100631,Montreal QC,Edmonton AB,PrairieLine,Standard,Fragile,Silver,Rain,11,1520.0,556.1,1,0,23.19,11.0,,5.7,29.2,0.52,2,
+SHP-102297,Calgary AB,Ottawa ON,QuebecExpress,Standard,General Freight,Silver,Clear,11,507.0,708.8,0,0,6.52,-4.0,14.7,5.3,40.6,0.823,2,119.22
+SHP-102856,Toronto ON,Sudbury ON,Contract Owner-Op,Standard,Refrigerated,Silver,Clear,11,788.1,2149.8,1,0,11.89,24.0,10.0,3.5,44.5,0.32,2,129.65
+SHP-105287,Toronto ON,Quebec City QC,NorthStar Carriers,Standard,Refrigerated,Gold,,4,315.7,513.0,2,1,5.53,91.0,3.2,2.3,63.5,0.537,1,184.38
+SHP-104102,Ottawa ON,Ottawa ON,MapleFreight Fleet,Standard,Bulk,Bronze,Clear,4,671.4,2045.3,3,0,10.35,67.0,5.9,6.1,,0.374,2,177.94
+SHP-101977,Winnipeg MB,Quebec City QC,NorthStar Carriers,Express,General Freight,Silver,Clear,11,324.1,963.5,1,1,7.52,-1.0,5.5,5.6,41.8,0.468,0,60.29
+SHP-104304,Montreal QC,Sudbury ON,NorthStar Carriers,Standard,General Freight,Silver,Rain,12,727.3,1325.7,3,0,11.74,-12.0,3.8,2.4,34.4,0.024,1,216.88
+SHP-102142,Toronto ON,Toronto ON,QuebecExpress,Economy,General Freight,Silver,Clear,6,303.3,1259.5,2,1,5.81,-5.0,4.5,3.2,65.2,0.514,0,133.83
+SHP-103764,Toronto ON,Toronto ON,NorthStar Carriers,Standard,Hazardous,Silver,Clear,6,289.3,726.8,1,0,4.05,87.0,6.2,4.8,48.0,0.508,1,
+SHP-103276,Toronto ON,Winnipeg MB,MapleFreight Fleet,Standard,Bulk,Silver,Snow,5,871.8,379.1,3,0,13.45,22.0,12.8,1.7,62.4,0.353,0,158.73
+SHP-102971,Calgary AB,Ottawa ON,Contract Owner-Op,Standard,General Freight,Bronze,Clear,11,368.6,1119.3,3,0,7.59,17.0,1.9,7.7,41.6,0.554,1,
+SHP-105071,Toronto ON,Edmonton AB,NorthStar Carriers,Economy,Hazardous,Silver,Clear,8,683.2,885.5,3,0,11.65,16.0,2.9,0.6,61.6,0.587,0,179.78
+SHP-104413,Montreal QC,Montreal QC,MapleFreight Fleet,Express,General Freight,Silver,Clear,1,500.4,1204.2,3,0,9.33,22.0,1.8,1.6,68.7,0.334,2,213.36
+SHP-104371,Mississauga ON,Edmonton AB,MapleFreight Fleet,Express,Fragile,Gold,Rain,11,212.6,961.9,1,0,2.22,-13.0,2.1,3.6,47.1,0.457,0,180.64
+SHP-104603,London ON,Edmonton AB,PrairieLine,Economy,General Freight,Bronze,Clear,6,410.4,461.6,1,0,5.27,78.0,1.5,4.4,27.9,0.431,1,60.72
+SHP-104630,Calgary AB,Edmonton AB,PrairieLine,Express,Bulk,Silver,Rain,12,357.8,615.9,2,0,5.85,12.0,1.1,15.2,48.2,0.798,2,299.17
+SHP-102200,Toronto ON,Calgary AB,MapleFreight Fleet,Express,Refrigerated,Gold,Clear,7,769.4,457.7,1,0,13.28,41.0,3.7,10.1,44.7,0.438,0,96.53
+SHP-103417,Calgary AB,Calgary AB,PrairieLine,Express,Hazardous,Silver,Clear,11,1021.1,246.6,3,0,16.37,15.0,,5.3,42.0,0.154,3,236.41
+SHP-105492,Toronto ON,Toronto ON,QuebecExpress,Economy,Bulk,Bronze,Clear,1,2043.0,288.6,2,0,29.3,5.0,7.6,8.0,28.9,0.451,3,117.46
+SHP-102903,Ottawa ON,Sudbury ON,NorthStar Carriers,Standard,Refrigerated,Bronze,Clear,4,465.3,1013.3,3,0,7.95,26.0,0.4,1.9,47.4,0.526,2,
+SHP-102754,Mississauga ON,Quebec City QC,QuebecExpress,Express,Fragile,Gold,Clear,1,792.9,578.5,4,0,12.92,24.0,2.3,2.6,57.3,0.762,0,252.04
+SHP-103915,Toronto ON,Ottawa ON,PrairieLine,Economy,General Freight,Silver,Snow,10,397.0,353.2,3,0,7.42,-3.0,7.5,6.5,37.6,0.597,2,233.98
+SHP-102255,Mississauga ON,Hamilton ON,PrairieLine,Standard,General Freight,Bronze,Snow,4,1211.2,2218.8,3,0,20.03,19.0,8.7,5.3,53.3,0.656,0,224.58
+SHP-103120,Ottawa ON,Quebec City QC,MapleFreight Fleet,Economy,Refrigerated,Bronze,Storm,4,361.5,1658.3,4,0,6.82,-20.0,2.8,7.2,48.6,0.166,2,210.49
+SHP-101449,Calgary AB,Toronto ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Snow,1,591.9,557.3,3,0,10.68,-17.0,10.6,6.8,39.1,0.584,3,146.38
+SHP-103754,Calgary AB,Ottawa ON,PrairieLine,Express,Refrigerated,Bronze,Clear,3,399.7,519.6,1,0,5.3,63.0,6.5,10.9,53.2,0.397,2,157.67
+SHP-100486,Montreal QC,Ottawa ON,QuebecExpress,Standard,Hazardous,Silver,Rain,9,452.8,1227.3,4,0,8.27,-8.0,5.2,6.9,48.6,0.587,2,284.15
+SHP-101177,Toronto ON,Edmonton AB,PrairieLine,Standard,Bulk,Bronze,Clear,1,869.7,765.4,4,0,14.85,11.0,9.0,4.8,62.4,0.546,3,231.25
+SHP-105659,Montreal QC,Edmonton AB,MapleFreight Fleet,Express,General Freight,Silver,Clear,8,563.2,2307.0,5,0,13.46,-20.0,2.3,6.4,58.7,0.272,2,233.42
+SHP-102661,Mississauga ON,Edmonton AB,MapleFreight Fleet,Standard,Fragile,Bronze,Rain,1,719.8,852.6,5,0,11.91,-20.0,7.5,10.0,80.4,0.365,3,198.3
+SHP-101855,Montreal QC,Winnipeg MB,QuebecExpress,Standard,General Freight,Silver,Fog,1,708.3,505.9,1,0,11.38,28.0,1.1,2.0,69.1,0.357,1,80.56
+SHP-102381,Ottawa ON,Montreal QC,NorthStar Carriers,Economy,General Freight,Bronze,Clear,1,400.6,2448.3,5,0,8.78,7.0,1.2,4.8,67.3,0.873,0,228.57
+SHP-105809,Montreal QC,Ottawa ON,PrairieLine,Express,General Freight,Silver,Rain,7,249.7,589.2,3,0,5.48,26.0,1.7,8.5,40.8,0.191,1,195.97
+SHP-101302,Ottawa ON,Sudbury ON,QuebecExpress,Economy,General Freight,Silver,Clear,9,247.6,1039.0,0,0,3.77,40.0,7.3,9.3,81.5,0.664,2,234.83
+SHP-100812,Mississauga ON,Sudbury ON,PrairieLine,Standard,General Freight,Bronze,Clear,8,232.8,872.4,3,0,5.26,-9.0,8.8,4.8,48.3,0.516,1,
+SHP-100571,Calgary AB,Calgary AB,Contract Owner-Op,Economy,General Freight,Bronze,Clear,6,545.8,521.0,0,0,7.63,16.0,,8.2,64.8,0.415,2,213.75
+SHP-101380,Winnipeg MB,Sudbury ON,NorthStar Carriers,Express,Refrigerated,Silver,Clear,10,635.1,225.0,2,0,12.87,61.0,4.2,0.8,31.6,0.158,2,206.62
+SHP-102011,Toronto ON,Ottawa ON,MapleFreight Fleet,Economy,General Freight,Silver,Snow,12,403.8,876.8,4,0,8.51,10.0,8.5,3.0,63.1,0.141,2,87.28
+SHP-102127,Toronto ON,Quebec City QC,MapleFreight Fleet,Standard,Fragile,Silver,Clear,12,294.9,1312.2,1,0,6.01,23.0,2.6,4.6,61.5,0.431,1,168.7
+SHP-100485,Mississauga ON,Quebec City QC,QuebecExpress,Standard,Fragile,Bronze,Storm,2,277.5,298.5,5,0,7.39,14.0,4.6,3.5,42.8,0.973,3,223.81
+SHP-104770,Calgary AB,Ottawa ON,PrairieLine,Express,General Freight,Gold,Snow,1,942.7,1841.7,3,0,16.55,38.0,8.5,10.6,43.0,0.387,1,225.7
+SHP-101184,Ottawa ON,Calgary AB,PrairieLine,Express,General Freight,Silver,Clear,4,446.5,1213.7,0,1,8.74,22.0,11.1,1.1,55.3,0.492,1,177.85
+SHP-100809,Montreal QC,Sudbury ON,NorthStar Carriers,Express,General Freight,Bronze,Clear,11,505.8,1035.5,1,0,6.46,-20.0,12.5,4.3,33.2,0.504,0,176.41
+SHP-103773,Mississauga ON,Calgary AB,PrairieLine,Express,General Freight,Gold,Clear,5,1504.8,75.6,3,0,23.15,-1.0,6.7,0.6,33.9,0.713,2,183.86
+SHP-100593,London ON,Toronto ON,QuebecExpress,Standard,General Freight,Bronze,Fog,1,386.0,481.2,4,0,10.59,66.0,5.4,2.2,64.6,0.527,2,81.28
+SHP-105610,Montreal QC,Edmonton AB,NorthStar Carriers,Economy,Fragile,Silver,Clear,9,997.5,1412.5,2,0,16.04,3.0,4.7,4.0,60.0,0.331,0,53.16
+SHP-104691,Mississauga ON,Ottawa ON,PrairieLine,Standard,Fragile,Bronze,Clear,3,691.5,1036.5,5,0,14.12,15.0,6.8,0.5,69.1,0.785,3,165.5
+SHP-103341,Calgary AB,Montreal QC,NorthStar Carriers,Standard,Bulk,Bronze,Clear,8,806.5,1387.9,4,0,13.59,50.0,0.6,1.2,96.8,0.219,1,144.84
+SHP-100698,Montreal QC,Winnipeg MB,MapleFreight Fleet,Express,General Freight,Silver,Rain,4,256.8,1352.7,4,0,5.79,-3.0,2.8,7.3,59.8,0.859,3,218.45
+SHP-101683,Ottawa ON,Quebec City QC,MapleFreight Fleet,Express,Bulk,Silver,Clear,4,594.1,273.9,1,0,8.4,32.0,,1.7,81.0,0.217,0,110.47
+SHP-105605,Montreal QC,Calgary AB,NorthStar Carriers,Express,Hazardous,Silver,Rain,9,879.4,1182.9,0,0,13.53,35.0,14.6,1.8,52.3,0.365,3,273.12
+SHP-103875,Calgary AB,Ottawa ON,NorthStar Carriers,Standard,General Freight,Silver,Clear,6,964.2,3365.9,4,1,17.71,-20.0,7.5,3.7,65.2,0.566,3,193.26
+SHP-105049,Montreal QC,Hamilton ON,PrairieLine,Express,General Freight,Bronze,Snow,3,357.2,718.2,4,0,6.96,20.0,7.6,1.3,42.1,0.439,3,146.32
+SHP-100309,Toronto ON,Montreal QC,QuebecExpress,Express,Bulk,Silver,Clear,8,462.3,980.7,3,0,7.66,-11.0,4.2,0.7,,0.533,1,204.25
+SHP-105090,Calgary AB,Sudbury ON,MapleFreight Fleet,Economy,Bulk,Bronze,Clear,1,236.6,187.3,1,0,2.47,-20.0,5.9,1.4,31.1,0.358,2,126.8
+SHP-100665,Montreal QC,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Silver,Clear,2,709.3,1933.1,0,0,9.22,-10.0,3.5,4.2,39.2,0.481,0,169.69
+SHP-105499,Montreal QC,Montreal QC,PrairieLine,Standard,General Freight,Silver,Clear,2,745.4,1344.8,2,0,12.06,-6.0,6.8,2.5,46.8,0.422,2,152.7
+SHP-105073,Montreal QC,Edmonton AB,NorthStar Carriers,Standard,General Freight,Gold,Rain,7,518.1,315.5,4,0,10.11,-12.0,1.1,0.7,32.3,0.361,2,116.34
+SHP-100672,Toronto ON,Sudbury ON,PrairieLine,Standard,General Freight,Bronze,Clear,1,310.2,270.7,2,0,5.31,-4.0,1.4,3.5,58.5,0.622,2,193.39
+SHP-103856,Ottawa ON,Regina SK,MapleFreight Fleet,Standard,Bulk,Silver,Rain,12,564.8,627.1,4,0,10.59,33.0,2.9,6.9,36.6,0.468,0,161.67
+SHP-100938,Montreal QC,Toronto ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,9,676.5,381.9,1,0,9.16,32.0,14.0,2.8,43.7,0.326,0,262.62
+SHP-100655,Montreal QC,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Gold,Snow,5,493.1,784.6,2,0,8.01,32.0,7.5,3.5,28.0,0.426,1,198.36
+SHP-104528,Ottawa ON,Toronto ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,11,638.8,475.3,1,0,8.97,4.0,5.4,7.4,48.3,0.163,2,138.62
+SHP-105832,Montreal QC,Sudbury ON,QuebecExpress,Standard,Refrigerated,Bronze,Rain,7,602.8,477.2,5,0,11.35,25.0,5.3,4.5,69.9,0.687,1,142.49
+SHP-105705,London ON,Hamilton ON,Contract Owner-Op,Standard,General Freight,Bronze,Clear,5,368.0,705.0,2,0,7.04,86.0,2.8,3.3,39.5,0.45,4,127.2
+SHP-105143,Calgary AB,Winnipeg MB,QuebecExpress,Standard,Refrigerated,Bronze,Snow,5,443.9,1215.5,5,1,11.1,13.0,7.6,11.7,50.4,0.284,1,192.59
+SHP-103348,Winnipeg MB,Regina SK,Contract Owner-Op,Economy,Fragile,Silver,Clear,11,462.1,1210.1,0,0,4.18,27.0,5.8,9.7,87.7,0.196,1,85.88
+SHP-104884,Mississauga ON,Regina SK,PrairieLine,Express,General Freight,Silver,Snow,6,414.5,981.6,1,0,7.42,26.0,7.6,5.6,60.1,0.538,1,146.49
+SHP-105901,Toronto ON,Regina SK,PrairieLine,Standard,Refrigerated,Bronze,Clear,6,298.6,545.8,0,0,3.14,38.0,6.2,7.7,56.4,0.662,2,278.66
+SHP-103475,Toronto ON,Regina SK,QuebecExpress,Express,General Freight,Bronze,Clear,9,476.2,3004.9,0,1,5.39,106.0,3.0,10.7,23.6,0.448,1,193.34
+SHP-102613,London ON,Hamilton ON,QuebecExpress,Economy,Hazardous,Bronze,Clear,12,250.0,326.1,4,0,5.44,-20.0,7.3,5.0,70.3,0.091,0,152.63
+SHP-104481,Toronto ON,Ottawa ON,QuebecExpress,Standard,General Freight,Bronze,Clear,9,521.5,1786.0,5,0,11.71,37.0,4.2,3.7,64.1,0.188,1,128.37
+SHP-105152,Montreal QC,Toronto ON,QuebecExpress,Standard,Refrigerated,Bronze,Clear,2,1074.2,261.4,0,0,13.4,-14.0,7.5,10.5,77.9,0.374,2,241.94
+SHP-100911,Ottawa ON,Winnipeg MB,NorthStar Carriers,Economy,General Freight,Silver,Clear,2,911.0,743.6,1,0,14.96,62.0,6.2,4.2,78.1,0.543,3,155.48
+SHP-105549,Toronto ON,Edmonton AB,QuebecExpress,Economy,Hazardous,Bronze,Clear,6,254.3,1531.2,2,1,4.07,17.0,6.0,7.8,74.9,0.205,3,182.04
+SHP-100960,Toronto ON,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Gold,Rain,1,603.5,699.3,0,0,6.45,-20.0,1.3,2.7,53.1,0.769,1,144.3
+SHP-101629,Toronto ON,Montreal QC,MapleFreight Fleet,Standard,Bulk,Silver,,11,489.2,569.9,0,1,9.58,-7.0,5.1,4.5,21.9,0.359,0,168.42
+SHP-100897,Ottawa ON,Sudbury ON,Contract Owner-Op,Economy,Bulk,Bronze,Storm,5,681.2,1511.9,0,0,8.31,-10.0,7.6,4.5,50.6,0.481,2,
+SHP-104860,Montreal QC,Hamilton ON,Contract Owner-Op,Standard,General Freight,Bronze,Clear,7,298.1,468.7,3,0,8.44,47.0,2.8,19.3,77.6,0.634,1,143.36
+SHP-105058,Toronto ON,Ottawa ON,NorthStar Carriers,Economy,General Freight,Bronze,Clear,4,368.6,1365.3,0,0,4.25,8.0,13.8,4.6,66.3,0.464,1,174.81
+SHP-104764,Toronto ON,Toronto ON,PrairieLine,Standard,General Freight,Silver,Clear,12,990.0,536.1,1,0,12.99,31.0,6.1,6.7,50.4,0.372,1,174.26
+SHP-101379,London ON,Toronto ON,MapleFreight Fleet,Standard,Bulk,Bronze,Clear,4,1432.4,481.7,2,0,21.66,48.0,7.9,14.3,71.1,0.241,2,
+SHP-105353,Mississauga ON,Montreal QC,NorthStar Carriers,Economy,General Freight,Bronze,Clear,10,433.7,258.7,0,0,10.18,44.0,6.6,1.3,63.6,0.92,0,221.9
+SHP-100504,Montreal QC,Regina SK,MapleFreight Fleet,Express,Hazardous,Gold,Clear,12,348.6,786.6,0,0,2.51,39.0,2.0,7.0,34.8,0.277,0,114.16
+SHP-100866,Toronto ON,Regina SK,PrairieLine,Standard,Fragile,Bronze,Clear,7,1023.2,869.2,1,0,16.01,33.0,6.2,6.2,60.1,0.691,5,212.55
+SHP-103604,Calgary AB,Winnipeg MB,PrairieLine,Standard,Fragile,Silver,Clear,11,434.9,1406.0,0,0,5.82,-20.0,2.8,3.9,73.0,0.264,0,193.4
+SHP-103395,Montreal QC,Ottawa ON,PrairieLine,Standard,Refrigerated,Bronze,Storm,2,539.1,647.5,5,0,9.46,2.0,5.9,2.3,52.6,0.329,1,180.23
+SHP-104912,Calgary AB,Toronto ON,MapleFreight Fleet,Standard,Bulk,Silver,Clear,8,757.4,1216.8,5,0,14.24,33.0,5.9,6.3,46.2,0.721,0,165.2
+SHP-103938,Calgary AB,Ottawa ON,Contract Owner-Op,Standard,Hazardous,Silver,Clear,2,876.5,1180.4,1,0,12.05,2.0,6.0,5.5,88.6,0.287,0,244.47
+SHP-101771,Mississauga ON,Quebec City QC,MapleFreight Fleet,Standard,General Freight,Silver,Rain,3,387.2,1963.7,4,0,8.0,44.0,9.3,5.5,50.1,0.433,1,227.28
+SHP-105839,Montreal QC,Edmonton AB,NorthStar Carriers,Standard,General Freight,Gold,Rain,9,347.9,1565.7,1,0,7.03,-20.0,13.6,5.0,59.9,0.579,0,196.99
+SHP-105128,Toronto ON,Quebec City QC,QuebecExpress,Economy,Refrigerated,Bronze,Clear,5,1579.9,1958.4,5,0,24.89,64.0,5.0,8.0,66.5,0.541,0,197.91
+SHP-104283,Calgary AB,Calgary AB,MapleFreight Fleet,Economy,General Freight,Gold,Clear,9,490.2,254.3,3,0,9.25,-18.0,10.7,9.2,67.1,0.271,5,173.78
+SHP-101792,Montreal QC,Toronto ON,Contract Owner-Op,Standard,Bulk,Gold,Clear,3,232.6,284.7,1,0,4.41,64.0,9.2,5.5,49.8,0.463,2,256.07
+SHP-102608,London ON,Montreal QC,QuebecExpress,Standard,General Freight,Silver,Snow,7,497.6,2803.7,5,0,10.66,22.0,7.7,2.3,37.3,0.47,4,119.11
+SHP-102874,Mississauga ON,Winnipeg MB,NorthStar Carriers,Standard,Refrigerated,Silver,Rain,8,290.1,1176.5,2,0,6.61,45.0,1.0,4.3,36.4,0.635,0,186.79
+SHP-105507,Toronto ON,Hamilton ON,NorthStar Carriers,Economy,Bulk,Bronze,Clear,4,318.4,414.3,4,0,7.91,-16.0,,5.6,52.2,0.438,0,177.57
+SHP-103561,Calgary AB,Montreal QC,MapleFreight Fleet,Economy,Fragile,Gold,Clear,11,538.6,2057.0,4,0,10.71,36.0,5.9,3.3,39.9,0.434,3,218.24
+SHP-104856,Toronto ON,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Bronze,,6,1085.6,1120.4,3,0,18.45,-4.0,7.0,16.0,66.4,0.568,3,286.0
+SHP-103335,London ON,Sudbury ON,MapleFreight Fleet,Express,Fragile,Silver,Fog,7,1949.9,1601.6,1,1,26.76,30.0,3.5,6.7,73.6,1.0,1,259.61
+SHP-103794,Montreal QC,Quebec City QC,Contract Owner-Op,Express,General Freight,Bronze,Rain,11,602.9,178.2,4,0,10.78,4.0,2.0,7.9,49.2,0.697,5,125.1
+SHP-100661,Toronto ON,Sudbury ON,MapleFreight Fleet,Economy,Hazardous,Bronze,Rain,9,561.1,1051.2,1,1,8.54,4.0,5.0,5.1,79.0,0.349,0,106.07
+SHP-103031,Montreal QC,Ottawa ON,PrairieLine,Standard,General Freight,Gold,Rain,1,423.8,1421.8,1,0,6.84,-20.0,2.2,8.6,38.9,0.519,3,159.63
+SHP-105519,Toronto ON,Toronto ON,MapleFreight Fleet,Standard,General Freight,Silver,Clear,12,702.0,438.0,5,0,15.24,16.0,13.2,3.6,67.5,0.709,2,165.13
+SHP-103237,London ON,Calgary AB,NorthStar Carriers,Economy,Hazardous,Bronze,Clear,11,545.8,1938.3,4,0,12.1,60.0,14.0,4.9,47.1,0.489,3,161.94
+SHP-104239,Calgary AB,Regina SK,PrairieLine,Standard,General Freight,Bronze,Fog,6,678.0,1033900.0,5,0,11.65,77.0,0.3,5.3,68.6,0.59,2,213.03
+SHP-103941,Toronto ON,Calgary AB,MapleFreight Fleet,Standard,Refrigerated,Gold,Clear,5,647.0,397.3,3,0,10.07,28.0,5.6,4.2,42.7,0.613,2,208.3
+SHP-102665,Mississauga ON,Regina SK,Contract Owner-Op,Standard,Fragile,Bronze,Snow,12,536.8,959.3,5,0,10.04,-20.0,5.6,8.2,51.4,0.566,4,220.12
+SHP-105927,Mississauga ON,Calgary AB,QuebecExpress,Economy,Refrigerated,Bronze,Storm,5,609.7,2628.3,5,0,11.73,-7.0,4.9,6.5,88.5,0.132,1,203.19
+SHP-102548,Toronto ON,Quebec City QC,PrairieLine,Standard,Refrigerated,Silver,Fog,5,630.9,1790.1,5,0,13.18,26.0,13.1,7.1,57.2,0.462,1,122.41
+SHP-101637,Ottawa ON,Sudbury ON,MapleFreight Fleet,Express,Refrigerated,Silver,Clear,12,951.2,1228.0,0,0,15.26,-20.0,9.9,6.1,22.3,0.357,0,201.76
+SHP-100429,Winnipeg MB,Edmonton AB,MapleFreight Fleet,Economy,General Freight,Silver,Fog,11,377.6,151.7,3,0,7.63,4.0,6.7,2.5,73.3,0.088,1,222.03
+SHP-105497,Montreal QC,Calgary AB,PrairieLine,Express,General Freight,Silver,Fog,7,1767.5,2330.7,3,0,26.3,48.0,17.4,1.5,68.5,0.325,2,229.86
+SHP-104554,Ottawa ON,Sudbury ON,Contract Owner-Op,Economy,Refrigerated,Bronze,Clear,11,875.1,1547.5,2,0,12.13,12.0,2.6,0.9,83.3,0.076,2,
+SHP-100367,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Economy,General Freight,Bronze,Clear,12,152.0,315.0,3,1,4.92,1.0,2.0,4.2,51.8,0.27,2,257.44
+SHP-105218,Toronto ON,Hamilton ON,MapleFreight Fleet,Economy,Refrigerated,Silver,,11,942.4,815.7,4,0,16.29,44.0,2.5,7.7,67.4,0.239,0,225.8
+SHP-104742,Calgary AB,Regina SK,MapleFreight Fleet,Economy,Hazardous,Gold,Rain,10,963.8,235.7,2,0,13.92,70.0,10.7,8.4,66.2,0.724,2,210.53
+SHP-101206,London ON,Sudbury ON,QuebecExpress,Economy,General Freight,Bronze,Rain,1,351.1,479.5,4,0,6.4,72.0,2.9,5.0,54.5,0.218,1,243.7
+SHP-101282,Toronto ON,Edmonton AB,PrairieLine,Standard,Fragile,Silver,Rain,8,868.1,2159.8,0,0,10.81,32.0,6.2,6.2,67.3,0.474,1,231.22
+SHP-104365,Calgary AB,Montreal QC,MapleFreight Fleet,Economy,General Freight,Silver,Rain,7,450.2,1293.1,5,0,11.19,41.0,3.4,3.7,83.6,0.71,0,271.85
+SHP-100019,Ottawa ON,Hamilton ON,QuebecExpress,Standard,General Freight,Gold,Clear,6,504.0,2613.9,2,0,10.54,54.0,6.9,2.2,50.3,0.598,0,132.96
+SHP-100696,Montreal QC,Hamilton ON,Contract Owner-Op,Standard,Refrigerated,Silver,Clear,3,185.9,869.6,3,0,4.36,-4.0,10.8,2.6,53.9,0.698,2,62.76
+SHP-104636,Mississauga ON,Sudbury ON,PrairieLine,Standard,General Freight,Bronze,,11,553.9,1323.7,1,0,8.21,-20.0,,9.5,33.2,0.353,1,154.53
+SHP-104668,Toronto ON,Montreal QC,MapleFreight Fleet,Express,Refrigerated,Gold,Snow,3,1201.3,1839.5,2,0,17.05,20.0,,4.0,52.8,0.444,1,208.58
+SHP-104105,Montreal QC,Toronto ON,Contract Owner-Op,Standard,Fragile,Silver,Snow,4,467.1,1014.5,2,0,7.32,-20.0,7.3,8.0,82.9,0.57,1,248.0
+SHP-100886,Toronto ON,Sudbury ON,NorthStar Carriers,Standard,General Freight,Bronze,Fog,3,803.7,573.7,3,0,16.81,-20.0,4.8,1.8,62.2,0.087,0,270.67
+SHP-104504,Mississauga ON,Regina SK,Contract Owner-Op,Express,Fragile,Silver,Clear,2,613.4,669.3,2,0,9.69,3.0,2.8,4.1,58.9,0.478,1,198.03
+SHP-104719,Toronto ON,Calgary AB,Contract Owner-Op,Express,Hazardous,Bronze,Clear,9,833.7,740.1,3,0,13.84,34.0,1.3,0.8,52.5,0.353,1,190.84
+SHP-102910,Montreal QC,Edmonton AB,QuebecExpress,Economy,General Freight,Gold,Storm,9,1148.2,128.1,4,0,18.37,18.0,5.4,4.1,50.2,0.355,4,260.19
+SHP-100229,Calgary AB,Quebec City QC,MapleFreight Fleet,Standard,General Freight,Silver,Snow,9,143.0,608.6,4,0,5.18,47.0,4.7,7.0,36.0,0.575,0,149.77
+SHP-102834,London ON,Calgary AB,MapleFreight Fleet,Standard,Bulk,Gold,Clear,6,1493.0,919.7,4,0,23.15,55.0,3.8,3.2,54.4,0.363,1,277.05
+SHP-101659,Montreal QC,Quebec City QC,MapleFreight Fleet,Express,Bulk,Bronze,Fog,12,401.4,656.0,1,1,7.35,-1.0,12.8,10.4,58.2,0.177,0,164.49
+SHP-104654,Toronto ON,Calgary AB,NorthStar Carriers,Standard,General Freight,Silver,Fog,12,375.3,871.2,1,0,8.37,-20.0,6.0,3.3,54.3,0.446,1,248.94
+SHP-100764,Toronto ON,Toronto ON,NorthStar Carriers,Standard,General Freight,Bronze,Clear,12,735.8,2744.4,0,0,8.5,41.0,10.5,13.3,26.9,0.097,3,148.13
+SHP-100123,Winnipeg MB,Montreal QC,NorthStar Carriers,Standard,Hazardous,Silver,Snow,4,604.9,446.7,4,1,9.76,1.0,7.3,7.0,60.6,0.421,0,145.39
+SHP-103211,Calgary AB,Ottawa ON,PrairieLine,Express,Refrigerated,Gold,Clear,1,729.3,1088.5,4,0,13.17,-20.0,7.8,5.7,48.2,0.716,2,159.03
+SHP-103476,Winnipeg MB,Ottawa ON,MapleFreight Fleet,Express,Bulk,Gold,Snow,4,234.7,460.0,3,0,4.98,-20.0,2.1,4.5,63.3,0.0,0,139.13
+SHP-105243,Montreal QC,Hamilton ON,NorthStar Carriers,Express,General Freight,Silver,Rain,5,536.4,2864.3,4,0,10.12,22.0,4.4,2.0,73.5,0.443,3,139.41
+SHP-103588,Montreal QC,Ottawa ON,PrairieLine,Standard,General Freight,Bronze,Clear,7,964.0,246.9,4,0,17.18,27.0,2.1,6.7,76.6,0.388,0,155.87
+SHP-101357,Toronto ON,Toronto ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Clear,6,981.9,610.3,3,0,15.96,21.0,7.4,2.8,47.1,0.614,1,135.08
+SHP-104314,Montreal QC,Toronto ON,QuebecExpress,Standard,General Freight,Silver,Clear,2,625.5,1014.7,3,0,11.37,-20.0,4.9,9.4,,0.716,2,110.92
+SHP-104756,Toronto ON,Sudbury ON,MapleFreight Fleet,Economy,Bulk,Silver,Rain,11,924.2,508.5,0,1,15.65,37.0,3.9,3.5,68.3,0.72,0,210.06
+SHP-103151,Montreal QC,Regina SK,Contract Owner-Op,Express,Bulk,Silver,Clear,9,626.2,1222.9,1,0,7.47,20.0,1.9,4.1,48.0,0.591,2,136.14
+SHP-102952,Toronto ON,Quebec City QC,MapleFreight Fleet,Standard,Refrigerated,Bronze,Snow,11,390.2,544.1,1,0,5.64,18.0,1.5,10.0,,0.456,2,207.67
+SHP-105787,Ottawa ON,Regina SK,QuebecExpress,Economy,General Freight,Gold,Snow,9,225.2,1531.3,0,0,3.97,40.0,5.3,7.8,42.9,0.163,1,222.53
+SHP-104355,Toronto ON,Quebec City QC,MapleFreight Fleet,Express,Bulk,Bronze,Rain,7,855.3,794.9,4,1,13.82,1.0,16.5,9.0,33.9,0.406,1,197.38
+SHP-104172,Calgary AB,Sudbury ON,PrairieLine,Standard,Bulk,Bronze,Snow,9,891.2,1071.0,0,0,12.94,46.0,12.9,9.2,49.7,0.276,1,214.44
+SHP-104403,Toronto ON,Regina SK,QuebecExpress,Standard,Refrigerated,Gold,Rain,6,1115.9,1210.4,5,0,18.08,24.0,2.0,4.5,33.7,0.402,0,138.77
+SHP-103407,Toronto ON,Sudbury ON,NorthStar Carriers,Standard,Fragile,Bronze,Clear,11,891.5,1550.3,5,0,16.77,19.0,13.1,6.7,34.5,0.572,0,134.42
+SHP-102830,Montreal QC,Quebec City QC,MapleFreight Fleet,Standard,Refrigerated,Silver,Rain,9,754.2,1560.7,2,0,12.85,39.0,0.7,4.3,77.4,0.559,1,219.92
+SHP-104361,Toronto ON,Montreal QC,NorthStar Carriers,Standard,General Freight,Bronze,Rain,9,315.3,1096.5,4,0,6.4,-20.0,10.6,11.4,53.6,0.489,4,161.18
+SHP-100969,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Bronze,Storm,7,253.6,4233.9,0,0,4.92,43.0,8.0,2.0,29.3,0.212,2,214.88
+SHP-101714,Montreal QC,Hamilton ON,QuebecExpress,Standard,Fragile,Bronze,Clear,6,420.2,820.0,3,0,8.04,28.0,1.5,5.9,28.7,0.634,1,197.17
+SHP-102559,London ON,Edmonton AB,QuebecExpress,Standard,General Freight,Silver,Snow,8,520.1,876.7,4,0,9.96,12.0,19.0,5.2,48.5,0.456,0,164.76
+SHP-104451,Toronto ON,Edmonton AB,MapleFreight Fleet,Standard,Refrigerated,Silver,Clear,5,679.4,1133.5,0,1,7.79,-17.0,20.1,3.9,36.0,0.217,1,63.62
+SHP-101664,Montreal QC,Calgary AB,QuebecExpress,Standard,General Freight,Silver,Rain,3,788.2,719.1,0,0,9.17,11.0,,4.5,65.9,0.538,2,103.29
+SHP-103140,Mississauga ON,Quebec City QC,QuebecExpress,Standard,General Freight,Silver,Rain,11,1181.3,1234.7,3,0,18.08,1.0,2.8,6.8,41.2,0.039,1,162.67
+SHP-104863,Calgary AB,Quebec City QC,Contract Owner-Op,Standard,Bulk,Bronze,Storm,5,461.5,3490.5,1,0,7.23,8.0,10.9,3.8,54.8,0.255,2,230.14
+SHP-105752,Mississauga ON,Toronto ON,QuebecExpress,Standard,General Freight,Silver,Clear,1,814.1,921.8,3,0,12.35,50.0,4.1,3.2,77.1,0.59,0,318.01
+SHP-104919,Winnipeg MB,Sudbury ON,Contract Owner-Op,Standard,Fragile,Silver,Clear,12,681.7,384.8,1,0,10.93,9.0,1.4,3.7,89.6,0.041,0,106.29
+SHP-103217,London ON,Toronto ON,MapleFreight Fleet,Express,General Freight,Gold,Clear,11,425.5,670.8,2,0,8.74,22.0,3.8,4.0,66.5,0.301,1,208.98
+SHP-103543,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Economy,Fragile,Bronze,Fog,7,887.5,855.9,1,0,14.09,-5.0,2.9,12.3,79.2,0.28,0,116.87
+SHP-101170,Montreal QC,Winnipeg MB,PrairieLine,Standard,General Freight,Silver,Clear,12,849.5,803.1,0,0,12.23,59.0,3.7,3.0,50.0,0.262,1,222.95
+SHP-104098,Mississauga ON,Quebec City QC,MapleFreight Fleet,Express,Fragile,Gold,Rain,4,372.2,286.0,0,1,5.5,56.0,1.4,4.1,52.0,0.174,2,94.2
+SHP-103532,Ottawa ON,Toronto ON,PrairieLine,Economy,Refrigerated,Silver,Rain,1,363.2,668.7,5,0,7.83,-20.0,1.3,6.0,58.5,0.274,0,120.3
+SHP-103639,London ON,Edmonton AB,MapleFreight Fleet,Economy,Refrigerated,Gold,Rain,10,273.3,724.5,1,0,4.07,-11.0,12.2,3.9,65.4,0.529,2,107.15
+SHP-105601,Toronto ON,Calgary AB,NorthStar Carriers,Economy,Hazardous,Silver,Snow,10,835.1,468.2,3,0,14.1,-8.0,,3.6,62.6,0.379,2,169.91
+SHP-103022,Mississauga ON,Regina SK,Contract Owner-Op,Standard,General Freight,Bronze,Snow,1,404.4,570.1,2,0,7.42,-10.0,7.3,3.5,64.8,0.43,3,149.4
+SHP-105312,Mississauga ON,Ottawa ON,MapleFreight Fleet,Standard,Refrigerated,Bronze,Clear,7,355.8,752.9,2,0,2.8,61.0,2.0,2.1,62.0,0.35,0,291.83
+SHP-104460,Mississauga ON,Ottawa ON,PrairieLine,Standard,General Freight,Gold,Clear,4,1185.3,1522.8,3,0,18.51,45.0,1.2,14.0,66.5,0.685,0,184.0
+SHP-104085,Toronto ON,Toronto ON,QuebecExpress,Express,Refrigerated,Gold,Clear,4,1590.4,798.2,2,0,22.69,-15.0,3.6,11.8,87.7,0.586,1,99.39
+SHP-101983,Winnipeg MB,Regina SK,QuebecExpress,Express,General Freight,Bronze,Fog,8,556.5,607.7,2,0,12.9,-20.0,1.4,6.5,49.0,0.472,1,172.25
+SHP-105212,Calgary AB,Sudbury ON,QuebecExpress,Standard,General Freight,Gold,Rain,8,673.3,1470.3,0,0,9.94,-17.0,2.0,1.8,25.3,0.462,2,171.86
+SHP-105714,Toronto ON,Montreal QC,Contract Owner-Op,Standard,Refrigerated,Bronze,Rain,12,1301.4,2176.8,5,0,24.44,-20.0,9.7,4.0,53.3,0.283,1,151.11
+SHP-101447,Toronto ON,Calgary AB,NorthStar Carriers,Economy,Refrigerated,Bronze,Clear,2,1044.3,345.5,3,0,16.03,-20.0,18.6,13.0,,0.613,0,225.79
+SHP-101218,Calgary AB,Regina SK,MapleFreight Fleet,Standard,General Freight,Silver,Clear,9,549.6,839.7,5,0,12.69,1.0,3.0,5.3,46.2,0.531,1,103.53
+SHP-101016,Toronto ON,Calgary AB,QuebecExpress,Standard,Bulk,Gold,Clear,2,509.8,1255.8,4,0,10.71,-12.0,2.5,2.8,64.6,0.42,2,152.52
+SHP-102084,London ON,Toronto ON,QuebecExpress,Standard,Bulk,Bronze,Clear,10,556.2,968.4,1,0,8.36,4.0,3.0,1.5,28.1,0.703,5,148.65
+SHP-100136,Montreal QC,Calgary AB,QuebecExpress,Standard,Hazardous,Silver,Clear,12,639.7,1024.7,1,0,9.97,35.0,19.0,2.3,,0.75,1,119.95
+SHP-103491,Mississauga ON,Sudbury ON,Contract Owner-Op,Express,General Freight,Gold,Clear,8,493.7,764.6,3,0,7.24,36.0,1.2,5.4,21.9,0.25,3,118.86
+SHP-103615,Montreal QC,Hamilton ON,MapleFreight Fleet,Economy,General Freight,Gold,Clear,10,422.7,1351.6,2,0,8.48,34.0,5.4,5.3,81.2,0.624,1,169.36
+SHP-104275,Toronto ON,Montreal QC,MapleFreight Fleet,Standard,Refrigerated,Silver,Fog,12,1133.9,922.4,0,1,14.21,46.0,,5.6,85.0,0.32,0,198.92
+SHP-103024,Toronto ON,Edmonton AB,MapleFreight Fleet,Express,Fragile,Silver,Clear,9,850.2,807.4,2,1,12.99,32.0,2.6,12.1,54.4,0.187,2,152.35
+SHP-103682,Mississauga ON,Quebec City QC,PrairieLine,Economy,Fragile,Bronze,Clear,4,1396.6,1372.5,4,0,20.49,78.0,4.5,2.7,51.5,0.512,3,256.69
+SHP-102816,Montreal QC,Quebec City QC,MapleFreight Fleet,Express,General Freight,Silver,Snow,10,461.9,193.7,4,0,11.13,7.0,6.2,2.5,57.5,0.505,5,30.0
+SHP-104800,Mississauga ON,Montreal QC,MapleFreight Fleet,Economy,Fragile,Silver,Clear,1,454.2,589.5,0,1,6.36,74.0,4.6,5.0,85.0,0.27,4,84.53
+SHP-105238,Montreal QC,Winnipeg MB,QuebecExpress,Standard,Fragile,Bronze,Clear,6,661.0,887.7,0,0,9.4,40.0,4.0,1.5,42.1,0.518,1,237.72
+SHP-105005,Ottawa ON,Toronto ON,MapleFreight Fleet,Express,Fragile,Silver,Clear,6,682.5,1049.5,2,0,10.81,5.0,8.4,4.3,20.6,0.387,2,148.67
+SHP-102329,Winnipeg MB,Ottawa ON,MapleFreight Fleet,Economy,General Freight,Bronze,Clear,12,626.8,2247.3,3,0,12.24,-20.0,4.5,7.7,69.2,0.73,0,157.46
+SHP-102199,Toronto ON,Sudbury ON,PrairieLine,Standard,Fragile,Gold,Rain,6,796.4,1856.1,5,0,15.27,-0.0,,6.7,67.5,0.422,0,268.26
+SHP-100265,Toronto ON,Regina SK,PrairieLine,Standard,General Freight,Silver,Clear,2,282.7,298.4,5,0,7.25,-14.0,12.3,10.0,66.4,0.397,0,233.35
+SHP-100821,Toronto ON,Toronto ON,MapleFreight Fleet,Express,Hazardous,Bronze,Snow,3,138.5,1875.4,1,0,2.75,6.0,4.4,7.9,98.5,0.541,0,232.72
+SHP-102251,Mississauga ON,Sudbury ON,NorthStar Carriers,Standard,Refrigerated,Bronze,Clear,9,223.0,1853.4,0,0,3.82,9.0,2.8,3.3,44.5,0.308,2,145.14
+SHP-101654,London ON,Edmonton AB,QuebecExpress,Express,Bulk,Bronze,Clear,10,903.2,143.9,1,0,10.39,-6.0,6.3,3.7,40.0,0.792,1,245.61
+SHP-103495,Mississauga ON,Toronto ON,Contract Owner-Op,Economy,General Freight,Silver,Clear,2,897.0,238.5,5,1,16.28,34.0,11.2,11.4,50.1,0.296,2,100.77
+SHP-103481,Mississauga ON,Edmonton AB,QuebecExpress,Economy,Bulk,Gold,Storm,10,452.4,1561.0,1,0,6.05,-8.0,4.3,1.8,55.6,0.376,4,123.35
+SHP-105893,London ON,Montreal QC,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,5,568.9,1451.1,0,0,7.13,31.0,14.0,11.2,70.1,0.501,2,187.63
+SHP-103287,Ottawa ON,Sudbury ON,MapleFreight Fleet,Express,General Freight,Bronze,Clear,10,1067.4,252.0,3,0,16.85,48.0,1.4,2.8,62.4,0.367,3,126.81
+SHP-103736,Calgary AB,Sudbury ON,MapleFreight Fleet,Standard,Refrigerated,Gold,Fog,10,281.6,581.4,5,0,7.26,-20.0,8.8,2.0,81.4,0.553,1,212.51
+SHP-101259,Ottawa ON,Sudbury ON,MapleFreight Fleet,Economy,General Freight,Gold,Snow,9,375.7,221.8,3,0,10.02,-20.0,4.0,7.1,40.5,0.05,1,238.09
+SHP-100965,Toronto ON,Toronto ON,PrairieLine,Express,General Freight,Bronze,Snow,2,851.5,626.1,4,0,13.79,-20.0,3.9,9.0,36.7,0.693,1,201.36
+SHP-100328,London ON,Winnipeg MB,NorthStar Carriers,Standard,Bulk,Bronze,Snow,10,393.2,133.6,5,1,10.03,30.0,3.5,5.9,93.3,0.509,1,234.09
+SHP-104711,Toronto ON,Ottawa ON,MapleFreight Fleet,Economy,General Freight,Silver,Clear,10,284.5,142.6,5,0,6.5,29.0,1.0,1.7,43.3,0.476,0,116.18
+SHP-103817,Toronto ON,Montreal QC,QuebecExpress,Express,Bulk,Bronze,Clear,8,776.5,518.4,4,0,13.04,30.0,7.7,6.1,81.7,0.276,2,289.89
+SHP-100164,Toronto ON,Calgary AB,NorthStar Carriers,Express,General Freight,Bronze,Fog,12,821.8,573.4,3,0,12.88,14.0,4.8,2.8,63.1,0.419,0,84.85
+SHP-100258,Winnipeg MB,Winnipeg MB,MapleFreight Fleet,Express,General Freight,Bronze,Snow,9,521.1,603.4,1,0,8.15,72.0,,9.2,36.4,0.177,2,176.22
+SHP-102039,Mississauga ON,Montreal QC,QuebecExpress,Express,Fragile,Silver,Clear,2,737.3,872.2,2,0,10.03,-20.0,1.0,1.7,52.1,0.356,2,154.01
+SHP-102331,Toronto ON,Winnipeg MB,MapleFreight Fleet,Economy,Refrigerated,Silver,Rain,12,566.3,1471.2,5,1,10.59,47.0,7.0,0.3,75.4,0.554,0,275.06
+SHP-100305,Winnipeg MB,Edmonton AB,Contract Owner-Op,Standard,Hazardous,Bronze,Clear,10,446.6,1585.6,3,0,8.54,-2.0,12.1,6.7,84.9,0.834,0,108.66
+SHP-105453,Calgary AB,Quebec City QC,Contract Owner-Op,Standard,Hazardous,Silver,Clear,12,207.0,374.9,0,0,3.08,26.0,6.0,8.8,39.9,0.241,2,232.35
+SHP-100782,Montreal QC,Edmonton AB,QuebecExpress,Express,Fragile,Gold,Clear,10,461.0,214.0,1,0,6.95,3.0,4.4,11.0,54.1,0.558,3,130.12
+SHP-103311,Calgary AB,Montreal QC,Contract Owner-Op,Economy,General Freight,Bronze,Clear,4,517.2,473.2,4,0,11.36,60.0,5.6,5.6,70.5,0.363,0,184.38
+SHP-104887,Mississauga ON,Hamilton ON,QuebecExpress,Standard,Fragile,Gold,Clear,10,324.1,362.7,3,0,7.53,11.0,2.9,5.4,54.7,0.727,4,199.38
+SHP-105738,Calgary AB,Ottawa ON,NorthStar Carriers,Economy,Fragile,Bronze,Rain,11,438.3,1608.5,0,0,6.2,41.0,17.1,7.1,59.6,0.342,1,215.14
+SHP-104427,Toronto ON,Edmonton AB,PrairieLine,Economy,Fragile,Silver,Clear,6,531.8,3385.0,2,1,5.56,80.0,1.7,3.1,33.7,0.202,2,144.75
+SHP-103069,Ottawa ON,Montreal QC,QuebecExpress,Standard,Refrigerated,Silver,Clear,3,442.2,2748.4,0,0,6.94,5.0,0.2,10.6,70.1,0.42,2,
+SHP-101910,Ottawa ON,Montreal QC,QuebecExpress,Standard,General Freight,Bronze,Fog,9,334.6,126.7,3,0,5.83,-20.0,,5.4,71.6,0.704,0,213.35
+SHP-105917,Toronto ON,Quebec City QC,NorthStar Carriers,Standard,General Freight,Gold,Fog,10,586.8,796.4,3,0,11.15,-20.0,30.2,4.3,86.6,0.276,2,46.51
+SHP-105708,Montreal QC,Sudbury ON,NorthStar Carriers,Standard,General Freight,Silver,Clear,12,567.2,803.9,0,0,9.34,63.0,7.4,11.4,57.6,0.568,2,222.66
+SHP-102540,Toronto ON,Sudbury ON,NorthStar Carriers,Express,General Freight,Bronze,Clear,8,356.4,418.1,3,0,5.92,88.0,4.1,9.2,79.2,0.32,2,213.31
+SHP-102075,Toronto ON,Montreal QC,NorthStar Carriers,Express,Hazardous,Silver,Rain,2,797.6,1457.0,2,0,10.94,58.0,6.7,0.4,47.4,0.19,1,208.03
+SHP-104122,London ON,Montreal QC,Contract Owner-Op,Express,General Freight,Silver,Fog,12,475.8,505.1,2,0,6.71,21.0,8.0,3.0,54.6,0.735,0,247.73
+SHP-102841,Winnipeg MB,Calgary AB,Contract Owner-Op,Economy,General Freight,Silver,Rain,5,391.5,287.1,1,0,5.48,21.0,4.6,4.3,,0.768,0,92.06
+SHP-104173,Mississauga ON,Edmonton AB,MapleFreight Fleet,Standard,Hazardous,Gold,Snow,5,496.2,2021.4,4,0,10.06,15.0,,8.0,30.8,0.191,1,115.63
+SHP-100406,London ON,Calgary AB,QuebecExpress,Express,General Freight,Gold,Rain,5,808.6,1783.8,0,1,12.15,-20.0,8.4,1.3,60.9,0.711,1,200.56
+SHP-104727,Mississauga ON,Edmonton AB,PrairieLine,Standard,Fragile,Gold,Rain,2,899.9,1077.9,3,0,13.5,43.0,8.7,0.8,79.4,0.871,2,188.4
+SHP-105261,Calgary AB,Ottawa ON,QuebecExpress,Express,Bulk,Gold,Clear,8,212.6,854.2,0,0,2.02,63.0,5.3,5.0,56.9,0.344,1,235.89
+SHP-103541,Mississauga ON,Ottawa ON,MapleFreight Fleet,Standard,General Freight,Bronze,Storm,12,333.7,1269.9,2,0,4.7,4.0,6.2,6.3,53.3,0.442,1,121.31
+SHP-103121,Montreal QC,Hamilton ON,QuebecExpress,Express,Hazardous,Gold,Clear,11,277.3,2035.0,1,0,3.25,11.0,3.2,1.7,92.0,0.342,1,177.16
+SHP-103676,Ottawa ON,Edmonton AB,QuebecExpress,Express,Refrigerated,Gold,Fog,10,881.4,243.3,0,0,11.87,-10.0,1.3,3.3,50.2,0.393,0,301.75
+SHP-100820,Montreal QC,Winnipeg MB,PrairieLine,Standard,Fragile,Bronze,Clear,6,866.0,290.8,2,0,12.11,86.0,,10.0,55.8,0.096,1,287.48
+SHP-104643,Winnipeg MB,Ottawa ON,NorthStar Carriers,Express,General Freight,Gold,Rain,8,392.4,814.3,3,0,6.58,30.0,7.8,3.8,61.9,0.12,1,213.65
+SHP-105472,Mississauga ON,Ottawa ON,MapleFreight Fleet,Standard,Hazardous,Bronze,Clear,5,569.0,421.2,3,0,9.95,31.0,2.4,3.2,93.7,0.349,1,98.47
+SHP-100778,Ottawa ON,Toronto ON,NorthStar Carriers,Economy,Hazardous,Silver,Clear,12,1076.9,611.9,1,1,14.67,19.0,1.3,2.4,65.3,0.545,2,167.24
+SHP-102846,Ottawa ON,Hamilton ON,MapleFreight Fleet,Standard,Bulk,Bronze,Clear,12,821.4,400.2,0,0,12.8,26.0,5.2,8.1,39.7,0.324,0,206.92
+SHP-103352,London ON,Ottawa ON,QuebecExpress,Express,General Freight,Bronze,Rain,12,1292.9,1093.3,4,0,21.04,45.0,1.3,6.9,39.4,0.296,3,146.76
+SHP-101488,Winnipeg MB,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,2,844.8,789.9,0,0,14.21,-10.0,11.4,3.8,,0.507,2,247.06
+SHP-100070,Toronto ON,Calgary AB,MapleFreight Fleet,Economy,General Freight,Bronze,Fog,5,281.2,306.6,2,0,5.59,-20.0,6.3,1.0,8.1,0.305,2,
+SHP-103950,Mississauga ON,Toronto ON,NorthStar Carriers,Standard,General Freight,Silver,Clear,5,618.9,1212.5,3,0,9.06,17.0,1.2,6.4,,0.213,0,203.86
+SHP-102729,Montreal QC,Edmonton AB,NorthStar Carriers,Economy,General Freight,Silver,Clear,11,667.0,432.4,3,0,12.49,-20.0,2.8,4.2,67.9,0.769,0,122.52
+SHP-101997,Toronto ON,Calgary AB,MapleFreight Fleet,Economy,General Freight,Silver,Clear,5,525.3,1676.0,2,1,6.26,12.0,1.7,9.1,38.4,0.428,1,199.41
+SHP-102243,Ottawa ON,Montreal QC,NorthStar Carriers,Express,Hazardous,Silver,Clear,3,470.5,677.3,4,0,10.24,3.0,2.1,2.2,44.9,0.44,2,118.41
+SHP-101494,Mississauga ON,Calgary AB,Contract Owner-Op,Express,General Freight,Silver,Rain,8,226.7,972.5,1,1,2.79,-11.0,8.4,1.7,56.0,0.536,2,79.35
+SHP-105830,Toronto ON,Hamilton ON,QuebecExpress,Standard,General Freight,Silver,Clear,1,823.8,334.5,2,0,11.44,-11.0,6.0,7.6,71.8,0.636,0,239.81
+SHP-102133,Montreal QC,Calgary AB,MapleFreight Fleet,Economy,Bulk,Gold,Clear,7,447.0,1023.1,3,1,8.2,14.0,2.9,10.7,44.1,0.065,2,185.48
+SHP-105650,London ON,Montreal QC,Contract Owner-Op,Express,General Freight,Gold,Snow,7,462.2,818.4,2,0,6.91,29.0,15.2,4.2,24.2,0.767,0,129.38
+SHP-104715,Montreal QC,Winnipeg MB,NorthStar Carriers,Standard,Bulk,Silver,,6,512.1,852.9,5,0,11.44,50.0,2.3,4.2,71.9,0.247,1,80.42
+SHP-101024,Montreal QC,Edmonton AB,NorthStar Carriers,Economy,Fragile,Silver,Clear,9,928.5,141.7,4,1,15.1,-20.0,6.1,6.5,69.3,0.559,0,229.39
+SHP-105477,Toronto ON,Sudbury ON,PrairieLine,Standard,Refrigerated,Silver,Clear,8,362.1,1210.3,3,0,7.66,71.0,7.3,3.9,31.2,0.557,4,97.49
+SHP-102851,Toronto ON,Ottawa ON,MapleFreight Fleet,Economy,Refrigerated,Silver,Clear,2,385.3,795.9,3,0,7.41,89.0,5.1,5.3,62.6,0.126,2,218.78
+SHP-103466,Toronto ON,Sudbury ON,MapleFreight Fleet,Express,General Freight,Bronze,Clear,6,217.4,1116.6,2,0,2.71,24.0,8.2,12.6,51.6,0.395,0,249.0
+SHP-102990,Toronto ON,Ottawa ON,PrairieLine,Standard,General Freight,Bronze,Clear,12,331.0,857.3,1,0,3.0,-8.0,22.8,3.6,58.3,0.281,1,45.96
+SHP-102396,Mississauga ON,Calgary AB,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,3,460.4,888.3,3,0,10.63,-7.0,7.3,3.3,100.0,0.575,3,233.57
+SHP-105999,Ottawa ON,Ottawa ON,NorthStar Carriers,Standard,Refrigerated,Bronze,Rain,6,659.6,784.8,3,0,10.75,52.0,0.6,4.0,45.6,0.184,2,126.76
+SHP-105881,Toronto ON,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Silver,Clear,7,450.0,1021.0,0,0,6.53,47.0,0.9,12.3,41.8,0.629,1,100.85
+SHP-105040,Calgary AB,Montreal QC,NorthStar Carriers,Economy,General Freight,Silver,Clear,9,1422.5,809.9,2,0,20.55,17.0,3.6,2.2,57.6,0.138,2,116.52
+SHP-100098,Mississauga ON,Edmonton AB,MapleFreight Fleet,Express,General Freight,Silver,Clear,8,817.8,1090.2,4,0,14.66,78.0,9.3,15.4,60.6,0.407,1,269.28
+SHP-102596,Montreal QC,Calgary AB,MapleFreight Fleet,Standard,Refrigerated,Gold,Clear,1,300.1,416.1,3,0,8.33,70.0,10.0,6.3,27.4,0.375,2,194.58
+SHP-105126,Toronto ON,Regina SK,MapleFreight Fleet,Express,Bulk,Bronze,Clear,8,849.6,1009.4,1,0,13.28,9.0,4.9,7.2,64.4,0.563,1,138.21
+SHP-104791,Ottawa ON,Calgary AB,MapleFreight Fleet,Express,General Freight,Bronze,Clear,7,790.7,165.8,5,0,15.61,30.0,4.3,6.8,43.1,0.753,1,
+SHP-101737,Toronto ON,Winnipeg MB,MapleFreight Fleet,Economy,Bulk,Silver,Snow,4,762.5,356.0,3,0,11.15,7.0,6.2,4.2,38.0,0.54,2,203.14
+SHP-103907,London ON,Regina SK,NorthStar Carriers,Economy,Bulk,Silver,Clear,2,323.9,738.9,4,0,7.99,93.0,5.8,4.0,69.1,0.59,0,251.51
+SHP-103300,Mississauga ON,Winnipeg MB,NorthStar Carriers,Standard,General Freight,Bronze,Snow,5,780.1,1737.3,5,0,13.18,81.0,1.1,2.8,63.1,0.673,3,
+SHP-104897,Calgary AB,Toronto ON,NorthStar Carriers,Standard,Bulk,Gold,Clear,6,583.6,415.4,2,0,8.75,28.0,6.1,4.2,39.9,0.379,0,250.28
+SHP-102407,Montreal QC,Hamilton ON,Contract Owner-Op,Express,Refrigerated,Bronze,Clear,7,345.0,492.1,5,0,9.18,15.0,6.2,6.8,53.5,0.289,3,52.91
+SHP-103790,London ON,Ottawa ON,NorthStar Carriers,Standard,Hazardous,Silver,Clear,10,389.2,1469.0,0,0,6.17,24.0,8.9,8.5,64.0,0.527,1,270.88
+SHP-103727,Toronto ON,Sudbury ON,MapleFreight Fleet,Standard,Bulk,Bronze,Clear,10,568.3,456.2,0,1,6.18,21.0,7.3,13.4,27.1,0.804,1,79.68
+SHP-104627,Toronto ON,Winnipeg MB,MapleFreight Fleet,Standard,Hazardous,Bronze,Rain,1,397.1,457.5,1,0,4.56,1.0,4.1,2.7,68.9,0.199,2,182.64
+SHP-104476,Montreal QC,Hamilton ON,QuebecExpress,Standard,General Freight,Bronze,Clear,4,782.5,1209.6,5,1,14.26,51.0,7.4,10.0,64.7,0.522,6,193.92
+SHP-104464,Mississauga ON,Regina SK,NorthStar Carriers,Standard,Fragile,Silver,Clear,4,543.5,595.3,1,1,9.28,26.0,11.5,2.5,47.6,0.38,1,178.99
+SHP-103576,London ON,Winnipeg MB,Contract Owner-Op,Economy,Fragile,Silver,Rain,2,348.8,752.0,3,0,8.07,41.0,16.2,10.1,57.2,0.149,1,168.24
+SHP-103109,Winnipeg MB,Ottawa ON,NorthStar Carriers,Economy,Fragile,Bronze,Clear,4,669.0,1166.5,2,0,11.16,9.0,4.8,3.5,14.3,0.503,0,89.58
+SHP-101695,Toronto ON,Calgary AB,MapleFreight Fleet,Express,Fragile,Gold,Clear,4,789.8,1089.2,5,1,13.78,-13.0,,1.7,59.7,0.518,2,136.84
+SHP-105416,Mississauga ON,Sudbury ON,NorthStar Carriers,Express,Hazardous,Bronze,Clear,5,300.0,177.1,5,0,8.96,24.0,2.4,5.8,36.7,0.578,1,163.47
+SHP-103548,Montreal QC,Calgary AB,Contract Owner-Op,Standard,General Freight,Gold,Clear,4,345.0,1111.6,4,0,6.42,-20.0,3.2,6.0,67.2,0.188,2,
+SHP-105973,Winnipeg MB,Toronto ON,MapleFreight Fleet,Standard,General Freight,Silver,Clear,9,493.4,1654.9,3,0,7.93,26.0,1.6,6.8,41.7,0.451,0,181.05
+SHP-105763,Calgary AB,Ottawa ON,NorthStar Carriers,Standard,Bulk,Bronze,,8,807.2,803.4,0,0,11.02,73.0,3.1,10.0,57.3,0.426,1,266.75
+SHP-102516,Toronto ON,Regina SK,MapleFreight Fleet,Standard,General Freight,Silver,Snow,2,559.3,935.6,4,0,11.45,101.0,2.0,3.2,56.7,0.396,0,267.18
+SHP-100398,Toronto ON,Quebec City QC,NorthStar Carriers,Standard,Refrigerated,Bronze,Clear,9,697.4,792.5,5,0,14.36,-20.0,2.1,8.2,32.0,0.512,0,312.24
+SHP-102929,Mississauga ON,Montreal QC,MapleFreight Fleet,Express,Fragile,Silver,Snow,5,970.1,712000.0,1,0,15.25,13.0,4.3,1.7,58.4,0.095,1,249.24
+SHP-105622,Mississauga ON,Calgary AB,QuebecExpress,Economy,Bulk,Silver,Rain,4,724.8,463.2,2,0,11.51,41.0,1.2,7.1,63.5,0.664,2,
+SHP-103421,Ottawa ON,Quebec City QC,MapleFreight Fleet,Express,Hazardous,Gold,Clear,10,704.8,613.0,3,0,12.09,-3.0,8.6,2.9,72.9,0.348,1,109.22
+SHP-105566,Mississauga ON,Toronto ON,MapleFreight Fleet,Economy,Refrigerated,Silver,Clear,10,924.0,456.3,1,0,13.02,-20.0,8.6,7.0,22.1,0.423,5,116.09
+SHP-103546,Mississauga ON,Ottawa ON,MapleFreight Fleet,Standard,General Freight,Silver,Clear,10,589.9,913.3,1,0,9.38,18.0,4.1,0.5,78.5,0.387,2,124.4
+SHP-105428,Calgary AB,Calgary AB,MapleFreight Fleet,Standard,General Freight,Bronze,Fog,7,688.7,877.8,0,1,7.59,8.0,,14.6,63.9,0.491,0,167.65
+SHP-104307,Calgary AB,Montreal QC,Contract Owner-Op,Standard,General Freight,Gold,Clear,7,937.1,580.6,2,0,14.54,1.0,1.8,3.0,64.1,0.868,1,169.08
+SHP-104735,Toronto ON,Calgary AB,PrairieLine,Express,Bulk,Silver,Rain,1,448.9,1125.7,0,0,5.15,22.0,10.3,1.3,18.1,0.409,0,234.42
+SHP-102143,Ottawa ON,Quebec City QC,MapleFreight Fleet,Standard,General Freight,Silver,Clear,4,212.0,761.8,4,1,5.21,10.0,3.8,13.6,97.5,0.51,2,172.85
+SHP-100439,Montreal QC,Regina SK,NorthStar Carriers,Economy,Hazardous,Silver,Clear,2,302.9,1505.2,0,0,5.17,21.0,3.2,4.2,49.8,0.614,0,194.53
+SHP-103058,Montreal QC,Sudbury ON,MapleFreight Fleet,Standard,Bulk,Silver,Clear,4,393.1,213.6,0,1,6.3,-20.0,11.6,18.4,57.1,0.268,0,144.19
+SHP-101999,Toronto ON,Montreal QC,NorthStar Carriers,Standard,General Freight,Silver,Clear,9,438.4,1490.6,4,0,6.44,1.0,3.5,8.8,52.2,0.551,1,
+SHP-102342,Toronto ON,Sudbury ON,MapleFreight Fleet,Standard,Fragile,Gold,Snow,3,497.2,856.0,3,0,8.57,19.0,6.8,3.3,50.8,0.323,0,238.48
+SHP-103911,Toronto ON,Hamilton ON,MapleFreight Fleet,Express,Refrigerated,Bronze,Clear,3,449.2,303.8,3,0,8.24,-11.0,6.3,3.0,31.4,0.331,2,201.5
+SHP-103230,Montreal QC,Regina SK,Contract Owner-Op,Standard,Refrigerated,Bronze,Snow,8,856.4,1688.1,3,1,13.83,37.0,2.1,4.7,57.8,0.573,3,265.15
+SHP-105207,London ON,Sudbury ON,PrairieLine,Standard,General Freight,Silver,Clear,3,510.0,639.0,5,0,11.97,-20.0,0.4,8.2,33.8,0.667,2,148.01
+SHP-101702,Ottawa ON,Hamilton ON,QuebecExpress,Economy,Hazardous,Gold,Rain,6,174.0,1183.7,5,0,4.56,51.0,3.6,6.1,13.3,0.526,1,189.67
+SHP-105790,Ottawa ON,Edmonton AB,NorthStar Carriers,Express,Refrigerated,Gold,Clear,1,818.6,446.9,4,0,13.87,34.0,2.8,1.3,40.9,0.728,2,309.76
+SHP-100384,Toronto ON,Regina SK,MapleFreight Fleet,Standard,Hazardous,Silver,Rain,2,544.7,789.7,5,1,11.28,-20.0,10.6,4.6,78.6,0.685,4,187.29
+SHP-105094,Mississauga ON,Regina SK,Contract Owner-Op,Standard,Bulk,Silver,Snow,8,401.5,1580.6,3,0,5.87,-20.0,2.4,3.4,40.3,0.0,1,71.83
+SHP-102587,Calgary AB,Quebec City QC,PrairieLine,Economy,General Freight,Bronze,Clear,6,977.1,490.7,5,0,16.26,23.0,8.5,3.4,51.6,0.784,1,292.8
+SHP-105819,Toronto ON,Quebec City QC,Contract Owner-Op,Standard,General Freight,Bronze,Clear,3,424.3,1149.1,0,0,5.33,21.0,8.7,3.1,63.4,0.545,0,199.21
+SHP-100069,London ON,Ottawa ON,QuebecExpress,Economy,General Freight,Gold,Rain,6,147.8,270.2,4,0,5.71,54.0,3.5,4.9,88.2,0.279,1,231.08
+SHP-102064,Toronto ON,Winnipeg MB,MapleFreight Fleet,Express,General Freight,Gold,Snow,5,732.3,1175.5,4,0,14.7,1.0,6.9,8.3,45.5,0.108,0,106.03
+SHP-102943,Toronto ON,Regina SK,PrairieLine,Standard,Fragile,Silver,Clear,7,349.7,1274.1,4,0,8.36,14.0,5.4,3.4,83.4,0.492,1,259.51
+SHP-101892,Montreal QC,Toronto ON,QuebecExpress,Express,General Freight,Silver,Storm,7,398.0,785.1,5,0,8.73,-11.0,10.7,5.4,36.4,0.238,1,103.51
+SHP-102277,Toronto ON,Quebec City QC,QuebecExpress,Standard,General Freight,Bronze,Clear,12,1450.6,1426.4,0,0,18.41,35.0,8.1,9.4,19.5,0.392,1,319.48
+SHP-100989,Toronto ON,Edmonton AB,MapleFreight Fleet,Standard,Refrigerated,Bronze,Clear,7,315.6,740.8,3,0,7.09,7.0,8.3,16.2,46.4,0.577,1,152.97
+SHP-102163,London ON,Sudbury ON,NorthStar Carriers,Standard,Fragile,Gold,Snow,7,2184.9,249.3,2,0,30.02,-3.0,6.6,2.5,35.0,0.366,1,154.3
+SHP-105866,Mississauga ON,Hamilton ON,QuebecExpress,Standard,General Freight,Silver,Clear,3,448.8,304.4,1,0,9.17,28.0,15.8,8.5,25.5,0.147,0,318.22
+SHP-101802,Montreal QC,Calgary AB,MapleFreight Fleet,Standard,General Freight,Gold,,7,420.2,984.9,3,0,7.96,-6.0,2.6,0.8,59.0,0.12,2,
+SHP-100324,Calgary AB,Regina SK,MapleFreight Fleet,Economy,General Freight,Silver,Rain,11,678.6,1642.9,1,0,8.44,15.0,22.0,5.0,46.5,0.453,2,93.46
+SHP-103737,Ottawa ON,Regina SK,MapleFreight Fleet,Economy,General Freight,Bronze,Snow,11,959.8,285.9,5,0,16.34,76.0,4.8,1.7,49.0,0.143,0,283.99
+SHP-101619,Montreal QC,Winnipeg MB,NorthStar Carriers,Standard,Hazardous,Gold,Clear,7,258.2,654.4,2,0,3.07,37.0,5.4,3.8,43.7,0.639,1,238.65
+SHP-100537,Toronto ON,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,3,294.6,671.5,0,1,5.54,27.0,3.4,5.9,18.5,0.497,2,193.8
+SHP-104878,Mississauga ON,Edmonton AB,QuebecExpress,Express,General Freight,Silver,Rain,9,573.3,1295.9,1,0,8.06,-20.0,14.2,4.4,27.9,0.303,0,78.03
+SHP-104656,Montreal QC,Quebec City QC,MapleFreight Fleet,Standard,Bulk,Bronze,Storm,12,857.9,312.5,3,0,15.03,-8.0,9.8,0.7,43.3,0.409,1,95.56
+SHP-100335,Calgary AB,Regina SK,QuebecExpress,Standard,General Freight,Bronze,Clear,9,227.8,585.1,4,0,6.68,-2.0,4.3,12.1,41.7,0.436,1,126.66
+SHP-102502,Ottawa ON,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Silver,Snow,5,554.7,1434.1,2,0,8.5,109.0,1.7,12.5,66.7,0.237,0,105.86
+SHP-100797,Montreal QC,Montreal QC,MapleFreight Fleet,Express,Refrigerated,Gold,Rain,5,927.9,708.8,4,0,15.16,21.0,2.4,4.8,40.4,0.408,0,196.4
+SHP-100099,Toronto ON,Edmonton AB,PrairieLine,Economy,General Freight,Gold,Rain,12,951.4,1240.3,5,0,15.1,12.0,3.7,4.5,46.4,0.569,2,232.78
+SHP-101485,Toronto ON,Toronto ON,PrairieLine,Standard,General Freight,Bronze,Snow,10,753.4,1257.8,2,0,10.7,-20.0,1.8,2.4,67.9,0.5,1,
+SHP-104928,Montreal QC,Quebec City QC,MapleFreight Fleet,Express,General Freight,Silver,Clear,9,589.1,730.0,0,0,7.78,30.0,2.8,9.2,43.8,0.555,3,57.02
+SHP-104963,Calgary AB,Winnipeg MB,PrairieLine,Economy,General Freight,Silver,Rain,6,433.9,932.0,0,0,4.43,-16.0,2.3,8.9,66.4,0.88,1,169.71
+SHP-105085,Montreal QC,Toronto ON,NorthStar Carriers,Standard,General Freight,Bronze,Rain,11,421.4,1148.1,0,0,4.86,19.0,4.1,1.7,47.2,0.352,2,220.03
+SHP-100952,Toronto ON,Regina SK,NorthStar Carriers,Standard,Refrigerated,Silver,Clear,6,393.0,480.7,3,0,9.57,57.0,4.2,0.7,65.0,0.353,0,119.93
+SHP-105064,Montreal QC,Edmonton AB,NorthStar Carriers,Economy,General Freight,Silver,Clear,10,758.6,901.7,5,0,11.82,-20.0,4.7,2.0,57.5,0.301,0,203.85
+SHP-102253,Ottawa ON,Regina SK,Contract Owner-Op,Standard,Fragile,Gold,,6,987.2,62.0,2,0,15.17,-20.0,5.7,7.0,29.7,0.0,1,129.44
+SHP-105681,Montreal QC,Montreal QC,QuebecExpress,Standard,General Freight,Silver,Rain,3,1170.5,1421.0,2,0,19.27,4.0,1.9,11.7,70.3,0.674,2,207.18
+SHP-103139,Toronto ON,Montreal QC,QuebecExpress,Standard,General Freight,Bronze,Rain,8,863.8,461.2,3,0,14.82,67.0,4.0,3.1,75.9,0.727,0,163.64
+SHP-104057,Montreal QC,Regina SK,MapleFreight Fleet,Express,Fragile,Silver,Storm,11,361.8,2253.5,3,0,7.43,9.0,,7.3,59.0,0.142,2,230.2
+SHP-105906,Winnipeg MB,Hamilton ON,QuebecExpress,Standard,General Freight,Bronze,Snow,12,414.2,1705.1,3,0,8.58,-20.0,,3.1,31.3,0.417,2,151.97
+SHP-105479,Toronto ON,Ottawa ON,NorthStar Carriers,Express,General Freight,Silver,Clear,6,519.5,1131.1,3,0,9.08,44.0,14.6,10.4,71.1,0.751,2,104.65
+SHP-104540,Mississauga ON,Ottawa ON,NorthStar Carriers,Economy,Hazardous,Silver,Fog,5,553.2,442.8,0,0,7.3,57.0,20.8,2.2,53.4,0.161,0,254.49
+SHP-101948,Winnipeg MB,Toronto ON,MapleFreight Fleet,Standard,Fragile,Silver,Clear,1,452.6,1193.9,2,0,5.43,-20.0,14.0,4.2,59.1,0.396,2,171.12
+SHP-100595,Mississauga ON,Edmonton AB,QuebecExpress,Standard,Fragile,Gold,Snow,2,735.6,915.7,1,0,10.96,-20.0,3.2,4.5,62.2,0.228,1,214.15
+SHP-103876,Montreal QC,Ottawa ON,QuebecExpress,Express,General Freight,Silver,Storm,10,190.9,262.3,1,0,2.31,11.0,4.4,2.5,56.3,0.688,0,207.47
+SHP-101015,Toronto ON,Edmonton AB,PrairieLine,Standard,Fragile,Silver,Snow,12,886.6,568.9,4,0,14.26,26.0,0.9,4.6,53.0,0.737,1,148.37
+SHP-100774,Winnipeg MB,Toronto ON,MapleFreight Fleet,Standard,General Freight,Silver,Rain,12,726.2,2080.4,5,0,14.66,-20.0,7.2,6.3,92.8,0.437,1,320.32
+SHP-104099,Mississauga ON,Toronto ON,MapleFreight Fleet,Express,Refrigerated,Bronze,Clear,3,1007.2,505.2,0,0,15.51,10.0,7.3,1.9,83.0,0.753,1,231.56
+SHP-100754,Toronto ON,Regina SK,MapleFreight Fleet,Standard,Refrigerated,Gold,Rain,3,331.7,939900.0,3,0,6.06,15.0,3.6,5.2,84.4,0.405,2,169.14
+SHP-102295,Ottawa ON,Winnipeg MB,MapleFreight Fleet,Standard,Fragile,Silver,Rain,1,306.9,303.3,5,0,7.0,-20.0,4.2,1.2,54.0,0.271,4,165.34
+SHP-100588,London ON,Ottawa ON,MapleFreight Fleet,Express,General Freight,Bronze,Clear,6,446.7,367.0,4,1,8.83,58.0,5.0,4.9,45.7,0.313,0,186.07
+SHP-103850,London ON,Hamilton ON,MapleFreight Fleet,Express,Hazardous,Bronze,Rain,11,288.0,1135.3,4,0,7.07,39.0,4.6,3.7,55.4,0.513,1,174.1
+SHP-103984,Toronto ON,Calgary AB,MapleFreight Fleet,Standard,Refrigerated,Silver,Snow,2,187.0,269.5,0,0,1.68,13.0,12.1,4.0,75.2,0.581,2,176.76
+SHP-103227,Winnipeg MB,Toronto ON,MapleFreight Fleet,Standard,Hazardous,Bronze,Rain,10,489.1,1855.9,4,0,9.41,-12.0,11.1,3.4,46.8,0.087,4,200.76
+SHP-104517,Montreal QC,Edmonton AB,QuebecExpress,Express,Bulk,Silver,Rain,7,269.2,1084.4,5,0,6.46,-20.0,3.4,9.6,51.6,0.696,4,133.38
+SHP-103755,Montreal QC,Toronto ON,QuebecExpress,Standard,General Freight,Bronze,Clear,12,306.4,831.4,4,0,8.36,64.0,5.8,5.8,75.3,0.534,2,183.74
+SHP-100616,Winnipeg MB,Edmonton AB,MapleFreight Fleet,Standard,Fragile,Silver,Clear,5,268.0,277.3,4,0,6.73,56.0,0.8,8.6,62.4,0.409,3,202.78
+SHP-100784,London ON,Regina SK,NorthStar Carriers,Standard,Fragile,Gold,Snow,5,1292.3,549.3,2,0,19.36,47.0,18.6,7.7,36.0,0.823,0,262.95
+SHP-102840,Mississauga ON,Montreal QC,MapleFreight Fleet,Standard,General Freight,Gold,Clear,2,990.4,876.7,0,0,13.1,22.0,10.5,6.5,76.5,0.49,0,165.6
+SHP-101454,Toronto ON,Toronto ON,MapleFreight Fleet,Standard,General Freight,Gold,Clear,2,252.1,1067.6,0,0,5.34,-20.0,5.5,3.9,70.4,0.388,1,
+SHP-103709,London ON,Hamilton ON,NorthStar Carriers,Express,General Freight,Gold,Storm,9,364.0,620.8,1,0,8.76,10.0,3.2,10.0,55.7,0.542,1,197.37
+SHP-104533,Mississauga ON,Hamilton ON,QuebecExpress,Standard,General Freight,Silver,Clear,5,538.9,459.4,0,0,6.52,58.0,5.6,1.9,46.4,0.44,0,262.95
+SHP-100913,Winnipeg MB,Toronto ON,MapleFreight Fleet,Express,Fragile,Silver,Fog,2,456.4,840.6,3,0,9.25,43.0,4.3,2.2,60.8,0.157,3,141.97
+SHP-104973,Toronto ON,Quebec City QC,QuebecExpress,Express,Fragile,Gold,Clear,7,998.4,1878.8,4,1,16.07,-16.0,5.3,3.9,60.7,0.545,1,307.68
+SHP-102771,Ottawa ON,Sudbury ON,PrairieLine,Standard,General Freight,Silver,Rain,8,419.3,581.4,1,0,7.6,-3.0,2.4,8.5,68.2,0.432,1,119.19
+SHP-101903,Calgary AB,Sudbury ON,NorthStar Carriers,Standard,General Freight,Silver,Rain,3,891.0,2034.7,2,1,13.12,64.0,7.9,0.5,67.8,0.277,0,104.16
+SHP-105294,Toronto ON,Hamilton ON,PrairieLine,Express,General Freight,Bronze,Rain,11,303.0,1420.8,4,1,6.82,9.0,4.4,9.4,39.1,0.545,1,263.09
+SHP-103703,Montreal QC,Winnipeg MB,PrairieLine,Economy,Refrigerated,Bronze,Clear,9,1168.6,529.0,5,0,20.39,-7.0,12.0,9.0,28.2,0.197,0,188.08
+SHP-100835,Toronto ON,Winnipeg MB,MapleFreight Fleet,Economy,General Freight,Bronze,Clear,11,507.7,1694.4,0,0,11.05,42.0,4.7,2.9,93.0,0.347,1,158.68
+SHP-105253,Mississauga ON,Calgary AB,MapleFreight Fleet,Standard,General Freight,Silver,Snow,6,544.2,609.7,3,0,10.45,27.0,13.1,6.7,69.9,0.654,2,233.48
+SHP-100314,Winnipeg MB,Montreal QC,MapleFreight Fleet,Standard,Fragile,Bronze,Snow,12,487.3,532.2,1,0,7.48,-20.0,7.7,2.1,11.3,0.066,0,184.64
+SHP-102275,Winnipeg MB,Regina SK,NorthStar Carriers,Economy,Bulk,Silver,Clear,1,1062.0,110.9,1,1,15.89,-20.0,3.5,3.5,34.8,0.334,0,248.06
+SHP-103094,Toronto ON,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,3,748.0,1213.8,2,0,11.43,18.0,8.4,10.6,62.3,0.422,0,30.0
+SHP-100055,Mississauga ON,Toronto ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,12,425.9,1914.8,4,1,9.94,41.0,18.9,5.4,70.0,0.435,1,307.31
+SHP-101399,Toronto ON,Montreal QC,PrairieLine,Express,Refrigerated,Bronze,,4,551.0,993.8,1,0,8.04,64.0,11.4,4.3,49.0,0.635,2,65.19
+SHP-103030,Montreal QC,Calgary AB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,9,229.1,704.8,4,0,3.83,14.0,3.8,3.2,76.6,0.552,1,39.7
+SHP-105829,Mississauga ON,Ottawa ON,MapleFreight Fleet,Standard,Bulk,Silver,,4,523.3,1671.3,4,0,10.05,47.0,3.3,2.6,73.6,0.091,1,286.42
+SHP-100181,Calgary AB,Winnipeg MB,NorthStar Carriers,Standard,Bulk,Bronze,Clear,12,584.1,658.4,2,0,7.15,-6.0,1.5,1.5,27.9,0.609,0,96.23
+SHP-104759,Ottawa ON,Regina SK,QuebecExpress,Economy,General Freight,Gold,Rain,3,1556.2,757.1,5,1,25.57,58.0,15.2,4.6,41.6,0.387,0,218.34
+SHP-105250,London ON,Quebec City QC,Contract Owner-Op,Economy,General Freight,Silver,Clear,7,1117.4,1018.3,1,0,15.67,-1.0,1.0,2.4,60.8,0.386,2,130.89
+SHP-100514,Winnipeg MB,Montreal QC,QuebecExpress,Standard,Hazardous,Silver,Snow,11,232.4,1730.9,2,0,2.48,30.0,3.9,3.2,45.9,0.323,2,113.81
+SHP-104659,Mississauga ON,Hamilton ON,MapleFreight Fleet,Economy,Refrigerated,Silver,Clear,2,466.3,917.3,1,0,5.27,6.0,15.9,5.1,38.4,0.436,0,204.55
+SHP-102662,Toronto ON,Hamilton ON,MapleFreight Fleet,Express,General Freight,Bronze,Clear,6,570.9,802.1,3,0,8.5,21.0,3.8,9.9,52.5,0.572,0,80.2
+SHP-105501,Montreal QC,Toronto ON,NorthStar Carriers,Standard,General Freight,Bronze,Rain,4,216.9,1112.8,5,0,7.65,5.0,2.1,2.1,61.8,0.446,2,132.58
+SHP-101924,Montreal QC,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,6,800.1,548.4,0,0,9.33,-20.0,3.5,5.8,65.9,0.362,0,194.83
+SHP-101339,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Express,Refrigerated,Silver,Rain,9,208.4,1000.4,0,0,2.18,54.0,9.3,6.2,51.3,0.787,1,267.85
+SHP-105807,Toronto ON,Montreal QC,NorthStar Carriers,Standard,General Freight,Bronze,Clear,4,274.9,302.1,4,0,4.76,-18.0,6.3,7.4,57.1,0.46,1,88.98
+SHP-105538,Calgary AB,Calgary AB,PrairieLine,Express,General Freight,Silver,Clear,11,273.8,1253.5,4,0,6.32,-20.0,5.2,0.9,58.8,0.204,1,229.28
+SHP-101554,Mississauga ON,Regina SK,Contract Owner-Op,Standard,Hazardous,Bronze,Clear,5,553.7,748.6,3,0,8.7,-20.0,3.9,4.4,44.8,0.412,0,110.18
+SHP-105511,Toronto ON,Ottawa ON,NorthStar Carriers,Express,General Freight,Gold,Snow,12,735.5,299.5,5,1,13.3,42.0,2.9,5.5,91.0,0.56,2,182.24
+SHP-100248,Ottawa ON,Edmonton AB,NorthStar Carriers,Economy,Fragile,Silver,Clear,11,178.4,887.4,1,0,2.93,-5.0,2.2,3.6,78.2,0.554,0,123.57
+SHP-104720,Toronto ON,Calgary AB,NorthStar Carriers,Express,Refrigerated,Silver,Clear,5,359.7,1121.6,1,1,7.05,-16.0,2.3,11.6,45.4,0.48,0,158.05
+SHP-100375,Toronto ON,Winnipeg MB,PrairieLine,Express,Refrigerated,Bronze,Snow,5,302.4,417.5,0,0,6.22,22.0,2.2,6.6,47.9,0.29,3,196.85
+SHP-102113,Calgary AB,Regina SK,MapleFreight Fleet,Express,General Freight,Gold,Rain,3,946.0,570.1,0,0,12.78,28.0,12.3,12.3,70.9,0.393,2,271.62
+SHP-103649,Toronto ON,Toronto ON,MapleFreight Fleet,Express,General Freight,Silver,Clear,4,407.1,286.5,5,0,10.08,34.0,1.4,4.7,71.2,0.229,2,234.13
+SHP-103446,Toronto ON,Montreal QC,MapleFreight Fleet,Express,General Freight,Bronze,Clear,8,618.8,1158.7,3,0,10.6,1.0,5.8,2.2,77.4,0.45,4,76.75
+SHP-104585,Winnipeg MB,Toronto ON,MapleFreight Fleet,Standard,Bulk,Gold,Snow,7,1094.6,427.5,0,0,15.57,0.0,5.7,10.8,56.6,0.074,3,128.7
+SHP-102375,Mississauga ON,Winnipeg MB,PrairieLine,Economy,Refrigerated,Bronze,Clear,5,360.9,380.0,1,0,5.27,14.0,2.7,5.9,6.7,0.493,1,160.96
+SHP-102226,Montreal QC,Hamilton ON,QuebecExpress,Standard,General Freight,Gold,Clear,11,227.4,704.9,2,0,4.49,-10.0,5.0,18.5,6.0,0.136,1,193.15
+SHP-100266,Toronto ON,Regina SK,MapleFreight Fleet,Express,Refrigerated,Silver,Clear,1,2151.3,1707.1,5,0,32.67,42.0,8.4,4.1,53.8,0.569,0,221.44
+SHP-101273,Ottawa ON,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Bronze,Snow,4,1679.0,1393.2,2,0,25.13,-13.0,5.2,5.7,38.5,0.539,4,190.2
+SHP-100657,Montreal QC,Sudbury ON,MapleFreight Fleet,Express,General Freight,Gold,Clear,9,491.0,788.5,4,0,8.26,11.0,5.0,7.2,48.5,0.099,0,131.91
+SHP-102648,Montreal QC,Hamilton ON,PrairieLine,Express,Hazardous,Bronze,Rain,6,411.0,289.2,4,0,5.48,2.0,3.9,3.0,56.1,0.729,2,231.45
+SHP-101749,Toronto ON,Quebec City QC,PrairieLine,Economy,General Freight,Gold,Fog,12,756.3,355.6,3,0,12.91,23.0,4.4,5.7,50.5,0.599,2,108.07
+SHP-103637,Ottawa ON,Calgary AB,QuebecExpress,Express,Refrigerated,Silver,Clear,7,447.1,415.0,5,0,9.34,56.0,5.9,9.9,65.2,0.253,2,226.38
+SHP-101655,Montreal QC,Quebec City QC,Contract Owner-Op,Express,Hazardous,Silver,Rain,2,400.2,130.7,2,0,7.99,6.0,4.3,4.8,52.8,0.6,2,89.35
+SHP-100334,Toronto ON,Regina SK,MapleFreight Fleet,Express,General Freight,Bronze,Rain,8,448.5,335.7,4,0,8.77,5.0,9.6,4.9,69.8,0.364,3,211.45
+SHP-104454,Montreal QC,Ottawa ON,MapleFreight Fleet,Express,General Freight,Silver,Storm,5,133.7,267.8,2,0,2.22,32.0,0.4,4.8,63.2,0.4,0,248.99
+SHP-103391,Montreal QC,Edmonton AB,NorthStar Carriers,Economy,Refrigerated,Silver,Rain,9,552.1,766.0,5,0,10.91,50.0,2.1,11.2,40.9,0.679,0,160.0
+SHP-102773,Montreal QC,Hamilton ON,PrairieLine,Economy,General Freight,Silver,Clear,5,441.1,2303.1,2,0,7.64,16.0,4.5,4.8,93.7,0.023,2,218.18
+SHP-103071,Toronto ON,Toronto ON,MapleFreight Fleet,Economy,Fragile,Gold,Clear,3,1200.2,725.2,2,0,17.5,19.0,2.7,5.9,46.2,0.174,1,170.59
+SHP-103107,Ottawa ON,Edmonton AB,MapleFreight Fleet,Economy,Fragile,Bronze,Clear,10,880.5,927.0,4,1,14.34,22.0,7.3,3.4,41.9,0.303,2,236.53
+SHP-105542,Mississauga ON,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Silver,Fog,4,510.4,653.3,5,0,10.38,-20.0,16.7,14.0,57.7,0.328,5,215.17
+SHP-104064,Mississauga ON,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Silver,Clear,4,461.7,982.7,0,0,7.99,16.0,4.7,5.4,33.5,0.115,0,205.93
+SHP-103131,Toronto ON,Sudbury ON,Contract Owner-Op,Standard,Bulk,Bronze,Storm,11,791.8,1004.5,1,0,10.92,14.0,5.3,2.9,33.3,0.511,1,260.92
+SHP-102926,Montreal QC,Hamilton ON,NorthStar Carriers,Express,Fragile,Silver,Snow,11,547.3,823.6,5,0,11.56,-20.0,11.1,1.0,66.3,0.278,1,105.63
+SHP-104896,Ottawa ON,Regina SK,Contract Owner-Op,Standard,General Freight,Gold,Clear,12,774.1,211.5,0,0,12.14,18.0,4.7,3.1,34.8,0.362,0,192.58
+SHP-105383,Mississauga ON,Quebec City QC,Contract Owner-Op,Standard,Hazardous,Gold,Clear,12,447.0,1931.1,2,0,9.46,41.0,1.5,3.5,63.0,0.536,1,179.99
+SHP-100457,Montreal QC,Toronto ON,PrairieLine,Economy,General Freight,Silver,Clear,8,532.1,1113.3,4,0,9.22,26.0,20.2,4.6,66.3,0.691,0,115.19
+SHP-100418,Mississauga ON,Montreal QC,NorthStar Carriers,Express,Fragile,Silver,Clear,12,455.1,1440.7,4,1,10.85,-11.0,13.8,4.5,69.8,0.176,2,214.88
+SHP-102379,Calgary AB,Sudbury ON,MapleFreight Fleet,Economy,General Freight,Bronze,Rain,9,917.8,962.1,2,0,15.08,39.0,9.1,11.8,64.6,0.345,1,172.63
+SHP-103759,Toronto ON,Regina SK,NorthStar Carriers,Express,Hazardous,Silver,Rain,8,1009.7,313.2,2,0,17.35,41.0,2.1,2.4,72.7,0.359,2,208.77
+SHP-104553,Montreal QC,Quebec City QC,NorthStar Carriers,Standard,General Freight,Gold,Clear,7,431.7,1947.4,2,0,7.02,19.0,3.2,7.4,55.5,0.617,0,197.06
+SHP-105306,Calgary AB,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,3,149.2,462.3,3,0,3.54,-20.0,4.1,1.0,50.6,0.11,1,222.74
+SHP-104369,Calgary AB,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Silver,Fog,11,1122.9,337.5,4,0,19.41,25.0,4.7,6.9,51.1,0.293,1,301.63
+SHP-100843,Montreal QC,Ottawa ON,PrairieLine,Express,General Freight,Gold,Rain,10,194.0,330.7,0,0,4.0,-20.0,6.2,4.0,46.3,0.689,0,169.38
+SHP-102481,Winnipeg MB,Ottawa ON,QuebecExpress,Standard,General Freight,Silver,Fog,10,493.8,1074.3,2,1,6.16,38.0,3.3,1.6,56.1,0.31,2,140.27
+SHP-105963,London ON,Ottawa ON,PrairieLine,Standard,Fragile,Silver,Clear,8,809.9,881.9,5,0,13.44,7.0,8.9,2.9,98.1,0.493,3,180.46
+SHP-104816,Toronto ON,Hamilton ON,Contract Owner-Op,Standard,General Freight,Gold,Clear,12,1189.2,1553.8,5,0,17.98,-20.0,5.9,2.1,46.8,0.385,1,148.27
+SHP-105760,Calgary AB,Sudbury ON,QuebecExpress,Standard,Fragile,Bronze,Rain,3,507.2,766.0,3,0,9.3,27.0,10.9,5.9,29.1,0.422,3,164.94
+SHP-100074,Ottawa ON,Sudbury ON,PrairieLine,Standard,General Freight,Bronze,Rain,1,863.3,125.1,1,0,12.54,2.0,5.7,6.7,38.8,0.361,0,116.46
+SHP-101327,Calgary AB,Edmonton AB,Contract Owner-Op,Express,Refrigerated,Silver,Rain,12,783.6,680.9,3,0,12.07,30.0,8.8,4.2,37.0,0.454,1,141.68
+SHP-101610,Mississauga ON,Winnipeg MB,NorthStar Carriers,Standard,General Freight,Silver,Clear,9,1010.2,2260.9,4,0,17.64,30.0,16.4,1.6,74.9,0.541,3,223.32
+SHP-103366,Toronto ON,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Silver,Storm,3,537.3,1336.8,1,0,6.91,-20.0,4.6,7.0,87.3,0.626,2,133.33
+SHP-103607,Toronto ON,Quebec City QC,QuebecExpress,Economy,Refrigerated,Silver,Fog,4,594.5,981.5,4,0,12.22,31.0,10.0,6.0,84.3,0.739,1,281.6
+SHP-105774,Calgary AB,Montreal QC,PrairieLine,Express,Fragile,Bronze,Clear,4,513.9,1024.3,3,0,8.16,97.0,5.0,4.5,58.4,0.313,1,153.25
+SHP-103886,Ottawa ON,Sudbury ON,MapleFreight Fleet,Standard,Bulk,Silver,Rain,2,901.2,835.4,1,0,13.55,50.0,4.0,6.1,64.3,0.633,2,162.78
+SHP-105367,Mississauga ON,Quebec City QC,MapleFreight Fleet,Standard,Hazardous,Silver,Clear,12,354.6,1013.2,1,0,5.62,69.0,5.6,3.4,27.7,0.242,0,290.56
+SHP-101890,Montreal QC,Winnipeg MB,MapleFreight Fleet,Economy,General Freight,Silver,Clear,11,598.2,1008.4,5,0,10.67,-20.0,8.0,3.5,65.6,0.392,2,238.06
+SHP-103201,Calgary AB,Regina SK,MapleFreight Fleet,Express,Fragile,Gold,Clear,4,409.2,2068.2,4,0,10.1,13.0,9.1,5.2,44.1,0.188,0,228.11
+SHP-101945,Calgary AB,Winnipeg MB,MapleFreight Fleet,Standard,Fragile,Silver,Rain,9,501.1,743.0,5,0,9.42,93.0,,4.0,64.1,0.661,3,214.87
+SHP-102853,Winnipeg MB,Regina SK,PrairieLine,Standard,Hazardous,Silver,Rain,1,438.9,268.2,4,0,7.95,27.0,3.6,5.0,44.6,0.466,1,65.57
+SHP-100101,London ON,Montreal QC,PrairieLine,Standard,Refrigerated,Bronze,Clear,2,527.4,1165.0,1,0,8.35,7.0,16.2,2.0,61.7,0.053,0,232.14
+SHP-104176,Toronto ON,Sudbury ON,NorthStar Carriers,Standard,Refrigerated,Silver,Rain,2,457.0,1488.3,4,0,9.64,-3.0,8.1,2.1,57.8,0.614,2,133.73
+SHP-103943,Toronto ON,Hamilton ON,QuebecExpress,Standard,Bulk,Silver,,2,1034.6,2413.0,5,0,19.5,50.0,8.6,2.1,61.8,0.223,2,141.31
+SHP-102530,Ottawa ON,Quebec City QC,NorthStar Carriers,Economy,General Freight,Silver,Snow,4,547.0,1323.6,0,0,5.07,67.0,3.0,3.2,48.9,0.495,1,224.92
+SHP-104426,Toronto ON,Quebec City QC,QuebecExpress,Express,General Freight,Bronze,Rain,9,751.6,204.0,1,0,11.64,24.0,1.8,0.6,51.4,0.711,1,152.2
+SHP-103003,Ottawa ON,Montreal QC,MapleFreight Fleet,Standard,Fragile,Silver,Snow,8,674.0,334.4,3,0,11.84,49.0,1.9,5.9,73.9,0.318,0,193.94
+SHP-105921,Winnipeg MB,Quebec City QC,QuebecExpress,Standard,Hazardous,Bronze,Rain,9,763.7,1000.9,4,0,12.32,63.0,6.8,2.9,58.2,0.423,2,191.5
+SHP-102207,Toronto ON,Calgary AB,PrairieLine,Standard,Hazardous,Bronze,Snow,1,802.1,205.0,5,0,13.8,-5.0,1.5,5.1,77.2,0.57,0,219.7
+SHP-103191,Ottawa ON,Calgary AB,Contract Owner-Op,Standard,General Freight,Silver,Clear,4,516.7,395.9,3,0,9.0,-20.0,4.2,4.1,82.8,0.0,1,287.88
+SHP-105590,Toronto ON,Regina SK,MapleFreight Fleet,Standard,General Freight,Silver,Snow,12,980.5,987.5,4,0,16.93,13.0,4.1,3.0,77.1,0.275,2,141.23
+SHP-105656,Toronto ON,Calgary AB,MapleFreight Fleet,Standard,Fragile,Bronze,Snow,7,431.8,273.8,2,0,9.37,60.0,5.8,5.3,84.4,0.436,2,140.47
+SHP-102259,Toronto ON,Toronto ON,NorthStar Carriers,Express,General Freight,Silver,Snow,5,558.8,823.3,3,0,7.02,37.0,8.2,9.2,46.5,0.575,0,183.03
+SHP-105026,Calgary AB,Ottawa ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,7,285.8,503.8,2,0,6.88,6.0,0.7,5.0,95.2,0.336,0,179.97
+SHP-103457,Calgary AB,Ottawa ON,QuebecExpress,Standard,Bulk,Bronze,Rain,6,573.3,2027.2,0,0,6.32,-3.0,1.2,9.1,42.4,0.175,0,236.96
+SHP-100142,Montreal QC,Calgary AB,QuebecExpress,Express,General Freight,Bronze,Rain,8,414.2,1564.2,2,0,6.87,15.0,10.6,6.5,50.5,0.235,0,143.7
+SHP-102755,Toronto ON,Sudbury ON,QuebecExpress,Express,Fragile,Bronze,Clear,12,107.8,589.0,4,0,3.76,-12.0,13.6,7.1,66.1,0.736,1,245.88
+SHP-103571,Calgary AB,Toronto ON,QuebecExpress,Standard,General Freight,Silver,Rain,11,427.7,1025.8,3,0,8.2,5.0,6.2,1.9,,0.38,0,74.16
+SHP-101011,London ON,Regina SK,QuebecExpress,Standard,General Freight,Bronze,Clear,4,657.9,269.1,0,0,8.77,-8.0,6.6,5.9,45.4,0.224,0,171.42
+SHP-105263,Winnipeg MB,Sudbury ON,MapleFreight Fleet,Economy,General Freight,Silver,Rain,8,699.7,777.7,0,0,7.85,99.0,3.3,5.9,61.1,0.278,0,185.68
+SHP-102985,Toronto ON,Quebec City QC,MapleFreight Fleet,Express,Refrigerated,Silver,Snow,1,505.7,910.7,3,0,7.85,79.0,2.6,2.9,67.3,0.474,0,267.1
+SHP-104340,Mississauga ON,Hamilton ON,QuebecExpress,Economy,Bulk,Silver,Clear,5,913.8,213.4,1,0,14.23,-20.0,6.5,4.4,57.3,0.658,2,223.05
+SHP-102766,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Express,General Freight,Gold,Clear,8,1030.9,1368.5,4,0,16.62,31.0,5.8,1.7,51.1,0.629,1,133.2
+SHP-105487,Mississauga ON,Winnipeg MB,PrairieLine,Express,Refrigerated,Silver,Rain,3,465.1,1547.8,0,0,5.43,45.0,3.1,6.3,82.4,0.446,1,172.74
+SHP-103867,Toronto ON,Quebec City QC,MapleFreight Fleet,Standard,General Freight,Gold,Clear,2,459.7,767.2,1,0,6.94,53.0,5.4,3.3,66.6,0.289,1,278.88
+SHP-103954,Toronto ON,Toronto ON,PrairieLine,Standard,General Freight,Silver,Fog,10,494.7,1615.6,1,0,8.0,64.0,8.2,9.7,53.5,0.855,1,241.4
+SHP-103769,London ON,Edmonton AB,NorthStar Carriers,Economy,Fragile,Gold,Rain,9,293.2,994.2,4,0,5.83,31.0,5.0,6.8,29.1,0.457,1,201.55
+SHP-100370,Toronto ON,Quebec City QC,QuebecExpress,Economy,General Freight,Bronze,Clear,2,1021.4,252.2,1,0,15.45,43.0,3.7,3.1,30.9,0.54,2,186.42
+SHP-103356,Winnipeg MB,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Bronze,Snow,7,675.5,508.1,5,0,13.31,18.0,4.3,5.0,50.6,0.419,0,220.63
+SHP-101942,Winnipeg MB,Montreal QC,Contract Owner-Op,Economy,Hazardous,Silver,Rain,10,434.2,1614.2,2,0,8.1,-20.0,9.4,1.9,59.1,0.373,0,73.29
+SHP-100912,Calgary AB,Calgary AB,MapleFreight Fleet,Standard,General Freight,Gold,Fog,2,833.7,1262.9,5,0,13.43,-20.0,,16.0,85.3,0.532,3,129.95
+SHP-102147,Winnipeg MB,Edmonton AB,Contract Owner-Op,Standard,Fragile,Silver,Rain,2,814.5,994.8,2,0,13.52,-15.0,2.7,2.4,60.3,0.406,1,119.17
+SHP-104456,Toronto ON,Regina SK,MapleFreight Fleet,Express,General Freight,Silver,Clear,4,224.1,220.6,5,0,5.51,-20.0,2.4,6.5,55.4,0.353,1,228.87
+SHP-101046,Mississauga ON,Regina SK,PrairieLine,Standard,Hazardous,Silver,Clear,4,347.7,323.2,1,0,4.69,8.0,4.5,4.5,86.3,0.489,1,191.81
+SHP-105739,Mississauga ON,Montreal QC,MapleFreight Fleet,Standard,General Freight,Silver,Clear,2,854.6,552.2,1,0,10.3,77.0,1.4,3.6,49.8,0.667,2,210.13
+SHP-104450,Montreal QC,Ottawa ON,MapleFreight Fleet,Standard,General Freight,Silver,Rain,10,199.3,277.6,1,0,3.23,39.0,14.5,4.3,58.0,0.391,1,79.51
+SHP-105977,Mississauga ON,Hamilton ON,NorthStar Carriers,Standard,Hazardous,Bronze,Snow,11,521.4,2041.1,1,0,8.0,19.0,7.5,6.9,54.7,0.33,0,
+SHP-102521,Mississauga ON,Montreal QC,QuebecExpress,Standard,General Freight,Silver,Clear,5,389.2,985.1,4,1,8.79,6.0,1.8,4.9,49.5,0.608,1,121.74
+SHP-101881,Toronto ON,Montreal QC,MapleFreight Fleet,Standard,General Freight,Silver,Clear,3,203.0,514.6,1,0,3.42,-20.0,3.8,8.6,65.2,0.416,2,
+SHP-105230,Mississauga ON,Toronto ON,QuebecExpress,Standard,General Freight,Silver,Clear,10,493.0,1478.7,1,0,6.54,39.0,10.9,12.5,48.7,0.389,1,30.0
+SHP-102191,Montreal QC,Montreal QC,MapleFreight Fleet,Standard,Fragile,Silver,Snow,4,789.2,194.2,1,0,11.25,42.0,21.0,6.5,45.5,0.197,1,283.3
+SHP-101438,Mississauga ON,Montreal QC,Contract Owner-Op,Standard,Fragile,Bronze,Clear,5,726.1,1462.2,2,0,10.64,38.0,10.5,11.4,93.8,0.567,3,87.9
+SHP-104265,Ottawa ON,Toronto ON,MapleFreight Fleet,Standard,Fragile,Gold,Rain,12,355.6,2077.7,4,1,9.6,48.0,4.1,1.8,73.5,0.353,3,66.66
+SHP-105569,Toronto ON,Sudbury ON,NorthStar Carriers,Express,Fragile,Bronze,Clear,4,620.9,594.3,2,0,10.43,-20.0,3.2,3.5,53.0,0.526,0,178.92
+SHP-103268,Mississauga ON,Winnipeg MB,PrairieLine,Express,General Freight,Bronze,Clear,9,371.4,313.8,5,1,6.16,-20.0,11.2,3.3,51.0,0.525,4,55.74
+SHP-102080,Mississauga ON,Winnipeg MB,Contract Owner-Op,Standard,General Freight,Silver,Rain,6,636.7,1423.5,2,0,9.8,58.0,20.4,2.6,58.0,0.238,1,182.5
+SHP-102554,Calgary AB,Ottawa ON,QuebecExpress,Standard,Refrigerated,Silver,Fog,5,342.6,2465.2,4,0,6.53,25.0,5.3,6.8,53.2,0.156,2,231.33
+SHP-102753,Ottawa ON,Calgary AB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,8,665.4,468.7,0,0,8.52,-20.0,0.9,1.9,29.9,0.616,1,176.59
+SHP-102139,Ottawa ON,Calgary AB,MapleFreight Fleet,Economy,Fragile,Gold,Rain,3,404.6,90.3,5,0,9.48,80.0,0.9,1.5,96.6,0.576,1,245.61
+SHP-100776,Toronto ON,Montreal QC,NorthStar Carriers,Economy,Refrigerated,Bronze,Clear,12,739.6,1675.5,3,0,13.13,-13.0,14.1,3.5,65.0,0.59,0,
+SHP-102895,Montreal QC,Hamilton ON,MapleFreight Fleet,Standard,Fragile,Gold,Snow,1,864.3,779.9,0,0,12.71,-12.0,8.6,18.8,48.0,0.593,1,153.25
+SHP-105718,Toronto ON,Calgary AB,QuebecExpress,Express,General Freight,Bronze,Clear,8,595.7,910.1,2,0,11.33,-3.0,3.3,9.6,70.8,0.908,3,138.27
+SHP-103123,Mississauga ON,Winnipeg MB,NorthStar Carriers,Standard,General Freight,Gold,,1,776.6,1043.6,1,0,11.41,9.0,4.9,4.2,58.9,0.586,0,180.57
+SHP-103186,Mississauga ON,Hamilton ON,NorthStar Carriers,Standard,General Freight,Silver,Snow,1,628.8,730.4,2,0,10.02,2.0,8.5,12.1,78.1,0.87,2,102.31
+SHP-105147,Winnipeg MB,Calgary AB,MapleFreight Fleet,Standard,Bulk,Bronze,Clear,2,233.3,650.5,0,0,3.6,52.0,2.5,1.4,68.6,0.321,0,259.5
+SHP-102581,Montreal QC,Montreal QC,MapleFreight Fleet,Standard,Fragile,Silver,Clear,11,448.2,894.6,1,0,5.4,20.0,,4.2,78.7,0.173,1,80.79
+SHP-105149,Toronto ON,Sudbury ON,QuebecExpress,Economy,General Freight,Gold,Clear,2,316.7,552.0,4,0,6.0,72.0,9.8,4.8,58.8,0.179,1,226.67
+SHP-102216,Winnipeg MB,Ottawa ON,NorthStar Carriers,Express,General Freight,Bronze,Snow,12,1254.9,1293.9,3,0,19.02,37.0,,2.2,36.5,0.957,0,123.93
+SHP-100624,Mississauga ON,Calgary AB,MapleFreight Fleet,Standard,Bulk,Bronze,Clear,12,841.5,1249.3,4,0,15.02,-20.0,12.3,1.0,69.8,0.79,1,146.59
+SHP-103667,Ottawa ON,Hamilton ON,MapleFreight Fleet,Express,General Freight,Gold,Snow,4,433.1,1136.3,3,0,8.72,75.0,3.2,3.1,42.1,0.442,3,297.88
+SHP-100254,Toronto ON,Montreal QC,QuebecExpress,Standard,General Freight,Bronze,Fog,7,685.4,629.8,5,0,13.07,23.0,4.3,7.8,6.2,0.775,3,208.41
+SHP-101312,Ottawa ON,Toronto ON,MapleFreight Fleet,Express,General Freight,Gold,Clear,10,741.0,187.5,3,0,13.71,37.0,2.4,2.5,51.0,0.362,0,253.33
+SHP-105584,Calgary AB,Calgary AB,QuebecExpress,Express,Fragile,Bronze,Rain,12,233.5,227.3,4,0,5.56,4.0,6.5,9.0,80.5,0.224,0,135.56
+SHP-103552,Mississauga ON,Hamilton ON,NorthStar Carriers,Economy,Bulk,Bronze,Snow,10,612.2,120.7,0,0,10.92,-18.0,0.3,7.6,60.0,0.683,1,145.02
+SHP-101520,Toronto ON,Calgary AB,NorthStar Carriers,Express,Fragile,Bronze,Clear,7,382.3,957.7,1,0,6.2,-20.0,5.8,7.6,68.2,0.538,0,168.59
+SHP-101113,Mississauga ON,Hamilton ON,MapleFreight Fleet,Express,Refrigerated,Bronze,Clear,11,688.8,512.8,5,0,11.02,2.0,2.9,1.9,61.5,0.2,0,124.42
+SHP-104257,Mississauga ON,Hamilton ON,NorthStar Carriers,Express,Bulk,Silver,Clear,10,543.2,2535.5,0,0,6.92,20.0,3.8,4.9,46.1,0.343,1,70.24
+SHP-103192,London ON,Calgary AB,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,7,483.4,1448.1,1,0,5.94,-2.0,3.1,9.6,54.3,0.753,1,232.56
+SHP-104690,Calgary AB,Regina SK,Contract Owner-Op,Express,General Freight,Silver,Clear,7,605.5,670.9,3,0,10.8,48.0,4.0,3.5,72.8,0.559,1,257.38
+SHP-103874,Ottawa ON,Toronto ON,PrairieLine,Express,Refrigerated,Silver,Clear,8,171.1,1119.9,3,0,4.36,48.0,7.1,11.9,34.9,0.441,1,124.78
+SHP-104126,Montreal QC,Regina SK,Contract Owner-Op,Standard,Bulk,Bronze,Rain,5,502.5,1022.0,4,0,10.18,46.0,8.1,2.5,43.8,0.063,4,123.92
+SHP-104958,Toronto ON,Hamilton ON,MapleFreight Fleet,Economy,Bulk,Silver,Fog,4,222.2,627.0,1,0,4.35,28.0,4.3,4.4,43.7,0.118,1,84.58
+SHP-103732,Toronto ON,Quebec City QC,NorthStar Carriers,Standard,General Freight,Silver,Fog,7,806.5,949.3,0,0,11.6,37.0,6.4,5.5,68.8,0.447,0,55.49
+SHP-100576,Toronto ON,Calgary AB,PrairieLine,Standard,General Freight,Silver,,11,187.6,1002.5,4,0,4.34,49.0,5.6,1.6,85.5,0.807,0,140.99
+SHP-101487,London ON,Regina SK,Contract Owner-Op,Economy,Fragile,Silver,Clear,6,542.6,1194.1,1,0,9.25,8.0,1.9,8.7,35.3,0.517,3,149.15
+SHP-101094,London ON,Sudbury ON,NorthStar Carriers,Express,General Freight,Bronze,Clear,3,655.8,322.0,3,0,12.98,-20.0,5.8,5.0,85.4,0.392,0,103.0
+SHP-100103,Montreal QC,Hamilton ON,PrairieLine,Standard,Bulk,Silver,Fog,3,571.6,352.7,5,1,11.78,-20.0,10.5,7.3,26.2,0.778,2,222.24
+SHP-103853,Montreal QC,Edmonton AB,NorthStar Carriers,Express,Hazardous,Bronze,Rain,7,795.3,786.0,3,0,13.33,-4.0,3.1,6.0,48.6,0.548,1,241.27
+SHP-103101,Toronto ON,Quebec City QC,MapleFreight Fleet,Standard,Hazardous,Silver,Storm,3,375.0,463.1,5,0,9.24,46.0,2.1,14.2,81.4,0.85,0,191.73
+SHP-104709,Mississauga ON,Quebec City QC,NorthStar Carriers,Standard,Bulk,Silver,Clear,6,877.5,1828.0,4,0,14.83,23.0,7.0,5.9,26.6,0.717,0,208.33
+SHP-103011,Montreal QC,Montreal QC,QuebecExpress,Standard,Fragile,Silver,Rain,8,369.9,324.9,5,0,8.76,64.0,1.7,12.0,38.7,0.254,2,172.15
+SHP-105380,Montreal QC,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,11,710.8,1910.4,2,0,11.07,54.0,3.8,5.5,72.5,0.285,1,213.89
+SHP-105034,Ottawa ON,Ottawa ON,MapleFreight Fleet,Express,General Freight,Gold,Rain,5,586.1,1256.0,1,0,8.17,5.0,3.4,7.1,51.7,0.819,0,131.27
+SHP-101724,Toronto ON,Hamilton ON,MapleFreight Fleet,Standard,Hazardous,Bronze,Rain,4,955.8,2377.4,3,0,16.97,7.0,,2.4,55.1,0.173,2,189.86
+SHP-100583,Toronto ON,Montreal QC,MapleFreight Fleet,Economy,General Freight,Bronze,Clear,1,664.9,1017.8,1,0,10.28,12.0,2.6,14.8,56.8,0.477,2,206.0
+SHP-105758,Mississauga ON,Calgary AB,PrairieLine,Express,General Freight,Bronze,Clear,10,775.6,1413.6,5,0,14.46,53.0,4.4,5.4,63.3,0.531,0,110.81
+SHP-100279,Winnipeg MB,Hamilton ON,Contract Owner-Op,Express,Fragile,Bronze,Clear,8,1331.5,697.5,0,0,18.55,64.0,8.3,3.6,53.9,0.404,0,161.83
+SHP-105517,Mississauga ON,Calgary AB,PrairieLine,Standard,General Freight,Gold,Snow,3,781.0,138.3,3,0,13.66,32.0,22.5,5.5,72.1,0.37,1,119.09
+SHP-100910,Toronto ON,Winnipeg MB,MapleFreight Fleet,Standard,Refrigerated,Bronze,Clear,6,605.7,492.6,5,0,14.79,-15.0,5.1,6.9,34.8,0.414,0,205.09
+SHP-100813,London ON,Sudbury ON,MapleFreight Fleet,Express,Refrigerated,Bronze,Clear,5,689.8,233.4,5,0,13.67,57.0,10.7,9.0,63.1,0.192,1,198.18
+SHP-103861,Mississauga ON,Sudbury ON,QuebecExpress,Standard,General Freight,Silver,Clear,10,461.6,1144.7,1,0,6.91,3.0,9.0,7.2,80.7,0.308,2,176.39
+SHP-103743,Toronto ON,Toronto ON,QuebecExpress,Express,General Freight,Gold,Storm,1,411.2,1930.4,2,1,5.7,35.0,11.0,12.7,72.2,0.742,1,182.32
+SHP-101443,London ON,Winnipeg MB,NorthStar Carriers,Economy,General Freight,Bronze,Rain,6,645.0,1370.1,0,0,10.62,-6.0,10.0,5.8,49.8,0.533,2,210.35
+SHP-105770,Winnipeg MB,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Bronze,Snow,3,558.1,2664.7,1,0,8.58,55.0,2.7,4.5,97.2,0.46,0,144.8
+SHP-100942,Montreal QC,Quebec City QC,MapleFreight Fleet,Express,General Freight,Gold,Clear,12,140.4,693.3,1,1,2.08,60.0,2.8,6.8,46.7,0.215,3,156.83
+SHP-103488,Montreal QC,Montreal QC,QuebecExpress,Economy,General Freight,Bronze,Clear,4,454.1,3860.5,2,0,8.32,26.0,6.9,2.8,69.8,0.288,1,
+SHP-105859,Toronto ON,Ottawa ON,MapleFreight Fleet,Express,Fragile,Silver,Snow,12,944.3,171.4,5,0,17.98,8.0,3.5,2.5,58.8,0.72,3,195.31
+SHP-102589,Montreal QC,Quebec City QC,NorthStar Carriers,Economy,Fragile,Silver,Snow,11,351.2,622.7,1,0,5.69,-20.0,5.8,3.0,51.0,0.593,2,206.27
+SHP-104951,Calgary AB,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Silver,Rain,1,292.3,1493.2,1,0,8.03,41.0,3.8,7.9,57.2,0.555,0,92.01
+SHP-105163,Toronto ON,Winnipeg MB,MapleFreight Fleet,Economy,General Freight,Silver,Clear,10,1284.3,2703.8,0,0,16.28,0.0,10.0,2.7,22.9,0.593,2,253.04
+SHP-101043,Toronto ON,Ottawa ON,QuebecExpress,Standard,General Freight,Silver,Rain,6,367.8,366.9,5,0,7.71,63.0,3.3,4.7,62.4,0.431,0,230.29
+SHP-101272,London ON,Sudbury ON,MapleFreight Fleet,Express,Refrigerated,Silver,Clear,1,535.0,163.4,4,0,7.82,-5.0,12.1,4.1,39.6,0.804,1,166.6
+SHP-102534,Toronto ON,Sudbury ON,PrairieLine,Standard,Bulk,Silver,Rain,1,180.2,512.3,0,0,3.01,54.0,7.3,5.8,82.9,0.457,1,113.69
+SHP-102863,Mississauga ON,Calgary AB,QuebecExpress,Express,General Freight,Bronze,Clear,9,584.9,1400.3,4,1,11.46,19.0,3.3,6.8,56.7,0.391,2,210.52
+SHP-104621,Calgary AB,Sudbury ON,MapleFreight Fleet,Standard,Hazardous,Bronze,Fog,2,354.1,1565.3,2,0,6.86,-3.0,4.0,9.2,83.2,0.529,0,206.79
+SHP-104305,Montreal QC,Hamilton ON,QuebecExpress,Express,General Freight,Bronze,Clear,12,307.9,1357.8,5,0,6.22,51.0,14.6,5.6,46.6,0.032,0,116.96
+SHP-105169,Calgary AB,Regina SK,Contract Owner-Op,Economy,Hazardous,Silver,Clear,11,304.9,616.2,2,0,6.17,18.0,11.2,3.8,45.7,0.131,1,229.44
+SHP-102811,Mississauga ON,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Silver,Snow,7,204.8,1430.2,1,0,3.61,-9.0,6.1,1.9,100.0,0.23,0,188.88
+SHP-104023,Winnipeg MB,Hamilton ON,PrairieLine,Standard,Bulk,Silver,Clear,2,870.9,298.7,4,0,15.12,27.0,4.4,4.9,48.8,0.747,1,211.41
+SHP-100053,Toronto ON,Regina SK,Contract Owner-Op,Standard,General Freight,Bronze,Clear,8,807.5,1435.5,1,0,13.78,37.0,4.9,4.3,83.2,0.19,0,
+SHP-104399,Toronto ON,Hamilton ON,PrairieLine,Economy,Fragile,Silver,Clear,2,569.2,764.2,3,0,8.66,38.0,5.6,10.5,60.4,0.255,1,197.81
+SHP-100638,Ottawa ON,Winnipeg MB,MapleFreight Fleet,Standard,Fragile,Gold,Clear,5,942.9,288.7,2,0,12.41,27.0,23.5,1.6,57.8,0.382,0,233.92
+SHP-103433,Montreal QC,Quebec City QC,PrairieLine,Express,Bulk,Bronze,Rain,9,828.6,1625.4,2,1,12.49,80.0,10.6,9.1,76.7,0.138,1,204.2
+SHP-101166,Calgary AB,Winnipeg MB,QuebecExpress,Economy,General Freight,Bronze,Snow,10,451.8,1234.5,5,0,10.13,38.0,1.4,6.4,39.7,0.7,2,155.85
+SHP-100651,Ottawa ON,Montreal QC,QuebecExpress,Standard,Refrigerated,Silver,Snow,9,441.9,568.3,2,0,9.46,37.0,4.0,2.1,55.7,0.284,0,126.22
+SHP-103836,Calgary AB,Calgary AB,MapleFreight Fleet,Standard,General Freight,Bronze,Fog,3,388.6,770.0,1,0,5.45,7.0,4.9,5.7,60.3,0.333,0,148.58
+SHP-103473,Montreal QC,Montreal QC,MapleFreight Fleet,Economy,Bulk,Silver,Snow,7,343.5,1268.1,3,0,7.48,17.0,3.3,0.3,45.2,0.487,3,170.85
+SHP-105193,Winnipeg MB,Winnipeg MB,Contract Owner-Op,Standard,Bulk,Silver,Clear,3,500.0,1910.4,1,0,7.45,48.0,5.8,6.6,49.5,0.56,5,230.67
+SHP-103455,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Express,Refrigerated,Silver,Clear,3,355.1,1152.7,4,0,4.53,12.0,11.2,4.9,70.8,0.489,0,233.89
+SHP-101017,Montreal QC,Sudbury ON,Contract Owner-Op,Express,General Freight,Gold,Clear,1,1361.9,1441.4,3,0,21.07,42.0,8.1,11.8,52.8,0.452,5,176.05
+SHP-102141,Mississauga ON,Edmonton AB,NorthStar Carriers,Express,General Freight,Gold,Rain,5,1265.9,195.1,4,0,20.42,-20.0,10.4,2.3,62.6,0.307,2,114.94
+SHP-103074,Toronto ON,Toronto ON,MapleFreight Fleet,Standard,Hazardous,Gold,Clear,3,1072.9,920.0,2,0,15.58,-20.0,5.7,3.5,,0.827,0,229.17
+SHP-101658,Montreal QC,Calgary AB,MapleFreight Fleet,Standard,Fragile,Bronze,Snow,5,1161.4,744.3,0,0,16.28,53.0,3.7,1.4,58.2,0.166,2,84.88
+SHP-101412,Ottawa ON,Ottawa ON,MapleFreight Fleet,Standard,Bulk,Bronze,Clear,1,381.0,318.5,1,0,6.32,21.0,2.2,6.4,38.3,0.556,1,242.86
+SHP-104246,Mississauga ON,Regina SK,QuebecExpress,Standard,General Freight,Silver,Snow,5,559.5,1484.7,0,0,7.65,47.0,1.8,6.8,46.2,0.408,4,153.32
+SHP-105873,Winnipeg MB,Sudbury ON,PrairieLine,Express,Fragile,Bronze,Rain,5,648.8,749.9,1,1,10.22,-1.0,7.0,3.6,18.3,0.493,4,183.67
+SHP-105593,London ON,Montreal QC,NorthStar Carriers,Standard,Fragile,Silver,Clear,4,582.3,496.0,4,0,11.97,25.0,3.6,2.6,30.3,0.412,0,220.55
+SHP-101634,Winnipeg MB,Regina SK,MapleFreight Fleet,Economy,Refrigerated,Bronze,Rain,9,558.5,462.5,2,1,9.41,27.0,4.7,3.5,74.6,0.323,2,218.72
+SHP-101197,Mississauga ON,Winnipeg MB,PrairieLine,Express,General Freight,Gold,Snow,12,667.9,96.3,1,0,11.24,32.0,9.1,7.8,40.9,0.751,1,132.93
+SHP-104790,Montreal QC,Ottawa ON,MapleFreight Fleet,Standard,General Freight,Silver,Clear,7,1028.8,635.1,1,0,13.37,78.0,11.0,1.8,15.7,0.442,0,53.89
+SHP-101313,Toronto ON,Quebec City QC,MapleFreight Fleet,Standard,Bulk,Bronze,Storm,10,407.2,1330.8,4,0,6.62,-20.0,6.6,4.4,48.7,0.169,2,
+SHP-101160,Montreal QC,Toronto ON,NorthStar Carriers,Standard,Fragile,Silver,Clear,12,503.2,2174.5,3,0,8.04,-20.0,10.4,3.9,61.8,0.466,0,180.46
+SHP-100078,Calgary AB,Montreal QC,MapleFreight Fleet,Express,General Freight,Gold,Snow,5,647.5,739.9,0,0,7.19,-20.0,13.9,2.2,54.7,0.323,3,211.05
+SHP-101568,Calgary AB,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,2,687.3,2659.2,3,0,12.55,-20.0,1.8,4.2,59.2,0.73,1,175.71
+SHP-104532,Montreal QC,Winnipeg MB,NorthStar Carriers,Standard,Bulk,Silver,Clear,4,790.4,560.8,2,0,15.07,-20.0,18.5,2.8,67.3,0.555,0,163.34
+SHP-104252,Montreal QC,Hamilton ON,QuebecExpress,Standard,Bulk,Silver,Clear,7,483.7,1606.9,3,0,7.54,58.0,7.4,3.2,59.5,0.639,1,150.29
+SHP-102883,Toronto ON,Hamilton ON,QuebecExpress,Express,General Freight,Silver,Snow,3,694.0,1047.4,3,1,12.83,-2.0,6.7,8.7,5.0,0.926,1,230.58
+SHP-103142,Toronto ON,Montreal QC,MapleFreight Fleet,Express,Hazardous,Bronze,Clear,4,526.7,649.2,5,0,9.59,-20.0,1.5,6.2,35.5,0.401,1,166.35
+SHP-101833,Montreal QC,Toronto ON,MapleFreight Fleet,Economy,General Freight,Gold,Snow,12,177.4,248.6,5,0,4.67,20.0,3.7,2.4,78.3,0.479,3,187.6
+SHP-100882,Ottawa ON,Calgary AB,NorthStar Carriers,Standard,General Freight,Silver,Clear,8,336.6,1901.6,5,0,9.82,3.0,2.6,6.8,79.5,0.81,1,220.02
+SHP-103154,Toronto ON,Winnipeg MB,NorthStar Carriers,Express,General Freight,Bronze,Fog,8,354.4,2267.8,0,0,5.44,-20.0,5.5,8.1,8.6,0.507,2,
+SHP-105378,Mississauga ON,Toronto ON,NorthStar Carriers,Standard,Bulk,Bronze,Clear,10,739.3,1338.4,1,0,9.56,16.0,2.6,6.0,75.0,0.483,0,144.64
+SHP-100270,Calgary AB,Quebec City QC,MapleFreight Fleet,Economy,Hazardous,Gold,Clear,12,410.5,937.8,4,0,6.59,-20.0,1.3,4.2,57.7,0.0,0,143.19
+SHP-101748,Calgary AB,Edmonton AB,MapleFreight Fleet,Standard,Refrigerated,Bronze,Rain,2,791.5,1107.9,3,0,13.27,74.0,7.9,6.1,56.6,0.243,1,166.93
+SHP-104670,Toronto ON,Quebec City QC,PrairieLine,Standard,Fragile,Gold,Snow,8,468.4,1367.9,3,1,9.67,49.0,9.9,2.6,49.5,0.304,1,170.06
+SHP-103808,Mississauga ON,Edmonton AB,Contract Owner-Op,Standard,Refrigerated,Silver,Rain,12,450.7,2061.3,4,0,9.26,57.0,10.4,5.5,80.9,0.489,1,208.93
+SHP-102959,London ON,Quebec City QC,MapleFreight Fleet,Express,General Freight,Silver,Snow,12,1154.4,952.4,4,0,19.44,-20.0,14.0,5.4,44.5,0.426,1,208.89
+SHP-103663,London ON,Hamilton ON,NorthStar Carriers,Express,General Freight,Silver,Clear,6,280.7,654.2,2,0,3.92,53.0,0.4,3.4,35.3,0.268,1,133.43
+SHP-104372,Toronto ON,Calgary AB,Contract Owner-Op,Express,Fragile,Silver,Clear,2,738.0,637.3,0,1,11.16,5.0,2.9,2.9,5.0,0.088,3,124.75
+SHP-103669,Montreal QC,Edmonton AB,QuebecExpress,Economy,Fragile,Silver,Clear,5,1024.9,224.7,5,0,15.04,44.0,1.2,5.6,44.0,0.713,1,238.57
+SHP-100619,Winnipeg MB,Winnipeg MB,NorthStar Carriers,Standard,General Freight,Bronze,Clear,1,760.6,527.4,0,0,12.56,73.0,13.0,4.4,39.3,0.275,1,221.62
+SHP-103722,Montreal QC,Edmonton AB,MapleFreight Fleet,Standard,Refrigerated,Bronze,Clear,11,1686.5,454.9,3,0,25.71,-10.0,1.1,7.4,73.6,0.543,3,79.88
+SHP-100811,London ON,Ottawa ON,MapleFreight Fleet,Express,General Freight,Gold,Rain,4,850.9,241.8,0,0,13.01,34.0,3.3,11.5,73.5,0.437,0,189.23
+SHP-104872,Ottawa ON,Regina SK,NorthStar Carriers,Express,Bulk,Bronze,Fog,1,376.6,930.2,4,0,6.29,33.0,1.2,7.5,65.3,0.577,1,53.55
+SHP-103895,Toronto ON,Quebec City QC,MapleFreight Fleet,Standard,Bulk,Gold,Snow,1,398.8,1587.4,2,0,4.86,-16.0,6.5,5.1,39.4,0.598,0,239.44
+SHP-100648,Mississauga ON,Edmonton AB,PrairieLine,Express,General Freight,Bronze,Snow,5,630.8,606.7,1,0,8.76,-8.0,,8.9,30.8,0.75,1,274.11
+SHP-104400,Calgary AB,Hamilton ON,Contract Owner-Op,Express,Fragile,Silver,Rain,7,544.0,1028.2,4,0,11.03,22.0,2.6,8.1,51.9,0.452,1,
+SHP-100372,Toronto ON,Sudbury ON,PrairieLine,Standard,General Freight,Silver,Snow,10,513.0,2122.0,5,0,9.05,21.0,4.6,4.5,38.6,0.517,2,232.34
+SHP-105909,Toronto ON,Ottawa ON,QuebecExpress,Standard,General Freight,Silver,Snow,5,804.0,624.3,1,0,12.75,35.0,18.5,2.8,55.1,0.297,3,171.34
+SHP-102376,Toronto ON,Ottawa ON,MapleFreight Fleet,Standard,General Freight,Silver,Clear,12,826.9,1441.8,3,0,13.84,25.0,5.0,11.8,65.9,0.467,4,182.51
+SHP-104596,Calgary AB,Winnipeg MB,NorthStar Carriers,Economy,Bulk,Gold,Clear,8,892.5,1082.3,2,0,11.06,22.0,9.0,1.1,,0.32,1,165.67
+SHP-100067,Mississauga ON,Calgary AB,QuebecExpress,Standard,General Freight,Silver,Clear,12,772.9,331.8,4,0,13.54,59.0,10.6,7.8,15.9,0.397,4,117.5
+SHP-101886,Montreal QC,Quebec City QC,QuebecExpress,Standard,Hazardous,Bronze,Clear,10,754.1,1591.4,3,0,13.45,21.0,2.7,3.7,54.5,0.192,1,144.58
+SHP-103774,Mississauga ON,Hamilton ON,PrairieLine,Standard,General Freight,Gold,Snow,11,1359.0,1124.6,0,0,19.16,11.0,4.8,4.5,62.9,0.539,1,169.81
+SHP-101735,Montreal QC,Ottawa ON,PrairieLine,Express,General Freight,Silver,Clear,8,1767.7,1368.2,4,0,28.75,45.0,8.5,7.0,39.3,0.8,2,167.97
+SHP-103273,Calgary AB,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Bronze,Rain,12,1042.1,373.9,3,0,14.7,-20.0,5.6,2.7,57.6,0.426,1,235.46
+SHP-102567,Calgary AB,Quebec City QC,QuebecExpress,Standard,Refrigerated,Silver,Snow,10,611.1,1261.2,0,0,7.75,72.0,4.3,10.8,73.5,0.664,1,236.79
+SHP-105639,Mississauga ON,Hamilton ON,Contract Owner-Op,Standard,Fragile,Bronze,Clear,7,442.1,1607.8,4,0,7.31,-20.0,11.6,1.4,72.8,0.619,1,175.25
+SHP-102743,Toronto ON,Hamilton ON,PrairieLine,Express,Fragile,Silver,Clear,12,554.7,1051.8,2,0,8.09,11.0,11.8,7.8,41.4,0.617,2,239.04
+SHP-100848,Toronto ON,Calgary AB,NorthStar Carriers,Standard,General Freight,Bronze,Clear,9,547.2,636.0,3,0,10.28,17.0,7.7,2.7,52.7,0.585,2,130.1
+SHP-101763,Toronto ON,Quebec City QC,NorthStar Carriers,Standard,General Freight,Bronze,Clear,1,603.8,1220.3,0,0,5.8,30.0,5.2,3.2,69.9,0.579,0,227.84
+SHP-100147,Toronto ON,Montreal QC,MapleFreight Fleet,Standard,General Freight,Gold,Clear,7,785.6,435.8,5,0,14.12,15.0,5.8,3.4,64.1,0.0,2,162.82
+SHP-103012,Montreal QC,Hamilton ON,NorthStar Carriers,Standard,Fragile,Silver,Clear,9,1267.7,502.0,5,0,21.08,27.0,9.5,13.4,56.6,0.505,3,120.52
+SHP-103372,Ottawa ON,Winnipeg MB,MapleFreight Fleet,Economy,General Freight,Bronze,Clear,9,672.4,1745.3,5,1,12.12,10.0,5.4,4.3,75.0,0.654,1,190.4
+SHP-103409,London ON,Toronto ON,QuebecExpress,Economy,General Freight,Silver,,5,557.7,1598.0,1,0,11.32,11.0,15.2,2.1,51.9,0.422,1,172.85
+SHP-101625,Winnipeg MB,Sudbury ON,MapleFreight Fleet,Standard,General Freight,Gold,Rain,8,454.2,139.9,5,0,8.89,42.0,5.2,1.7,84.2,0.658,2,291.32
+SHP-100240,London ON,Ottawa ON,MapleFreight Fleet,Standard,General Freight,Silver,Fog,12,550.5,470.7,0,0,6.42,25.0,12.6,2.2,62.4,0.234,2,246.29
+SHP-105421,Mississauga ON,Quebec City QC,MapleFreight Fleet,Economy,Fragile,Gold,Clear,5,977.8,1028.8,1,0,13.23,-8.0,1.6,2.8,48.8,0.087,1,205.82
+SHP-100268,Mississauga ON,Calgary AB,MapleFreight Fleet,Economy,Bulk,Silver,Storm,4,838.3,402.5,3,0,13.8,43.0,13.1,5.0,,0.873,2,133.17
+SHP-104881,Toronto ON,Regina SK,MapleFreight Fleet,Standard,General Freight,Silver,,9,1076.2,641.8,2,0,17.72,-13.0,0.9,4.3,67.2,0.514,1,184.0
+SHP-102044,Montreal QC,Toronto ON,QuebecExpress,Express,Fragile,Gold,Clear,12,559.5,516.6,2,0,7.85,52.0,12.7,6.8,83.1,0.537,1,155.4
+SHP-104434,Ottawa ON,Quebec City QC,Contract Owner-Op,Standard,General Freight,Gold,,3,294.6,2067.7,2,1,4.93,26.0,5.6,5.1,65.4,0.61,0,169.95
+SHP-101225,Montreal QC,Calgary AB,MapleFreight Fleet,Standard,Bulk,Silver,Fog,2,460.9,1210.8,0,0,6.95,9.0,3.5,4.8,47.8,0.53,2,220.14
+SHP-105771,Toronto ON,Winnipeg MB,MapleFreight Fleet,Standard,Fragile,Bronze,Storm,11,763.9,1535.5,3,0,13.12,-12.0,1.8,3.4,74.3,0.333,2,171.67
+SHP-101964,Montreal QC,Edmonton AB,QuebecExpress,Standard,Refrigerated,Silver,Clear,7,1177.0,1944.5,5,0,20.89,-15.0,1.6,7.6,38.2,0.264,1,226.81
+SHP-100312,Mississauga ON,Quebec City QC,NorthStar Carriers,Standard,Fragile,Gold,Clear,11,533.6,306.3,0,0,5.67,21.0,7.2,1.1,62.8,0.207,1,298.53
+SHP-102726,Ottawa ON,Regina SK,QuebecExpress,Standard,General Freight,Bronze,Clear,5,485.2,810.8,3,0,9.04,-6.0,7.9,17.8,44.1,0.475,0,109.19
+SHP-104080,Montreal QC,Hamilton ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Clear,4,1144.3,553.8,4,0,18.11,-20.0,4.1,4.9,47.5,0.951,2,155.39
+SHP-105560,Winnipeg MB,Montreal QC,MapleFreight Fleet,Economy,Refrigerated,Bronze,Clear,5,268.4,428.8,5,0,5.93,-19.0,10.4,3.0,32.5,0.145,0,222.67
+SHP-102752,Toronto ON,Hamilton ON,MapleFreight Fleet,Standard,General Freight,Gold,Clear,9,980.1,570.6,1,1,14.73,27.0,7.8,6.5,,0.169,0,285.06
+SHP-105686,Mississauga ON,Quebec City QC,NorthStar Carriers,Standard,Hazardous,Silver,Rain,7,1357.5,192.0,1,0,20.21,29.0,3.3,8.5,35.5,0.26,1,161.25
+SHP-105272,London ON,Hamilton ON,MapleFreight Fleet,Economy,Fragile,Gold,Fog,10,522.8,2235.2,1,0,8.42,26.0,7.4,4.7,70.2,0.186,2,230.33
+SHP-102056,Ottawa ON,Quebec City QC,Contract Owner-Op,Express,General Freight,Silver,Clear,4,725.9,620.1,2,0,12.11,-7.0,3.7,3.4,51.6,0.605,0,
+SHP-101512,Calgary AB,Regina SK,QuebecExpress,Standard,General Freight,Bronze,Snow,2,422.8,2131.2,0,0,5.33,1.0,0.3,5.4,49.2,0.4,2,166.35
+SHP-100302,Toronto ON,Toronto ON,PrairieLine,Standard,Bulk,Silver,Clear,5,108.9,1120.5,5,0,4.1,85.0,4.3,8.0,40.3,0.367,0,229.61
+SHP-102312,Montreal QC,Calgary AB,MapleFreight Fleet,Standard,Fragile,Gold,Rain,12,701.0,384.9,4,0,13.23,48.0,7.5,3.9,62.8,0.709,0,160.25
+SHP-105460,Calgary AB,Calgary AB,MapleFreight Fleet,Standard,Fragile,Silver,Clear,11,339.0,61.7,2,0,6.34,23.0,6.3,0.8,38.6,0.732,4,139.24
+SHP-104617,Toronto ON,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Bronze,Rain,7,204.0,1053.6,0,0,1.31,7.0,4.2,4.5,50.6,0.562,2,138.43
+SHP-105959,Calgary AB,Winnipeg MB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,7,720.2,439.9,3,1,11.65,-5.0,10.5,10.4,65.7,0.364,0,145.69
+SHP-105216,Toronto ON,Edmonton AB,QuebecExpress,Standard,General Freight,Silver,Snow,12,304.4,1333.4,4,0,6.08,53.0,7.2,1.5,80.9,0.686,2,191.8
+SHP-101427,Toronto ON,Montreal QC,NorthStar Carriers,Express,General Freight,Bronze,Clear,2,316.9,337.2,2,0,5.82,58.0,1.2,5.3,73.9,0.615,2,239.27
+SHP-105443,Winnipeg MB,Quebec City QC,NorthStar Carriers,Standard,Refrigerated,Bronze,Storm,6,438.8,2582.6,2,1,8.39,9.0,15.1,9.2,46.2,0.428,1,269.91
+SHP-103386,Winnipeg MB,Edmonton AB,MapleFreight Fleet,Economy,General Freight,Gold,Snow,5,865.1,952.9,3,0,15.95,48.0,15.0,10.3,31.8,0.343,1,163.37
+SHP-102655,Montreal QC,Ottawa ON,MapleFreight Fleet,Standard,Bulk,Bronze,Clear,2,138.3,259.7,3,0,3.83,-20.0,2.6,6.4,39.3,0.544,1,189.13
+SHP-102510,London ON,Winnipeg MB,PrairieLine,Standard,General Freight,Gold,Snow,1,238.3,1903.8,5,0,5.24,91.0,0.6,9.9,25.2,0.574,2,187.36
+SHP-105148,Winnipeg MB,Edmonton AB,MapleFreight Fleet,Economy,Bulk,Bronze,Snow,8,245.5,770.8,4,0,7.05,1.0,5.6,0.6,85.3,0.237,1,167.63
+SHP-105891,Montreal QC,Toronto ON,NorthStar Carriers,Standard,General Freight,Bronze,Storm,1,555.7,2403.9,1,0,5.91,7.0,10.1,17.3,45.9,0.622,1,204.31
+SHP-105285,Calgary AB,Sudbury ON,MapleFreight Fleet,Standard,Fragile,Bronze,Clear,4,841.2,828.4,5,0,12.72,33.0,9.1,9.1,80.7,0.284,2,192.98
+SHP-103656,Toronto ON,Hamilton ON,MapleFreight Fleet,Economy,Bulk,Bronze,Snow,1,901.3,1617.4,2,0,14.35,69.0,8.3,9.8,65.9,0.748,0,276.96
+SHP-104375,Calgary AB,Ottawa ON,MapleFreight Fleet,Express,Hazardous,Gold,Storm,3,330.5,395.3,3,0,6.9,33.0,4.3,2.7,62.4,0.46,1,128.75
+SHP-101745,Mississauga ON,Toronto ON,NorthStar Carriers,Standard,General Freight,Silver,Rain,10,533.0,813.1,3,0,6.19,-1.0,2.1,7.6,38.7,0.391,0,247.46
+SHP-100475,Montreal QC,Regina SK,MapleFreight Fleet,Standard,General Freight,Silver,Clear,3,191.9,834.9,3,0,2.43,11.0,3.5,11.0,48.1,0.739,1,236.62
+SHP-103499,Calgary AB,Toronto ON,PrairieLine,Standard,Fragile,Silver,Clear,4,596.3,899.3,4,1,8.45,35.0,14.7,4.1,61.3,0.677,3,211.04
+SHP-105677,Winnipeg MB,Edmonton AB,QuebecExpress,Standard,Bulk,Bronze,Rain,6,474.4,529.9,1,0,4.94,-20.0,7.8,6.0,79.4,0.102,3,178.37
+SHP-100039,Calgary AB,Montreal QC,MapleFreight Fleet,Standard,General Freight,Silver,Rain,5,844.4,1666.1,4,0,13.83,45.0,1.5,3.0,60.2,0.291,2,220.37
+SHP-101558,Calgary AB,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,5,501.3,856.0,2,0,8.31,-2.0,6.5,15.7,65.1,0.248,1,136.52
+SHP-104042,Montreal QC,Montreal QC,NorthStar Carriers,Economy,Hazardous,Bronze,Fog,11,396.0,2242.9,2,0,5.29,0.0,10.0,4.3,74.1,0.391,2,106.01
+SHP-101814,Mississauga ON,Winnipeg MB,MapleFreight Fleet,Standard,Bulk,Silver,Clear,2,607.1,785.7,0,0,9.28,10.0,,4.3,71.9,0.52,1,219.76
+SHP-103574,London ON,Quebec City QC,MapleFreight Fleet,Standard,Fragile,Silver,Snow,9,395.1,1223.6,5,0,9.76,-20.0,4.7,2.9,50.8,0.68,2,89.22
+SHP-105979,Toronto ON,Edmonton AB,MapleFreight Fleet,Standard,Bulk,Silver,Rain,8,572.9,607.4,1,0,9.43,5.0,3.9,8.8,58.8,0.455,3,113.72
+SHP-102015,Toronto ON,Sudbury ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Snow,9,313.7,1111.3,5,0,7.96,1.0,7.5,8.4,47.2,0.484,2,132.25
+SHP-102476,Toronto ON,Montreal QC,QuebecExpress,Standard,Hazardous,Silver,Storm,3,949.0,245.6,1,0,12.12,54.0,3.3,4.7,66.2,0.295,1,255.48
+SHP-100362,Montreal QC,Sudbury ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Rain,10,911.2,1275.2,1,0,15.0,44.0,2.1,4.3,42.6,0.456,0,226.21
+SHP-105268,Calgary AB,Sudbury ON,NorthStar Carriers,Standard,General Freight,Bronze,,12,280.9,1158.1,3,0,8.57,-9.0,0.7,13.3,69.7,0.401,2,142.95
+SHP-104136,Ottawa ON,Winnipeg MB,NorthStar Carriers,Standard,General Freight,Silver,Clear,9,618.8,872.1,5,0,13.99,29.0,4.4,5.7,46.8,0.247,1,198.52
+SHP-105816,Winnipeg MB,Edmonton AB,Contract Owner-Op,Standard,General Freight,Bronze,Rain,12,587.7,458.9,0,0,8.23,13.0,3.4,5.5,44.7,0.561,0,108.05
+SHP-103708,Toronto ON,Winnipeg MB,PrairieLine,Standard,Hazardous,Bronze,Storm,12,689.7,1203.4,4,0,12.22,79.0,9.4,4.6,51.8,0.334,3,142.75
+SHP-105333,Toronto ON,Winnipeg MB,NorthStar Carriers,Standard,General Freight,Bronze,Clear,8,543.6,791.2,0,1,5.87,78.0,0.7,2.2,77.3,0.428,1,
+SHP-100997,Calgary AB,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Silver,Rain,3,539.9,639.7,5,0,10.82,5.0,2.3,4.0,95.1,0.233,3,203.53
+SHP-104557,Ottawa ON,Edmonton AB,MapleFreight Fleet,Express,Refrigerated,Silver,Clear,9,827.3,1237.7,2,0,13.07,7.0,0.5,5.2,31.3,0.611,0,220.98
+SHP-100402,London ON,Toronto ON,MapleFreight Fleet,Standard,Refrigerated,Bronze,Snow,10,755.8,380.9,1,0,11.78,69.0,9.3,3.5,53.0,0.308,1,174.97
+SHP-102028,Toronto ON,Regina SK,MapleFreight Fleet,Standard,Hazardous,Gold,Clear,12,315.2,799.9,3,0,8.28,-20.0,2.9,2.2,35.5,0.586,0,105.11
+SHP-100211,Mississauga ON,Calgary AB,QuebecExpress,Express,General Freight,Silver,Clear,3,253.8,1170.0,5,0,6.18,43.0,4.7,7.9,36.8,0.357,0,165.51
+SHP-101917,Winnipeg MB,Quebec City QC,MapleFreight Fleet,Express,General Freight,Silver,Snow,12,244.0,678.6,2,0,6.53,66.0,3.8,4.1,59.6,0.557,2,259.06
+SHP-103922,Toronto ON,Hamilton ON,Contract Owner-Op,Express,Fragile,Bronze,Clear,7,672.7,1504.7,4,0,12.81,59.0,9.1,6.9,72.0,0.266,3,127.45
+SHP-105328,Toronto ON,Quebec City QC,PrairieLine,Express,General Freight,Bronze,Rain,2,558.7,602.6,2,0,8.97,80.0,7.0,6.9,39.1,0.332,1,204.59
+SHP-102923,Calgary AB,Regina SK,Contract Owner-Op,Economy,Fragile,Silver,Clear,8,670.1,1426.8,5,0,12.28,15.0,3.2,9.1,88.0,0.728,1,142.76
+SHP-101111,Toronto ON,Calgary AB,QuebecExpress,Express,Bulk,Gold,Clear,9,1153.8,1162.9,3,0,17.97,40.0,11.6,0.9,72.5,0.433,0,228.2
+SHP-105687,Winnipeg MB,Regina SK,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,4,536.9,860.9,1,0,7.85,81.0,14.2,4.8,76.9,0.638,1,176.06
+SHP-104584,Calgary AB,Montreal QC,PrairieLine,Express,General Freight,Gold,Clear,12,526.1,825.3,1,0,10.5,91.0,1.1,6.6,66.1,0.333,3,172.14
+SHP-100780,Toronto ON,Regina SK,Contract Owner-Op,Standard,Hazardous,Bronze,Snow,5,486.1,1149.3,4,0,7.41,3.0,3.0,3.4,59.9,0.569,2,211.56
+SHP-104047,Montreal QC,Montreal QC,NorthStar Carriers,Express,Fragile,Silver,Snow,4,386.7,345.9,2,0,7.03,13.0,5.8,3.9,31.4,0.585,1,154.87
+SHP-100075,Toronto ON,Hamilton ON,Contract Owner-Op,Standard,General Freight,Gold,Clear,8,510.5,377.8,5,1,7.87,25.0,6.6,4.6,34.1,0.695,1,236.23
+SHP-100875,Montreal QC,Toronto ON,MapleFreight Fleet,Economy,Bulk,Silver,Rain,10,1043.3,1063.7,1,0,13.76,49.0,9.1,4.6,43.0,0.0,1,195.01
+SHP-102059,Toronto ON,Sudbury ON,PrairieLine,Standard,General Freight,Silver,Clear,12,263.3,1322.5,1,0,3.88,3.0,10.0,2.4,65.6,0.575,2,226.74
+SHP-100273,Montreal QC,Hamilton ON,NorthStar Carriers,Standard,Refrigerated,Silver,Snow,6,1594.0,745.4,2,1,24.44,17.0,3.6,4.0,84.0,0.551,0,176.14
+SHP-104411,Toronto ON,Sudbury ON,MapleFreight Fleet,Economy,General Freight,Bronze,Rain,8,710.0,2694.7,5,0,12.73,-17.0,4.8,5.6,68.3,0.459,0,221.45
+SHP-104946,Montreal QC,Quebec City QC,MapleFreight Fleet,Standard,Refrigerated,Silver,Clear,10,403.9,1665.9,0,0,4.69,30.0,8.4,1.2,35.4,0.0,2,207.39
+SHP-101710,Montreal QC,Sudbury ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Storm,5,1897.6,1042.1,2,0,28.51,10.0,3.8,17.3,41.4,0.621,1,144.62
+SHP-104698,Toronto ON,Quebec City QC,MapleFreight Fleet,Standard,General Freight,Silver,Rain,3,433.2,1940.3,0,0,6.87,16.0,4.8,6.3,12.7,0.927,1,228.12
+SHP-102705,Winnipeg MB,Hamilton ON,NorthStar Carriers,Express,General Freight,Silver,Rain,8,408.1,2874.0,1,1,5.9,36.0,19.4,8.9,65.7,0.055,1,201.73
+SHP-103716,Toronto ON,Ottawa ON,NorthStar Carriers,Express,Bulk,Bronze,Clear,3,366.6,1550.5,5,0,8.19,64.0,5.3,5.9,74.8,0.686,0,66.39
+SHP-103105,Mississauga ON,Quebec City QC,MapleFreight Fleet,Standard,General Freight,Bronze,Fog,3,538.6,637.3,5,0,10.3,-9.0,11.2,2.6,42.9,0.249,0,180.11
+SHP-101060,Winnipeg MB,Calgary AB,NorthStar Carriers,Standard,Fragile,Silver,Clear,3,549.3,230.9,1,0,9.42,13.0,12.0,6.8,36.9,0.351,0,134.19
+SHP-105506,Montreal QC,Winnipeg MB,Contract Owner-Op,Standard,Bulk,Silver,Clear,7,316.7,521.9,2,1,4.61,57.0,13.2,15.4,,0.66,1,182.86
+SHP-102009,Mississauga ON,Regina SK,PrairieLine,Standard,Refrigerated,Silver,Clear,8,461.9,875.8,0,0,5.67,36.0,3.7,6.8,21.8,0.394,1,163.51
+SHP-101728,Toronto ON,Montreal QC,NorthStar Carriers,Express,General Freight,Gold,Clear,8,852.2,823.3,0,0,11.3,-20.0,1.5,1.7,42.5,0.621,2,232.09
+SHP-103263,Toronto ON,Ottawa ON,MapleFreight Fleet,Express,Refrigerated,Silver,Snow,4,937.6,1197.4,2,0,13.42,-0.0,4.3,2.6,22.6,0.684,1,252.88
+SHP-101238,Montreal QC,Winnipeg MB,MapleFreight Fleet,Express,Hazardous,Bronze,Clear,4,292.9,1028.2,4,0,5.62,19.0,5.0,7.0,72.8,0.596,3,264.94
+SHP-102010,Toronto ON,Regina SK,NorthStar Carriers,Economy,General Freight,Gold,Clear,12,536.7,955.1,0,0,7.87,46.0,5.1,0.4,60.7,0.119,2,96.6
+SHP-104205,Winnipeg MB,Edmonton AB,MapleFreight Fleet,Standard,General Freight,Silver,Clear,4,1434.0,560.9,1,0,22.22,73.0,3.7,6.8,79.4,0.514,2,206.45
+SHP-102508,Toronto ON,Hamilton ON,QuebecExpress,Express,General Freight,Bronze,Clear,12,382.9,1490.9,1,0,5.65,-2.0,2.2,6.1,62.8,0.197,2,194.99
+SHP-103089,Toronto ON,Ottawa ON,NorthStar Carriers,Standard,General Freight,Silver,Rain,2,248.8,1196.8,1,0,5.1,-16.0,6.5,2.5,68.1,0.571,2,113.18
+SHP-102671,Mississauga ON,Calgary AB,QuebecExpress,Standard,Fragile,Silver,Clear,1,1323.9,862.1,0,0,18.97,26.0,13.5,8.7,39.1,0.427,2,203.75
+SHP-104614,London ON,Quebec City QC,QuebecExpress,Standard,Fragile,Bronze,Clear,8,517.7,721.8,4,0,9.82,-11.0,14.8,3.1,45.4,0.682,4,111.65
+SHP-104034,Toronto ON,Toronto ON,MapleFreight Fleet,Economy,General Freight,Bronze,Clear,9,1085.7,925.0,5,0,19.37,4.0,,2.2,48.9,0.332,1,164.43
+SHP-104296,Ottawa ON,Toronto ON,QuebecExpress,Express,Fragile,Silver,Snow,12,461.6,997.0,4,0,11.02,47.0,6.3,10.7,32.0,0.587,2,246.89
+SHP-105806,Ottawa ON,Ottawa ON,QuebecExpress,Standard,General Freight,Silver,Clear,11,586.4,221.8,4,0,10.38,47.0,1.6,2.8,50.2,0.473,0,171.99
+SHP-102437,Mississauga ON,Ottawa ON,PrairieLine,Standard,Refrigerated,Silver,Rain,4,704.5,141.3,5,0,11.19,16.0,3.0,1.6,46.4,0.369,1,131.44
+SHP-103616,Ottawa ON,Sudbury ON,MapleFreight Fleet,Standard,Fragile,Bronze,Snow,11,563.7,962.2,3,0,8.24,8.0,2.3,2.6,46.8,0.211,1,189.55
+SHP-105574,Mississauga ON,Sudbury ON,MapleFreight Fleet,Standard,Fragile,Gold,Clear,12,462.8,1741.3,5,0,9.32,24.0,6.5,2.4,36.6,0.27,1,235.09
+SHP-105888,Ottawa ON,Winnipeg MB,MapleFreight Fleet,Express,General Freight,Bronze,Rain,10,457.1,353.2,5,0,10.3,-6.0,0.5,0.9,5.0,0.518,0,331.93
+SHP-101126,Winnipeg MB,Toronto ON,MapleFreight Fleet,Standard,Refrigerated,Silver,Snow,2,629.5,54.0,0,0,8.51,65.0,,2.8,53.2,0.368,3,292.99
+SHP-104491,Mississauga ON,Edmonton AB,Contract Owner-Op,Express,Fragile,Silver,Clear,1,872.2,1829.9,0,0,12.33,61.0,9.2,0.7,33.1,0.565,0,275.06
+SHP-105395,Calgary AB,Regina SK,MapleFreight Fleet,Economy,Fragile,Bronze,Clear,1,906.0,780.7,1,0,13.05,42.0,0.9,6.7,30.2,0.14,1,106.65
+SHP-105251,Mississauga ON,Edmonton AB,NorthStar Carriers,Economy,General Freight,Bronze,Clear,4,645.5,754.5,3,0,10.91,-17.0,4.8,4.6,47.3,0.394,1,269.72
+SHP-103841,Toronto ON,Regina SK,MapleFreight Fleet,Standard,Hazardous,Silver,Snow,4,666.6,517.2,4,0,11.38,2.0,24.1,3.5,51.8,0.534,3,132.82
+SHP-100686,Mississauga ON,Quebec City QC,MapleFreight Fleet,Express,Bulk,Silver,Clear,2,221.8,725.8,2,1,4.96,12.0,11.9,6.0,75.8,0.638,0,178.71
+SHP-103650,Winnipeg MB,Toronto ON,PrairieLine,Standard,Fragile,Gold,Rain,7,1213.0,525.7,5,0,19.82,21.0,7.4,4.9,55.1,0.552,2,
+SHP-102355,Mississauga ON,Toronto ON,MapleFreight Fleet,Standard,General Freight,Silver,Rain,3,767.4,544.8,2,0,13.03,10.0,4.7,4.3,46.4,0.346,0,253.05
+SHP-105461,Winnipeg MB,Quebec City QC,Contract Owner-Op,Economy,General Freight,Gold,Clear,9,929.2,610.9,1,0,13.22,1.0,3.4,1.3,62.4,0.321,5,
+SHP-105779,Calgary AB,Sudbury ON,MapleFreight Fleet,Express,General Freight,Gold,Clear,2,186.3,1115.2,2,0,2.67,18.0,1.5,6.3,36.3,0.955,0,218.58
+SHP-101951,Montreal QC,Ottawa ON,Contract Owner-Op,Standard,Refrigerated,Gold,Rain,5,133.7,1344.8,5,0,5.16,6.0,2.3,10.3,77.6,0.221,1,173.29
+SHP-103674,Mississauga ON,Ottawa ON,Contract Owner-Op,Express,Fragile,Silver,Snow,1,282.8,633.3,1,0,6.42,24.0,2.0,9.1,72.5,0.601,3,154.23
+SHP-101264,Ottawa ON,Quebec City QC,MapleFreight Fleet,Standard,General Freight,Silver,Rain,5,605.9,505.0,4,0,10.08,-18.0,1.2,0.9,39.6,0.542,0,251.55
+SHP-100326,Toronto ON,Edmonton AB,QuebecExpress,Express,Hazardous,Bronze,Rain,6,837.5,757.6,4,0,14.7,26.0,1.5,5.4,65.1,0.769,1,183.04
+SHP-103370,Winnipeg MB,Montreal QC,MapleFreight Fleet,Economy,General Freight,Gold,Clear,3,711.4,1148.4,5,0,15.2,23.0,13.4,0.8,43.5,0.255,1,131.14
+SHP-100816,Winnipeg MB,Winnipeg MB,MapleFreight Fleet,Express,Refrigerated,Bronze,,9,773.0,1818.2,1,1,11.47,-2.0,16.0,2.7,58.0,0.3,0,214.72
+SHP-100594,Ottawa ON,Sudbury ON,MapleFreight Fleet,Standard,Fragile,Bronze,Snow,11,776.3,408.6,2,0,12.77,29.0,5.6,2.0,58.1,0.147,0,127.42
+SHP-105198,Mississauga ON,Sudbury ON,MapleFreight Fleet,Standard,Refrigerated,Bronze,Clear,9,843.5,3327.1,1,0,12.9,28.0,2.9,1.6,82.7,0.423,1,263.22
+SHP-101905,Calgary AB,Edmonton AB,MapleFreight Fleet,Standard,Bulk,Silver,Rain,3,1084.6,801.4,3,0,17.2,-20.0,1.3,4.2,32.6,0.105,0,123.69
+SHP-105400,Toronto ON,Montreal QC,NorthStar Carriers,Standard,Fragile,Silver,Snow,2,808.0,552.4,4,0,16.02,59.0,2.6,4.4,47.1,0.624,2,273.12
+SHP-100881,Calgary AB,Toronto ON,NorthStar Carriers,Express,General Freight,Gold,Clear,5,301.0,442.8,2,0,4.61,70.0,1.5,6.0,19.6,0.655,2,213.53
+SHP-103906,Montreal QC,Winnipeg MB,QuebecExpress,Standard,Refrigerated,Bronze,Clear,2,485.4,630.5,1,0,8.36,15.0,5.0,6.2,30.7,0.644,2,128.36
+SHP-105144,Mississauga ON,Montreal QC,QuebecExpress,Standard,Refrigerated,Silver,,10,242.2,667.8,2,0,4.11,35.0,,11.2,63.8,0.378,0,262.43
+SHP-105939,Toronto ON,Winnipeg MB,QuebecExpress,Express,General Freight,Silver,Fog,6,604.9,172.5,3,0,9.51,-20.0,6.7,7.2,29.3,0.229,1,78.05
+SHP-104438,Montreal QC,Edmonton AB,NorthStar Carriers,Standard,General Freight,Bronze,Clear,6,914.8,784.5,1,1,14.58,35.0,4.7,6.0,38.1,0.307,2,125.62
+SHP-102732,Winnipeg MB,Toronto ON,PrairieLine,Economy,Hazardous,Bronze,Snow,10,591.3,1009.6,5,1,10.78,-3.0,20.5,5.4,50.1,0.685,0,215.91
+SHP-101901,Toronto ON,Regina SK,MapleFreight Fleet,Express,Hazardous,Bronze,Rain,1,630.5,693.2,2,0,10.69,85.0,0.7,0.8,55.0,0.525,0,197.43
+SHP-104938,Toronto ON,Ottawa ON,MapleFreight Fleet,Economy,Fragile,Gold,Snow,5,837.7,399.7,4,0,13.26,42.0,7.3,4.5,34.0,0.368,5,207.57
+SHP-102947,Mississauga ON,Regina SK,MapleFreight Fleet,Standard,Bulk,Bronze,Clear,10,432.7,640.6,0,0,2.88,-6.0,4.2,5.0,48.3,0.184,1,176.71
+SHP-101022,Mississauga ON,Sudbury ON,MapleFreight Fleet,Express,General Freight,Bronze,Rain,11,926.5,729.0,4,0,15.05,43.0,1.1,8.6,60.5,1.0,2,173.21
+SHP-101366,Winnipeg MB,Montreal QC,PrairieLine,Standard,General Freight,Silver,Rain,8,416.3,930.1,0,0,5.73,-5.0,1.1,6.8,60.2,0.468,1,224.54
+SHP-104393,Toronto ON,Calgary AB,QuebecExpress,Standard,Bulk,Silver,Clear,1,965.8,687.8,0,1,15.29,35.0,4.8,6.0,100.0,0.353,0,215.95
+SHP-105633,Montreal QC,Toronto ON,NorthStar Carriers,Standard,General Freight,Silver,Clear,6,685.0,595.2,2,0,10.22,3.0,6.5,5.6,54.1,0.2,2,232.27
+SHP-105567,Toronto ON,Edmonton AB,Contract Owner-Op,Standard,Refrigerated,Bronze,Clear,4,375.5,2124.7,2,0,7.02,-4.0,7.7,1.0,47.6,0.734,1,217.69
+SHP-101360,Toronto ON,Hamilton ON,PrairieLine,Express,Hazardous,Gold,Clear,6,485.1,1192.3,3,0,7.71,-20.0,2.7,4.2,62.3,0.397,1,126.8
+SHP-102652,London ON,Toronto ON,NorthStar Carriers,Express,Bulk,Silver,Snow,5,585.2,1371.7,5,0,10.31,-20.0,6.5,3.6,45.4,0.0,4,106.14
+SHP-105225,Toronto ON,Sudbury ON,Contract Owner-Op,Standard,Bulk,Silver,Rain,11,781.1,591.5,5,0,12.96,-7.0,4.4,4.3,12.6,0.061,0,190.69
+SHP-100066,Toronto ON,Winnipeg MB,MapleFreight Fleet,Express,Fragile,Bronze,Clear,10,209.5,290.2,2,0,4.02,34.0,2.7,4.8,45.0,0.751,2,211.23
+SHP-102547,Calgary AB,Edmonton AB,NorthStar Carriers,Express,Hazardous,Bronze,Fog,6,110.4,1466.2,1,0,3.43,16.0,,2.3,55.6,0.457,1,190.97
+SHP-102871,Toronto ON,Sudbury ON,PrairieLine,Standard,Bulk,Silver,Snow,12,911.9,1185.4,2,0,12.88,28.0,3.4,6.7,59.6,0.563,0,101.92
+SHP-104111,Toronto ON,Calgary AB,MapleFreight Fleet,Economy,General Freight,Silver,Clear,1,283.9,854.8,4,1,7.23,61.0,3.9,5.7,56.3,0.58,1,206.18
+SHP-100644,Winnipeg MB,Montreal QC,PrairieLine,Standard,General Freight,Gold,Clear,6,198.5,888.1,3,0,6.47,-20.0,3.0,4.3,70.8,0.781,1,93.69
+SHP-103533,Montreal QC,Toronto ON,PrairieLine,Express,Bulk,Silver,Rain,9,673.2,1218.2,2,0,11.4,-7.0,9.4,1.6,64.2,0.521,4,130.31
+SHP-102183,Mississauga ON,Regina SK,QuebecExpress,Standard,General Freight,Bronze,Clear,4,638.6,553.3,0,0,5.94,-17.0,8.3,5.2,67.0,0.271,0,176.62
+SHP-102360,Toronto ON,Toronto ON,NorthStar Carriers,Express,General Freight,Silver,Clear,11,840.3,471.1,1,0,12.31,55.0,2.9,3.4,41.1,0.67,3,139.47
+SHP-105821,Mississauga ON,Hamilton ON,QuebecExpress,Economy,General Freight,Silver,Fog,2,405.3,279.0,0,0,4.47,-20.0,2.0,4.7,52.7,0.426,2,228.24
+SHP-100564,Toronto ON,Montreal QC,MapleFreight Fleet,Standard,Fragile,Bronze,Clear,5,413.9,762.5,2,0,6.79,-12.0,1.3,2.5,39.0,0.54,3,157.42
+SHP-104679,London ON,Ottawa ON,Contract Owner-Op,Economy,General Freight,Silver,Clear,8,351.6,352.6,1,1,6.31,51.0,9.6,2.7,55.6,0.626,1,180.48
+SHP-101123,Calgary AB,Calgary AB,MapleFreight Fleet,Economy,Refrigerated,Silver,Clear,11,622.9,988.3,5,0,12.46,-13.0,4.7,5.4,50.9,0.473,2,213.6
+SHP-103699,Toronto ON,Calgary AB,MapleFreight Fleet,Express,General Freight,Gold,Snow,4,409.2,510.9,1,0,5.93,73.0,5.2,4.6,67.4,0.482,4,140.76
+SHP-105860,Ottawa ON,Edmonton AB,MapleFreight Fleet,Economy,General Freight,Bronze,Storm,1,416.2,629.9,1,0,6.04,9.0,9.5,1.0,37.2,0.666,1,145.64
+SHP-103442,Mississauga ON,Hamilton ON,PrairieLine,Standard,Hazardous,Silver,Clear,9,682.0,322.0,4,0,12.8,68.0,12.9,14.3,61.9,0.094,2,270.0
+SHP-105304,Winnipeg MB,Toronto ON,NorthStar Carriers,Standard,Fragile,Bronze,Rain,4,324.1,991.7,3,0,8.18,28.0,0.4,11.0,35.0,0.375,2,
+SHP-104046,Montreal QC,Edmonton AB,QuebecExpress,Standard,Fragile,Silver,Rain,10,242.3,1497.2,4,0,5.02,17.0,6.4,6.8,58.9,0.333,4,249.6
+SHP-100204,Toronto ON,Edmonton AB,PrairieLine,Standard,General Freight,Silver,Rain,1,945.9,1849.9,0,1,12.73,37.0,6.3,2.8,85.0,0.351,3,251.83
+SHP-102063,Toronto ON,Edmonton AB,QuebecExpress,Economy,General Freight,Bronze,Clear,7,392.7,1341.7,2,0,5.38,61.0,3.3,1.1,,0.546,1,100.53
+SHP-103319,Montreal QC,Regina SK,MapleFreight Fleet,Standard,Fragile,Bronze,Rain,8,551.1,1168.2,5,0,10.29,-20.0,4.0,13.4,27.2,0.602,1,102.78
+SHP-100276,Ottawa ON,Winnipeg MB,QuebecExpress,Standard,General Freight,Silver,Clear,11,578.4,1004.1,5,0,11.54,42.0,7.3,7.1,47.4,0.361,0,183.85
+SHP-100528,London ON,Montreal QC,MapleFreight Fleet,Economy,General Freight,Bronze,Rain,9,292.2,1569.0,1,0,5.67,2.0,2.1,10.5,66.6,0.535,1,302.36
+SHP-104479,Ottawa ON,Sudbury ON,QuebecExpress,Standard,Bulk,Silver,Snow,5,645.6,1730.7,5,0,12.2,27.0,4.8,4.0,54.4,0.576,3,154.45
+SHP-100280,Calgary AB,Ottawa ON,NorthStar Carriers,Standard,General Freight,Gold,Snow,2,282.0,749.0,1,0,3.85,-12.0,2.8,5.9,29.7,0.426,4,158.83
+SHP-102378,Mississauga ON,Sudbury ON,Contract Owner-Op,Standard,General Freight,Silver,Rain,7,938.4,487.8,1,0,12.6,-3.0,,8.8,89.2,0.723,2,221.68
+SHP-100750,Toronto ON,Regina SK,NorthStar Carriers,Standard,Fragile,Gold,Rain,12,756.6,86.1,0,0,12.28,-20.0,29.2,1.4,77.5,0.501,0,223.97
+SHP-105592,Calgary AB,Winnipeg MB,MapleFreight Fleet,Express,General Freight,Gold,Clear,3,799.3,1531.3,1,1,12.46,40.0,4.5,18.4,83.2,0.401,1,182.8
+SHP-104350,Montreal QC,Montreal QC,QuebecExpress,Express,General Freight,Silver,Fog,4,333.8,490.9,3,0,5.44,23.0,,5.0,50.6,0.359,1,124.09
+SHP-103460,Mississauga ON,Edmonton AB,NorthStar Carriers,Standard,General Freight,Bronze,Clear,11,549.3,354800.0,5,0,12.64,-20.0,7.1,4.6,46.1,0.664,2,134.61
+SHP-100562,Toronto ON,Montreal QC,NorthStar Carriers,Express,General Freight,Silver,Rain,11,284.5,629.6,5,0,10.19,66.0,1.6,3.9,72.4,0.254,3,249.15
+SHP-103122,Toronto ON,Winnipeg MB,PrairieLine,Standard,General Freight,Silver,Clear,6,685.6,572.1,0,0,6.99,-13.0,3.1,0.5,,0.681,0,280.76
+SHP-104500,London ON,Regina SK,NorthStar Carriers,Standard,Refrigerated,Silver,Clear,2,566.4,497.2,4,0,11.0,47.0,4.5,3.2,32.0,0.851,2,287.14
+SHP-104568,Mississauga ON,Toronto ON,MapleFreight Fleet,Express,General Freight,Silver,Rain,7,269.7,88.4,5,1,6.77,57.0,4.7,6.2,66.1,0.885,2,158.39
+SHP-105184,Toronto ON,Sudbury ON,MapleFreight Fleet,Economy,Fragile,Bronze,Clear,2,677.6,2281.2,1,0,8.57,59.0,9.2,10.9,67.1,0.446,2,143.44
+SHP-100214,Ottawa ON,Quebec City QC,MapleFreight Fleet,Standard,Fragile,Bronze,Clear,2,263.1,1066.2,1,0,2.75,41.0,1.2,5.3,35.1,0.677,0,160.1
+SHP-101828,London ON,Quebec City QC,Contract Owner-Op,Express,General Freight,Bronze,Storm,3,1437.9,400.8,4,0,21.39,-20.0,2.6,7.4,40.1,0.268,0,208.65
+SHP-105895,Toronto ON,Calgary AB,MapleFreight Fleet,Standard,Bulk,Gold,Clear,3,1028.1,1808.6,0,0,13.66,-20.0,5.5,7.3,52.6,0.359,0,94.48
+SHP-103810,Toronto ON,Sudbury ON,PrairieLine,Standard,General Freight,Silver,Clear,3,776.5,489.8,2,0,11.49,6.0,8.8,6.2,62.8,0.297,1,245.68
+SHP-102100,Toronto ON,Toronto ON,PrairieLine,Economy,Bulk,Silver,Clear,10,856.4,1287.9,5,0,15.2,-20.0,7.3,7.8,,0.621,2,194.6
+SHP-105689,London ON,Regina SK,MapleFreight Fleet,Standard,General Freight,Bronze,Clear,5,419.2,471.0,0,0,3.01,1.0,7.2,1.3,79.7,0.618,1,112.0
+SHP-101979,Montreal QC,Sudbury ON,NorthStar Carriers,Standard,Fragile,Bronze,,6,767.6,89.0,3,0,12.21,32.0,5.7,5.8,75.0,0.404,0,169.05
+SHP-101548,Calgary AB,Hamilton ON,PrairieLine,Standard,General Freight,Bronze,Clear,3,950.3,569.8,4,0,14.88,-6.0,2.2,5.0,50.0,0.555,0,171.16
+SHP-105434,Toronto ON,Ottawa ON,QuebecExpress,Standard,General Freight,Silver,Clear,8,1176.4,157.5,2,0,18.01,10.0,13.6,4.9,19.0,0.26,0,134.44
