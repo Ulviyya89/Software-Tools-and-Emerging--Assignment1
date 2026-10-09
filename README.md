@@ -94,7 +94,7 @@ To reproduce the integration in your own workspace:
 2. Choose **Create New App → From scratch**, name it `MapleFreight Dispatch Alerts`, and select your workspace.
 3. Select **Incoming Webhooks** and activate them.
 4. Select **Add New Webhook to Workspace**, choose **#all-lambton-college-software**, and authorize posting to that channel.
-5. Copy `.env.example` to `.env` (or edit the private blank `.env` supplied locally). Open it in your own text editor, put the generated URL after `SLACK_WEBHOOK_URL=`, and set `SLACK_ENABLED=true`. Never paste the URL into a notebook, README or chat.
+5. Copy `.env.example` to `.env`. Open it in your own text editor, put the generated URL after `SLACK_WEBHOOK_URL=`, and set `SLACK_ENABLED=true`. Never paste the URL into a notebook, README or chat. The original local project is already configured privately; the public repository and ZIP contain only `.env.example`.
 6. Restart the kernel and run all cells to load your new private settings and send the prepared historical replay message. A successful send requires HTTP 200 and Slack's `ok` acknowledgment. Repeat successful identical batches are suppressed.
 7. Capture the actual received message with its channel name visible. Preserve unedited captures and describe any composition when updating **`screenshots/slack_alert.png`**. The text preview and delivery receipt do not replace received-message evidence.
 8. Save the notebook again with the successful status visible. The local `.env` and alert state remain ignored and must not be uploaded.
@@ -139,13 +139,13 @@ Additional automated checks verify that delivery-only fields do not alter predic
 
 **Completed:** real Slack delivery on October 8, 2026 at 8:59 PM (America/Toronto), and received-message screenshot evidence. The notebook has 13 executed code cells with visible outputs and no errors.
 
-**Pending:** verification of public GitHub publication at [Ulviyya89/Software-Tools-and-Emerging--Assignment1](https://github.com/Ulviyya89/Software-Tools-and-Emerging--Assignment1).
+**Published and verified:** [Ulviyya89/Software-Tools-and-Emerging--Assignment1](https://github.com/Ulviyya89/Software-Tools-and-Emerging--Assignment1) is public. An unauthenticated GitHub API check confirmed all 35 submission files match their local contents, with no private `.env`, alert state or cache files published.
 
 ## Publish and submit
 
-The repository destination is [Ulviyya89/Software-Tools-and-Emerging--Assignment1](https://github.com/Ulviyya89/Software-Tools-and-Emerging--Assignment1); public publication is pending verification. Upload the contents of this folder, including hidden `.gitignore` and `.env.example`, while excluding `.env`, `.alert_state.json`, virtual environments and caches. Include the screenshot composite, its three unedited source captures and the saved notebook with successful Slack output. Once publication is verified, submit this public repository URL by **October 10, 2026, 11:59 PM** (course deadline).
+Submit [this public GitHub repository URL](https://github.com/Ulviyya89/Software-Tools-and-Emerging--Assignment1) by **October 10, 2026, 11:59 PM** (course deadline). Publication is complete; submitting the link in the course portal remains the student's final step. Review the notebook and the documented channel substitution before submitting.
 
-The supplied ZIP excludes private configuration and caches. When regenerating it for an upload, include the current notebook, delivery receipt and screenshot evidence.
+The supplied ZIP includes the current executed notebook, delivery receipt and screenshot evidence, and excludes private configuration and caches.
 
 ## References
 
