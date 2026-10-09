@@ -1,0 +1,6 @@
+Priority,Recommendation,Dispatch action,Measure
+1,Review severe-weather / congested-route alerts,Check forecast and alternate routes before customer-window breach,Track delay recall and service credits in pilot
+2,Reduce pickup delays,Escalate delayed pickup and review dock scheduling,Track pickup delay bands and downstream late share
+3,Review carrier history with route context,Discuss repeated delays; match capacity to route requirements,Track carrier late rate adjusted for service and route mix
+4,Validate dispatch workload,Start with 0.20 cutoff; measure alert fatigue and intervention results,"Track precision, queue size, response time and acknowledged alerts"
+5,Improve source data and run a prospective pilot,Confirm weight units and label definition; add timestamps/status/ETA and historical cutoffs,Use future-dated holdout and compare intervention outcomes

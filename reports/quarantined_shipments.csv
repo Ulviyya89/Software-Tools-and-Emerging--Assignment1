@@ -1,0 +1,3 @@
+shipment_id,origin_city,destination_city,carrier,service_level,goods_type,customer_priority_tier,shipment_month,distance_km,weight_kg,num_stops,is_cross_border,scheduled_transit_hours,pickup_delay_minutes,driver_experience_years,vehicle_age_years,weather_condition,traffic_index,route_congestion_score,prior_late_deliveries_30d,fuel_cost_cad,actual_transit_hours,delivered_late
+SHP-101906,Toronto ON,Edmonton AB,NorthStar Carriers,Express,General Freight,Bronze,7,333.7,1002.7,2,1,8.18,-20.0,10.0,3.8,Storm,27.9,0.32,2,261.21,8.0,0
+SHP-101906,Toronto ON,Edmonton AB,NorthStar Carriers,Standard,General Freight,Bronze,7,333.7,1002.7,2,1,8.18,-20.0,10.0,3.8,Storm,27.9,0.32,2,261.21,8.0,0

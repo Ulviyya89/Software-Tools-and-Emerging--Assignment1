@@ -1,0 +1,10 @@
+*MapleFreight: 458 of 1200 shipments at risk*
+Historical replay | risk threshold 20%
+Top 5 for dispatch review:
+SHP-100936 — Calgary AB — PrairieLine — risk 92.7%
+SHP-103230 — Regina SK — Contract Owner-Op — risk 89.5%
+SHP-102910 — Edmonton AB — QuebecExpress — risk 89.2%
+SHP-103300 — Winnipeg MB — NorthStar Carriers — risk 88.7%
+SHP-105927 — Calgary AB — QuebecExpress — risk 88.6%
+Action: review pickup delay, route traffic and forecast; assess rerouting or customer notice.
+Assessment demonstration using historical data; these are not live shipments.

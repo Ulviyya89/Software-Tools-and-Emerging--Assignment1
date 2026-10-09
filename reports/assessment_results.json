@@ -1,0 +1,190 @@
+{
+  "student_id": "C0942109",
+  "source_sha256": "3b0bee625c4d9fbbbf05152aa49b01041f26f62bf7b18f640a44c6b1ef999957",
+  "data_audit": {
+    "raw_rows": 6035,
+    "exact_duplicates": 32,
+    "normalized_duplicates_removed": 34,
+    "conflicting_rows_quarantined": 2,
+    "conflicting_ids": [
+      "SHP-101906"
+    ],
+    "clean_rows": 5999,
+    "late_count": 1234,
+    "late_rate": 0.20570095015835974,
+    "suspect_weights": 40
+  },
+  "model": "Logistic regression",
+  "threshold": 0.2,
+  "threshold_rule": "Maximum validation F2 with assumed alert rate <= 0.40",
+  "validation_at_0_5": {
+    "Always on time": {
+      "threshold": 0.5,
+      "accuracy": 0.7941666666666667,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "f2": 0.0,
+      "average_precision": 0.20583333333333334,
+      "roc_auc": 0.5,
+      "brier": 0.20583333333333334,
+      "alert_rate": 0.0,
+      "confusion_matrix": [
+        [
+          953,
+          0
+        ],
+        [
+          247,
+          0
+        ]
+      ]
+    },
+    "Logistic regression": {
+      "threshold": 0.5,
+      "accuracy": 0.8291666666666667,
+      "precision": 0.6909090909090909,
+      "recall": 0.3076923076923077,
+      "f1": 0.4257703081232493,
+      "f2": 0.3460837887067395,
+      "average_precision": 0.5606533399782991,
+      "roc_auc": 0.8124992034529783,
+      "brier": 0.12581488606923563,
+      "alert_rate": 0.09166666666666666,
+      "confusion_matrix": [
+        [
+          919,
+          34
+        ],
+        [
+          171,
+          76
+        ]
+      ]
+    },
+    "Random forest": {
+      "threshold": 0.5,
+      "accuracy": 0.8141666666666667,
+      "precision": 0.625,
+      "recall": 0.242914979757085,
+      "f1": 0.3498542274052478,
+      "f2": 0.2767527675276753,
+      "average_precision": 0.5200741577879773,
+      "roc_auc": 0.7824895599237013,
+      "brier": 0.13310743327424215,
+      "alert_rate": 0.08,
+      "confusion_matrix": [
+        [
+          917,
+          36
+        ],
+        [
+          187,
+          60
+        ]
+      ]
+    },
+    "Histogram gradient boosting": {
+      "threshold": 0.5,
+      "accuracy": 0.8258333333333333,
+      "precision": 0.7638888888888888,
+      "recall": 0.22267206477732793,
+      "f1": 0.3448275862068966,
+      "f2": 0.25943396226415094,
+      "average_precision": 0.5437033354465372,
+      "roc_auc": 0.8032082789911255,
+      "brier": 0.12967561740300051,
+      "alert_rate": 0.06,
+      "confusion_matrix": [
+        [
+          936,
+          17
+        ],
+        [
+          192,
+          55
+        ]
+      ]
+    }
+  },
+  "final_test": {
+    "Always on time (0.50)": {
+      "threshold": 0.5,
+      "accuracy": 0.7941666666666667,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "f2": 0.0,
+      "average_precision": 0.20583333333333334,
+      "roc_auc": 0.5,
+      "brier": 0.20583333333333334,
+      "alert_rate": 0.0,
+      "confusion_matrix": [
+        [
+          953,
+          0
+        ],
+        [
+          247,
+          0
+        ]
+      ]
+    },
+    "Logistic regression (0.50)": {
+      "threshold": 0.5,
+      "accuracy": 0.83,
+      "precision": 0.6902654867256637,
+      "recall": 0.3157894736842105,
+      "f1": 0.43333333333333335,
+      "f2": 0.3542234332425068,
+      "average_precision": 0.571644968205451,
+      "roc_auc": 0.8171595345616444,
+      "brier": 0.12314045465580227,
+      "alert_rate": 0.09416666666666666,
+      "confusion_matrix": [
+        [
+          918,
+          35
+        ],
+        [
+          169,
+          78
+        ]
+      ]
+    },
+    "Logistic regression (0.20)": {
+      "threshold": 0.2,
+      "accuracy": 0.7275,
+      "precision": 0.4126637554585153,
+      "recall": 0.7651821862348178,
+      "f1": 0.5361702127659574,
+      "f2": 0.6535269709543569,
+      "average_precision": 0.571644968205451,
+      "roc_auc": 0.8171595345616444,
+      "brier": 0.12314045465580227,
+      "alert_rate": 0.38166666666666665,
+      "confusion_matrix": [
+        [
+          684,
+          269
+        ],
+        [
+          58,
+          189
+        ]
+      ]
+    }
+  },
+  "slack_status": {
+    "status": "sent",
+    "sent": true,
+    "http_status": 200,
+    "slack_acknowledged": true,
+    "sent_at_utc": "2026-10-09T00:59:49.168782+00:00",
+    "configured_channel_label": "#all-lambton-college-software",
+    "message_sha256": "0588d163ea731417e6a3fdfa66b3331baad979352dcff905f9da1c3b5c298a90",
+    "event_sha256": "c788ad3c227a7487c6ac78d12213453347170518c88678fb356228c79da93442"
+  },
+  "slack_screenshot_present": true,
+  "repository_url": "https://github.com/Ulviyya89/Software-Tools-and-Emerging--Assignment1"
+}

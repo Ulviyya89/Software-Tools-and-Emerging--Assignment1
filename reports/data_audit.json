@@ -1,0 +1,13 @@
+{
+  "raw_rows": 6035,
+  "exact_duplicates": 32,
+  "normalized_duplicates_removed": 34,
+  "conflicting_rows_quarantined": 2,
+  "conflicting_ids": [
+    "SHP-101906"
+  ],
+  "clean_rows": 5999,
+  "late_count": 1234,
+  "late_rate": 0.20570095015835974,
+  "suspect_weights": 40
+}
