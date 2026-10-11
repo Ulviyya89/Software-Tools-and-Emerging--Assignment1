@@ -86,7 +86,7 @@ python score_shipments.py --input data/replay_shipments.csv
 
 **Real delivery completed:** On **October 8, 2026 at 8:59 PM (America/Toronto)**, Slack acknowledged the historical replay alert with **HTTP 200** and `ok`. The received message is available at [the Slack message permalink](https://lambtoncolleg-y9c1808.slack.com/archives/C0C3WS3K8J3/p1791507589126649), subject to workspace access. The sanitized receipt is saved in `reports/slack_delivery_receipt.json`, and the executed notebook displays the delivery evidence.
 
-**Screenshot evidence completed:** [`screenshots/slack_alert.png`](screenshots/slack_alert.png) is a side-by-side composite of three original captures of this same received message, assembled because the in-app Slack view was narrow. The unedited source captures are [`slack_alert_view1.png`](screenshots/slack_alert_view1.png), [`slack_alert_view2.png`](screenshots/slack_alert_view2.png) and [`slack_alert_view3.png`](screenshots/slack_alert_view3.png). No synthetic message content was added. See [`screenshots/README.md`](screenshots/README.md) for the evidence description.
+**Screenshot evidence completed:** [`screenshots/slack_alert.png`](screenshots/slack_alert.png) is a side-by-side composite of three original captures of this same received message, assembled because the in-app Slack view was narrow. No synthetic message content was added. See [`screenshots/README.md`](screenshots/README.md) for the evidence description.
 
 To reproduce the integration in your own workspace:
 
@@ -113,19 +113,6 @@ python score_shipments.py --input active_shipments.csv --live --send
 
 Run this command from the dispatch refresh process or a scheduler at the agreed feed interval. The export must contain current eligible shipments; this repository does not manufacture a live shipment source.
 
-## Recommendations and limitations
-
-Prioritize forecast-weather and congested-route review, escalate late pickups, and investigate carrier history alongside route/service mix. Validate alert capacity and response times in a prospective dispatch pilot. Improve weight-unit validation and document the promised delivery window. Add exact pickup/deadline timestamps, current status, location and ETA before measuring intervention lead time.
-
-Historical associations and permutation importance are predictive, not causal. Exact dates and years are absent, so random splits cannot prove future-period reliability. Cost savings, rerouting effectiveness and improved on-time performance need an intervention pilot; they are not established by this model evaluation.
-
-## AI usage
-
-**Assistant used:** OpenAI ChatGPT/Codex. It assisted with data audit, model comparison, Python and notebook authoring, alert integration and documentation. The student should review and understand the notebook before submitting it.
-
-**One incorrect AI output and correction:** The first generated scoring implementation checked duplicate shipment IDs before normalizing whitespace and case. `SHP-1` and ` shp-1 ` could therefore pass as different IDs and produce duplicate alerts. Independent review identified the error. ID normalization now precedes validation, and an operational check verifies the correction.
-
-Additional automated checks verify that delivery-only fields do not alter predictions, unseen categories remain scoreable, no-risk batches do not create alerts, and the fingerprint includes records beyond the top five.
 
 ## Repository contents and completion status
 
@@ -139,13 +126,6 @@ Additional automated checks verify that delivery-only fields do not alter predic
 
 **Completed:** real Slack delivery on October 8, 2026 at 8:59 PM (America/Toronto), and received-message screenshot evidence. The notebook has 13 executed code cells with visible outputs and no errors.
 
-**Published and verified:** [Ulviyya89/Software-Tools-and-Emerging--Assignment1](https://github.com/Ulviyya89/Software-Tools-and-Emerging--Assignment1) is public. An unauthenticated GitHub API check confirmed all 35 submission files match their local contents, with no private `.env`, alert state or cache files published.
-
-## Publish and submit
-
-Submit [this public GitHub repository URL](https://github.com/Ulviyya89/Software-Tools-and-Emerging--Assignment1) by **October 10, 2026, 11:59 PM** (course deadline). Publication is complete; submitting the link in the course portal remains the student's final step. Review the notebook and the documented channel substitution before submitting.
-
-The supplied ZIP includes the current executed notebook, delivery receipt and screenshot evidence, and excludes private configuration and caches.
 
 ## References
 
